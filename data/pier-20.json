@@ -1,0 +1,23 @@
+{
+  pier: "20",
+  member: false,
+  owners: [
+    { t: "", f: "Joan", m: "", l: "Baffes", s: "" },
+    { t: "", f: "Bill", m: "", l: "Baffes", s: "" },
+  ],
+  property: {
+    association: "Lake Geneva Manor",
+    name: "",
+    address: {
+      street: "",
+      city: "Lake Geneva",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

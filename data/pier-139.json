@@ -1,0 +1,22 @@
+{
+  pier: "139",
+  member: false,
+  owners: [
+    { t: "", f: "", m: "", l: "Griffith" s: ""  },
+  ],
+  property: {
+    association: "",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

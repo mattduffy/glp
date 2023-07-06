@@ -1,0 +1,21 @@
+{
+  pier: "141A",
+  member: false,
+  owners: [
+  ],
+  property: {
+    association: "Ara Glen",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

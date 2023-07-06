@@ -1,0 +1,23 @@
+{
+  pier: "163",
+  member: true,
+  owners: [
+    { t: "", f: "Warren", m: "", l: "Mula" s: ""  },
+    { t: "", f: "Maureen", m: "", l: "Mula" s: ""  },
+  ],
+  property: {
+    association: "",
+    name: "Three Bridges",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: "",
+  },
+}

@@ -1,0 +1,23 @@
+{
+  pier: "35",
+  member: true,
+  owners: [
+    { t: "", f: "Bob", m: "", l: "Larson", s: "" },
+    { t: "", f: "Renee", m: "", l: "Larson", s: "" },
+  ],
+  property: {
+    association: "Geneva Bay Estates",
+    name: "Butternut",
+    address: {
+      street: "",
+      city: "Lake Geneva",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

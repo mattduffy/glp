@@ -1,0 +1,25 @@
+{
+  pier: "156",
+  member: true,
+  owners: [
+    { t: "", f: "Nancy", m: "", l: "Baird" s: ""  },
+    { t: "", f: "Lanny", m: "", l: "Baird" s: ""  },
+    { t: "", f: "Nolan ", m: "", l: "Baird" s: "III"  },
+    { t: "", f: "Karen ", m: "", l: "Baird" s: ""  },
+  ],
+  property: {
+    association: "",
+    name: "Chateau North",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

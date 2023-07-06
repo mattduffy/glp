@@ -1,0 +1,22 @@
+{
+  pier: "98",
+  member: false,
+  owners: [
+    { t: "", f: "Geneva Oak Trail Trust", m: "", l: "" s: ""  },
+  ],
+  property: {
+    association: "S. B. Chapin",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

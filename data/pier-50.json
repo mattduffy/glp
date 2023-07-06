@@ -1,0 +1,23 @@
+{
+  pier: "50",
+  member: true,
+  owners: [
+    { t: "", f: "Geoff", m: "", l: "Wrigley Rusack", s: "" },
+    { t: "", f: "Allison", m: "", l: "Wrigley Rusack", s: "" },
+  ],
+  property: {
+    association: "",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

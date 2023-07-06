@@ -1,0 +1,22 @@
+{
+  pier: "175",
+  member: false,
+  owners: [
+    { t: "", f: "Marjorie", m: "H", l: "Greenfield" s: ""  },
+  ],
+  property: {
+    association: "",
+    name: "Stone Gates",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: "",
+  },
+}

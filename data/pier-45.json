@@ -1,0 +1,22 @@
+{
+  pier: "45",
+  member: false,
+  owners: [
+    { t: "", f: "Craig", m: "", l: "Tomera", s: "" },
+  ],
+  property: {
+    association: "",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

@@ -1,0 +1,23 @@
+{
+  pier: "93",
+  member: true,
+  owners: [
+    { t: "", f: "Ulla", m: "E", l: "Brunk" s: ""  },
+    { t: "", f: "Anna", m: "", l: "Brunk Peterson" s: ""  },
+  ],
+  property: {
+    association: "S. B. Chapin",
+    name: "Solliden",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

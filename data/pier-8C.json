@@ -1,0 +1,22 @@
+{
+  pier: "8C",
+  member: true,
+  owners: [
+    { t: "", f: "James", m: "", l: "Owens", s: "" },
+  ],
+  property: {
+    association: "",
+    name: "",
+    address: {
+      street: "",
+      city: "Lake Geneva",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

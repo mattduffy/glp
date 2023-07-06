@@ -1,0 +1,23 @@
+{
+  pier: "46A",
+  member: true,
+  owners: [
+    { t: "", f: "Susan", m: "", l: "Hagenah", s: "" },
+    { t: "", f: "Phil", m: "", l: "Hagenah", s: "" },
+  ],
+  property: {
+    association: "",
+    name: "The Lodge",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

@@ -1,0 +1,23 @@
+{
+  pier: "181",
+  member: false,
+  owners: [
+    { t: "", f: "Paul", m: "H", l: "Daugerdaus" s: ""  },
+    { t: "", f: "Eleanor", m: "H", l: "Daugerdaus" s: ""  },
+  ],
+  property: {
+    association: "",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: "",
+  },
+}

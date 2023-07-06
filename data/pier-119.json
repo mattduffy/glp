@@ -1,0 +1,22 @@
+{
+  pier: "119",
+  member: false,
+  owners: [
+    { t: "", f: "David", m: "W", l: "King" s: ""  },
+  ],
+  property: {
+    association: "Elgin Club",
+    name: "Restmore",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

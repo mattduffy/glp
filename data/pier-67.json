@@ -1,0 +1,23 @@
+{
+  pier: "67",
+  member: true,
+  owners: [
+    { t: "", f: "Patrick", m: "", l: "Ryan" s: ""  },
+    { t: "", f: "Shirley", m: "", l: "Ryan" s: ""  },
+  ],
+  property: {
+    association: "",
+    name: "House in the Woods",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

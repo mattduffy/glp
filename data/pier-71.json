@@ -1,0 +1,23 @@
+{
+  pier: "71",
+  member: true,
+  owners: [
+    { t: "", f: "Dennis", m: "", l: "Markos" s: ""  },
+    { t: "", f: "Carol", m: "", l: "Markos" s: ""  },
+  ],
+  property: {
+    association: "The Folly",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

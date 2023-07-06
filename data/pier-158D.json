@@ -1,0 +1,22 @@
+{
+  pier: "158D",
+  member: false,
+  owners: [
+    { t: "", f: "Oak Glen Association Pier", m: "", l: "" s: ""  },
+  ],
+  property: {
+    association: "Oak Glen",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

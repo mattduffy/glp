@@ -1,0 +1,22 @@
+{
+  pier: "63",
+  member: true,
+  owners: [
+    { t: "", f: "Rasin Family", m: "", l: "" s: ""  },
+  ],
+  property: {
+    association: "",
+    name: "Hodge Podge Cottage",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

@@ -1,0 +1,22 @@
+{
+  pier: "107",
+  member: true,
+  owners: [
+    { t: "", f: "Jerome R. & Denise L. Vainisi Family, LLC", m: "", l: "" s: ""  },
+  ],
+  property: {
+    association: "Elgin Club",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

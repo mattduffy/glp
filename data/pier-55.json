@@ -1,0 +1,22 @@
+{
+  pier: "55",
+  member: true,
+  owners: [
+    { t: "", f: "Walter", m: "G", l: "Larkin" s: ""  },
+  ],
+  property: {
+    association: "",
+    name: "Deadwood",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

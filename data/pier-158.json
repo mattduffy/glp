@@ -1,0 +1,22 @@
+{
+  pier: "158",
+  member: false,
+  owners: [
+    { t: "", f: "", m: "", l: "O’Malley" s: ""  },
+  ],
+  property: {
+    association: "",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

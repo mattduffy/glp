@@ -1,0 +1,22 @@
+{
+  pier: "167A",
+  member: false,
+  owners: [
+    { t: "", f: "William", m: "B", l: "Gage" s: "Jr."  },
+  ],
+  property: {
+    association: "",
+    name: "",
+    address: {
+      street: "",
+      city: "Williams Bay",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: "",
+  },
+}

@@ -1,0 +1,23 @@
+{
+  pier: "46B",
+  member: true,
+  owners: [
+    { t: "", f: "Tricia", m: "", l: "Hagenah", s: "" },
+    { t: "", f: "Will", m: "", l: "Hagenah", s: "" },
+  ],
+  property: {
+    association: "",
+    name: "Northwoodside",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

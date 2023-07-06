@@ -1,0 +1,22 @@
+{
+  pier: "9",
+  member: false,
+  owners: [
+    { t: "", f: "", m: "", l: "Simkus", s: "" },
+  ],
+  property: {
+    association: "",
+    name: "",
+    address: {
+      street: "",
+      city: "Lake Geneva",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

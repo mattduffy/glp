@@ -1,0 +1,23 @@
+{
+  pier: "180",
+  member: true,
+  owners: [
+    { t: "", f: "Charles", m: "H", l: "Wegner" s: ""  },
+    { t: "", f: "Tara", m: "H", l: "Wegner" s: ""  },
+  ],
+  property: {
+    association: "",
+    name: "Glen Annie",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: "",
+  },
+}

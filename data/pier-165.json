@@ -1,0 +1,23 @@
+{
+  pier: "164",
+  member: true,
+  owners: [
+    { t: "", f: "Charles", m: "", l: "Colman" s: ""  },
+    { t: "", f: "Dianna", m: "", l: "Colman" s: ""  },
+  ],
+  property: {
+    association: "",
+    name: "Pebble Point",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: "",
+  },
+}

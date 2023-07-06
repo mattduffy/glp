@@ -1,0 +1,23 @@
+{
+  pier: "155",
+  member: false,
+  owners: [
+    { t: "", f: "Terry", m: "", l: "Bolger" s: ""  },
+    { t: "", f: "Mary Jeanne", m: "", l: "Bolger" s: ""  },
+  ],
+  property: {
+    association: "",
+    name: "Oak View",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

@@ -1,0 +1,23 @@
+{
+  pier: "140A",
+  member: true,
+  owners: [
+    { t: "", f: "Sylvan Trail Association Pier", m: "", l: "" s: ""  },
+    { t: "", f: "Baxter", m: "", l: "Phillip" s: ""  },
+  ],
+  property: {
+    association: "Sylvan Trail",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

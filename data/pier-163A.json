@@ -1,0 +1,22 @@
+{
+  pier: "163A",
+  member: true,
+  owners: [
+    { t: "", f: "Gary", m: "R", l: "Bertrand" s: ""  },
+  ],
+  property: {
+    association: "",
+    name: "Serenity",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: "",
+  },
+}

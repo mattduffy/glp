@@ -1,0 +1,22 @@
+{
+  pier: "34",
+  member: true,
+  owners: [
+    { t: "", f: "Debbie", m: "", l: "Somerville", s: "" },
+  ],
+  property: {
+    association: "Geneva Bay Estates",
+    name: "Somervilla",
+    address: {
+      street: "",
+      city: "Lake Geneva",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

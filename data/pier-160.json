@@ -1,0 +1,23 @@
+{
+  pier: "160",
+  member: true,
+  owners: [
+    { t: "", f: "Michael", m: "", l: "Loeber" s: ""  },
+    { t: "", f: "Julie", m: "", l: "Loeber" s: ""  },
+  ],
+  property: {
+    association: "",
+    name: "Crystal Falls",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: "",
+  },
+}

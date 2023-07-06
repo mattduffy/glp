@@ -1,0 +1,22 @@
+{
+  pier: "8A",
+  member: false,
+  owners: [
+    { t: "", f: "W", m: "J", l: "Goes", s: "" },
+  ],
+  property: {
+    association: "",
+    name: "Blue Hill",
+    address: {
+      street: "",
+      city: "Lake Geneva",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

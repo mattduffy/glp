@@ -1,0 +1,22 @@
+{
+  pier: "69",
+  member: false,
+  owners: [
+    { t: "", f: "Ryan Family", m: "", l: "" s: ""  },
+  ],
+  property: {
+    association: "",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

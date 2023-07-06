@@ -1,0 +1,22 @@
+{
+  pier: "53",
+  member: true,
+  owners: [
+    { t: "", f: "William", m: "", l: "Wrigley", s: "Jr." },
+  ],
+  property: {
+    association: "",
+    name: "Boathouse",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

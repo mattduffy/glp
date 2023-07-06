@@ -1,0 +1,23 @@
+{
+  pier: "1",
+  member: true,
+  owners: [
+    { t: "", f: "Alan", m: "", l: "Bosworth", s: "" },
+    { t: "", f: "Kathi", m: "", l: "Bosworth", s: "" },
+  ],
+  property: {
+    association: "",
+    name: "",
+    address: {
+      street: "",
+      city: "Lake Geneva",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

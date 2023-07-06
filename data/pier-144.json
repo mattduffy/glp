@@ -1,0 +1,22 @@
+{
+  pier: "144",
+  member: true,
+  owners: [
+    { t: "", f: "Hendricks Family", m: "", l: "" s: ""  },
+  ],
+  property: {
+    association: "Knollwood",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

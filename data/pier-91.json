@@ -1,0 +1,23 @@
+{
+  pier: "91",
+  member: true,
+  owners: [
+    { t: "", f: "Dan", m: "", l: "Walsh" s: ""  },
+    { t: "", f: "Patty", m: "", l: "Walsh" s: ""  },
+  ],
+  property: {
+    association: "S. B. Chapin",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

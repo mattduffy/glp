@@ -1,0 +1,26 @@
+{
+  pier: "141B",
+  member: false,
+  owners: [
+    { t: "", f: "Ara Glen Association Pier", m: "", l: "" s: ""  },
+    { t: "", f: "Gene", m: "", l: "Needles" s: ""  },
+    { t: "", f: "Charlene", m: "", l: "Needles" s: ""  },
+    { t: "", f: "Chad", m: "", l: "Black" s: ""  },
+    { t: "", f: "Jennifer", m: "", l: "Ahlstrand" s: ""  },
+  ],
+  property: {
+    association: "Ara Glen",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

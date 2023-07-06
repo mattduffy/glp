@@ -1,0 +1,22 @@
+{
+  pier: "141",
+  member: false,
+  owners: [
+    { t: "", f: "Michael", m: "", l: "Ramlet" s: ""  },
+  ],
+  property: {
+    association: "Sylvan Trail",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

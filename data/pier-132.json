@@ -1,0 +1,23 @@
+{
+  pier: "132",
+  member: true,
+  owners: [
+    { t: "", f: "Brent", m: "", l: "Brodeski" s: ""  },
+    { t: "", f: "Sharon", m: "", l: "Brodeski" s: ""  },
+  ],
+  property: {
+    association: "",
+    name: "El Nido",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

@@ -1,0 +1,23 @@
+{
+  pier: "49",
+  member: true,
+  owners: [
+    { t: "", f: "Karl", m: "", l: "Otzen", s: "" },
+    { t: "", f: "Lucy", m: "", l: "Otzen", s: "" },
+  ],
+  property: {
+    association: "",
+    name: "Green Gables",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

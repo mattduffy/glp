@@ -1,0 +1,22 @@
+{
+  pier: "66",
+  member: false,
+  owners: [
+    { t: "", f: "Corbett", m: "", l: "Ryan" s: ""  },
+  ],
+  property: {
+    association: "",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

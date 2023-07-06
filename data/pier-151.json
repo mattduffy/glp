@@ -1,0 +1,23 @@
+{
+  pier: "151",
+  member: false,
+  owners: [
+    { t: "", f: "Rod", m: "", l: "Bolhous" s: ""  },
+    { t: "", f: "Kathy", m: "", l: "Bolhous" s: ""  },
+  ],
+  property: {
+    association: "",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

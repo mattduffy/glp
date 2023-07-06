@@ -1,0 +1,23 @@
+{
+  pier: "79",
+  member: false,
+  owners: [
+    { t: "", f: "Melissa", m: "", l: "McClayton" s: ""  },
+    { t: "", f: "William", m: "", l: "McClayton" s: ""  },
+  ],
+  property: {
+    association: "Bonnie Brae",
+    name: "Lane’s End",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

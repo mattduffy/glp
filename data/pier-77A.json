@@ -1,0 +1,21 @@
+{
+  pier: "77A",
+  member: false,
+  owners: [
+    ],
+  property: {
+    association: "Bonnie Brae",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

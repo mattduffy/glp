@@ -1,0 +1,22 @@
+{
+  pier: "104",
+  member: true,
+  owners: [
+    { t: "", f: "Sunset Hills Association", m: "", l: "" s: ""  },
+  ],
+  property: {
+    association: "Sunset Hills",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

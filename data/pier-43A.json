@@ -1,0 +1,22 @@
+{
+  pier: "43A",
+  member: false,
+  owners: [
+    { t: "", f: "Shady Lane Pier Association", m: "", l: "", s: "" },
+  ],
+  property: {
+    association: "Shady Lane Pier Association",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

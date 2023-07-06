@@ -1,0 +1,23 @@
+{
+  pier: "166",
+  member: true,
+  owners: [
+    { t: "", f: "Carl", m: "", l: "Lundstrom" s: ""  },
+    { t: "", f: "Kay", m: "", l: "Lundstrom" s: ""  },
+  ],
+  property: {
+    association: "",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: "",
+  },
+}

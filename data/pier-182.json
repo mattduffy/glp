@@ -1,0 +1,23 @@
+{
+  pier: "182",
+  member: false,
+  owners: [
+    { t: "", f: "James", m: "H", l: "Zaleski" s: ""  },
+    { t: "", f: "Beverly", m: "H", l: "Zaleski" s: ""  },
+  ],
+  property: {
+    association: "",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: "",
+  },
+}

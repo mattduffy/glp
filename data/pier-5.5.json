@@ -1,0 +1,23 @@
+{
+  pier: "5.5",
+  member: true,
+  owners: [
+    { t: "", f: "Ed", m: "", l: "Borkowski", s: "" },
+    { t: "", f: "Linda", m: "", l: "Borkowski", s: "" },
+  ],
+  property: {
+    association: "",
+    name: "Starboard Property",
+    address: {
+      street: "",
+      city: "Lake Geneva",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

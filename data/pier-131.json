@@ -1,0 +1,23 @@
+{
+  pier: "131",
+  member: false,
+  owners: [
+    { t: "", f: "Larry", m: "", l: "Rayner" s: ""  },
+    { t: "", f: "Sally", m: "", l: "Rayner" s: ""  },
+  ],
+  property: {
+    association: "",
+    name: "Jerseyhurst",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

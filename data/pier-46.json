@@ -1,0 +1,23 @@
+{
+  pier: "46",
+  member: true,
+  owners: [
+    { t: "", f: "Dana", m: "", l: "Hagenah", s: "" },
+    { t: "", f: "John", m: "", l: "Hagenah", s: "" },
+  ],
+  property: {
+    association: "",
+    name: "Shoreside",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

@@ -1,0 +1,23 @@
+{
+  pier: "145",
+  member: true,
+  owners: [
+    { t: "", f: "Kenneth", m: "", l: "Mannino" s: ""  },
+    { t: "", f: "Barbara", m: "", l: "Mannino" s: ""  },
+  ],
+  property: {
+    association: "Knollwood",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

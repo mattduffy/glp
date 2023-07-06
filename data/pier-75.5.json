@@ -1,0 +1,23 @@
+{
+  pier: "75.5",
+  member: true,
+  owners: [
+    { t: "", f: "Margie", m: "", l: "Riordan" s: ""  },
+    { t: "", f: "Tom", m: "", l: "Riordan" s: ""  },
+  ],
+  property: {
+    association: "Bonnie Brae",
+    name: "Blossom Hill",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

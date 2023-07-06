@@ -1,0 +1,22 @@
+{
+  pier: "116",
+  member: false,
+  owners: [
+    { t: "", f: "Couffer Family", m: "", l: "" s: ""  },
+  ],
+  property: {
+    association: "Elgin Club",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

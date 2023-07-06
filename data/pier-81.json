@@ -1,0 +1,22 @@
+{
+  pier: "81",
+  member: true,
+  owners: [
+    { t: "", f: "Sherwin", m: "", l: "Friedman" s: ""  },
+  ],
+  property: {
+    association: "Bonnie Brae",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

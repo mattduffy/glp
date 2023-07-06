@@ -1,0 +1,22 @@
+{
+  pier: "111",
+  member: true,
+  owners: [
+    { t: "", f: "Juliana", m: "", l: "Hummel" s: ""  },
+  ],
+  property: {
+    association: "Elgin Club",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

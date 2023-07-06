@@ -1,0 +1,25 @@
+{
+  pier: "124",
+  member: false,
+  owners: [
+    { t: "", f: "Dale", m: "", l: "Caputo" s: ""  },
+    { t: "", f: "Bonnie", m: "", l: "Caputo" s: ""  },
+    { t: "", f: "Andrea", m: "", l: "Gibbs" s: ""  },
+    { t: "", f: "Jerry", m: "", l: "Gibbs" s: ""  },
+  ],
+  property: {
+    association: "Elgin Club",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

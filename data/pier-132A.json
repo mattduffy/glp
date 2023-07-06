@@ -1,0 +1,23 @@
+{
+  pier: "132A",
+  member: true,
+  owners: [
+    { t: "", f: "Lee", m: "", l: "Tenzer" s: ""  },
+    { t: "", f: "Marilyn", m: "", l: "Tenzer" s: ""  },
+  ],
+  property: {
+    association: "",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: "",
+  },
+}

@@ -1,0 +1,22 @@
+{
+  pier: "140",
+  member: false,
+  owners: [
+    { t: "", f: "Howard", m: "A", l: "Vaughan" s: "Jr."  },
+  ],
+  property: {
+    association: "Sylvan Trail",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

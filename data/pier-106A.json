@@ -1,0 +1,25 @@
+{
+  pier: "106A",
+  member: true,
+  owners: [
+    { t: "", f: "Stephanie", m: "", l: "Bragg" s: ""  },
+    { t: "", f: "Scott", m: "", l: "Bragg" s: ""  },
+    { t: "", f: "Debbie", m: "", l: "Saran" s: ""  },
+    { t: "", f: "Mark", m: "", l: "Saran" s: ""  },
+  ],
+  property: {
+    association: "",
+    name: "Camp Highview",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

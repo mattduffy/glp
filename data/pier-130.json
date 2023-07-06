@@ -1,0 +1,23 @@
+{
+  pier: "130",
+  member: false,
+  owners: [
+    { t: "", f: "Ignas", m: "", l: "Labanauskas" s: ""  },
+    { t: "", f: "Maureen", m: "", l: "Labanauskas" s: ""  },
+  ],
+  property: {
+    association: "",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

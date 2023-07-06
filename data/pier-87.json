@@ -1,0 +1,22 @@
+{
+  pier: "87",
+  member: false,
+  owners: [
+    { t: "", f: "Alta Vista Association Pier", m: "", l: "" s: ""  },
+  ],
+  property: {
+    association: "Alta Vista",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

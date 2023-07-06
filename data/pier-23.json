@@ -1,0 +1,22 @@
+{
+  pier: "23",
+  member: true,
+  owners: [
+    { t: "", f: "Matustik Family Partnership", m: "", l: "", s: "" },
+  ],
+  property: {
+    association: "Lake Geneva Manor",
+    name: "",
+    address: {
+      street: "",
+      city: "Lake Geneva",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

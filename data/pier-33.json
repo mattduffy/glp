@@ -1,0 +1,22 @@
+{
+  pier: "33",
+  member: false,
+  owners: [
+    { t: "", f: "George", m: "", l: "Roth", s: "" },
+  ],
+  property: {
+    association: "Geneva Bay Estates",
+    name: "",
+    address: {
+      street: "",
+      city: "Lake Geneva",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

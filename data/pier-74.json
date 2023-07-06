@@ -1,0 +1,22 @@
+{
+  pier: "74",
+  member: false,
+  owners: [
+    { t: "", f: "Erik", m: "", l: "Eiseman" s: ""  },
+  ],
+  property: {
+    association: "Bonnie Brae",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

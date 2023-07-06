@@ -1,0 +1,22 @@
+{
+  pier: "94",
+  member: true,
+  owners: [
+    { t: "", f: "The Graber Family", m: "", l: "" s: ""  },
+  ],
+  property: {
+    association: "S. B. Chapin",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}

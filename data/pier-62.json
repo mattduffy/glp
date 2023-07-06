@@ -1,0 +1,22 @@
+{
+  pier: "62",
+  member: false,
+  owners: [
+    { t: "", f: "Ashburton Estate", m: "", l: "" s: ""  },
+  ],
+  property: {
+    association: "",
+    name: "Ashburton",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+}
