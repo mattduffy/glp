@@ -1,9 +1,10 @@
 {
-  pier: "169",
+  pier: "170",
   member: true,
+  membershipType: "",
   owners: [
-    { t: "", f: "Mark", m: "", l: "Aschliman" s: ""  },
-    { t: "", f: "Patty", m: "", l: "Aschliman" s: ""  },
+    { t: "", f: "Dan", m: "", l: "Casey" s: ""  },
+    { t: "", f: "Donna", m: "", l: "Casey" s: ""  },
   ],
   property: {
     association: "",

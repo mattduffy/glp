@@ -1,6 +1,7 @@
 {
   pier: "16",
   member: false,
+  membershipType: "",
   owners: [
     { t: "", f: "Lake Geneva Manor Swim Pier", m: "", l: "", s: "" },
   ],

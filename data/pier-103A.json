@@ -1,6 +1,7 @@
 {
   pier: "103A",
   member: true,
+  membershipType: "",
   owners: [
     { t: "", f: "Sunset Hills Association", m: "", l: "" s: ""  },
   ],

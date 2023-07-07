@@ -1,6 +1,7 @@
 {
   pier: "140A",
   member: true,
+  membershipType: "",
   owners: [
     { t: "", f: "Sylvan Trail Association Pier", m: "", l: "" s: ""  },
     { t: "", f: "Baxter", m: "", l: "Phillip" s: ""  },

@@ -1,0 +1,23 @@
+{
+  pier: "204",
+  member: true,
+  membershipType: "",
+  owners: [
+    { t: "", f: "Mr. & Mrs.James", m: "R", l: "Phillip" s: ""  },
+  ],
+  property: {
+    association: "Cedar Point Park",
+    name: "Port Phillip",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: "",
+  },
+}

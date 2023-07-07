@@ -1,6 +1,7 @@
 {
   pier: "30",
   member: false,
+  membershipType: "",
   owners: [
     { t: "", f: "Covenant Harbor Bible Camp", m: "", l: "", s: "" },
   ],

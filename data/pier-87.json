@@ -1,6 +1,7 @@
 {
   pier: "87",
   member: false,
+  membershipType: "",
   owners: [
     { t: "", f: "Alta Vista Association Pier", m: "", l: "" s: ""  },
   ],

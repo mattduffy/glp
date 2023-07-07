@@ -1,6 +1,7 @@
 {
   pier: "141B",
   member: false,
+  membershipType: "",
   owners: [
     { t: "", f: "Ara Glen Association Pier", m: "", l: "" s: ""  },
     { t: "", f: "Gene", m: "", l: "Needles" s: ""  },

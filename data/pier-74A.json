@@ -1,6 +1,7 @@
 {
   pier: "74A",
   member: true,
+  membershipType: "",
   owners: [
     { t: "", f: "Dvorak Family", m: "", l: "" s: ""  },
   ],

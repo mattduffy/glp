@@ -1,6 +1,7 @@
 {
   pier: "24",
   member: true,
+  membershipType: "",
   owners: [
     { t: "", f: "Abra", m: "Prentice", l: "Wilkin", s: "" },
   ],

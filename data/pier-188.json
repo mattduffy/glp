@@ -1,0 +1,24 @@
+{
+  pier: "188",
+  member: true,
+  membershipType: "",
+  owners: [
+      { t: "", f: "Carol", m: "", l: "Hays" s: ""  },
+      { t: "", f: "Andy", m: "", l: "Hays" s: ""  },
+  ],
+  property: {
+    association: "Cedar Point Park",
+    name: "Hays Acre",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: "",
+  },
+}

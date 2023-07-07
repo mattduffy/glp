@@ -1,6 +1,7 @@
 {
   pier: "23",
   member: true,
+  membershipType: "",
   owners: [
     { t: "", f: "Matustik Family Partnership", m: "", l: "", s: "" },
   ],

@@ -1,6 +1,7 @@
 {
   pier: "31",
   member: false,
+  membershipType: "",
   owners: [
   ],
   property: {

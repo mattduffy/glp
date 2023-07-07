@@ -1,6 +1,7 @@
 {
   pier: "103",
   member: false,
+  membershipType: "",
   owners: [
     { t: "", f: "Geneva Oaks Association Pier", m: "", l: "" s: ""  },
   ],

@@ -1,6 +1,7 @@
 {
   pier: "38B",
   member: false,
+  membershipType: "",
   owners: [
     { t: "", f: "Geneva Bay Estates Assn", m: "", l: "", s: "" },
   ],

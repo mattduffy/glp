@@ -1,22 +1,24 @@
 {
-  pier: "158",
-  member: false,
+  pier: "159",
+  member: true,
+  membershipType: "",
   owners: [
-    { t: "", f: "", m: "", l: "O’Malley" s: ""  },
+    { t: "", f: "Brian", m: "", l: "Fahrney" s: ""  },
+    { t: "", f: "Mary Beth", m: "", l: "Fahrney" s: ""  },
   ],
   property: {
     association: "",
     name: "",
     address: {
-      street: null,
+      street: "",
       city: "Linn",
       state: "WI",
-      zip: null,
+      zip: "",
     },
   },
   loc: {
-    lon: null,
-    lat: null,
-    geohash: null
+    lon: "",
+    lat: "",
+    geohash: ""
   },
 }

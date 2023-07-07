@@ -1,6 +1,7 @@
 {
-  pier: "167A",
+  pier: "168",
   member: false,
+  membershipType: "",
   owners: [
     { t: "", f: "William", m: "B", l: "Gage" s: "Jr."  },
   ],
@@ -9,7 +10,7 @@
     name: "",
     address: {
       street: "",
-      city: "Linn",
+      city: "Williams Bay",
       state: "WI",
       zip: "",
     },

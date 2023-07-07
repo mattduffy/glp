@@ -1,22 +1,24 @@
 {
-  pier: "108",
+  pier: "109",
   member: false,
+  membershipType: "",
   owners: [
-    { t: "", f: "Steve", m: "", l: "Geldermann" s: ""  },
+    { t: "", f: "Steve", m: "", l: "Chaouki" s: ""  },
+    { t: "", f: "Jymme", m: "", l: "Chaouki" s: ""  },
   ],
   property: {
     association: "Elgin Club",
-    name: null,
+    name: "",
     address: {
-      street: null,
+      street: "",
       city: "Linn",
       state: "WI",
-      zip: null,
+      zip: "",
     },
   },
   loc: {
-    lon: null,
-    lat: null,
-    geohash: null
+    lon: "",
+    lat: "",
+    geohash: ""
   },
 }

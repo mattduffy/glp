@@ -1,6 +1,7 @@
 {
   pier: "62",
   member: false,
+  membershipType: "",
   owners: [
     { t: "", f: "Ashburton Estate", m: "", l: "" s: ""  },
   ],

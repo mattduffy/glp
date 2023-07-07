@@ -1,6 +1,7 @@
 {
   pier: "158C",
   member: true,
+  membershipType: "",
   owners: [
     { t: "", f: "Oak Glen Association Pier", m: "", l: "" s: ""  },
     { t: "", f: "Jim", m: "", l: "Wycpalek" s: ""  },

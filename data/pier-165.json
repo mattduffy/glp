@@ -1,9 +1,9 @@
 {
-  pier: "164",
+  pier: "165",
   member: true,
+  membershipType: "",
   owners: [
-    { t: "", f: "Charles", m: "", l: "Colman" s: ""  },
-    { t: "", f: "Dianna", m: "", l: "Colman" s: ""  },
+    { t: "", f: "Julie", m: "", l: "Colman Hurt" s: ""  },
   ],
   property: {
     association: "",

@@ -1,6 +1,7 @@
 {
   pier: "38A",
   member: false,
+  membershipType: "",
   owners: [
     { t: "", f: "Wendy", m: "", l: "Bellagamba", s: "" },
     { t: "", f: "Tim", m: "", l: "Bellagamba", s: "" },
