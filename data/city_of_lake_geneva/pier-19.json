@@ -1,28 +1,28 @@
 {
-  pier: "19",
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "pier": "19",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  property: {
-    association: "Lake Geneva Manor",
-    name: "Willows Retreat",
-    address: {
-      street: "",
-      city: "Lake Geneva",
-      state: "WI",
-      zip: "",
-    },
+  "property": {
+    "association": "Lake Geneva Manor",
+    "name": "Willows Retreat",
+    "address": {
+      "street": "",
+      "city": "Lake Geneva",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  owners: [
+  "owners": [
     {
-      member: true,
-      membershipType: "",
-      members: [
-        { t: "", f: "Thomas", m: "D", l: "Langer", s: "" },
-        { t: "", f: "Audrey ", m: "J", l: "Langer", s: "" },
-      ],
-    },
-  ],
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Thomas", "m": "D", "l": "Langer", "s": "" },
+        { "t": "", "f": "Audrey ", "m": "J", "l": "Langer", "s": "" }
+      ]
+    }
+  ]
 }

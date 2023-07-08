@@ -1,28 +1,28 @@
 {
-  pier: "9B",
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "pier": "9B",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  property: {
-    association: "",
-    name: "",
-    address: {
-      street: "",
-      city: "Lake Geneva",
-      state: "WI",
-      zip: "",
-    },
+  "property": {
+    "association": "",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Lake Geneva",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  owners: [
+  "owners": [
     {
-      member: false,
-      membershipType: "",
-      members: [
-        { t: "", f: "Don", m: "", l: "Adams", s: "" },
-        { t: "", f: "Mary", m: "", l: "Adams", s: "" },
-      ],
-    },
-  ].
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Don", "m": "", "l": "Adams", "s": "" },
+        { "t": "", "f": "Mary", "m": "", "l": "Adams", "s": "" }
+      ]
+    }
+  ]
 }

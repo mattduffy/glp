@@ -1,27 +1,27 @@
 {
-  pier: "23",
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "pier": "23",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  property: {
-    association: "Lake Geneva Manor",
-    name: "",
-    address: {
-      street: "",
-      city: "Lake Geneva",
-      state: "WI",
-      zip: "",
-    },
+  "property": {
+    "association": "Lake Geneva Manor",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Lake Geneva",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  owners: [
+  "owners": [
     {
-      member: true,
-      membershipType: "",
-      members: [
-        { t: "", f: "Matustik Family Partnership", m: "", l: "", s: "" },
-      ],
-    },
-  ],
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Matustik Family Partnership", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
 }

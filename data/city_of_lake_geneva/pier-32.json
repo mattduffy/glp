@@ -1,28 +1,28 @@
 {
-  pier: "32",
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "pier": "32",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  property: {
-    association: "Geneva Bay Estates",
-    name: "",
-    address: {
-      street: "",
-      city: "Lake Geneva",
-      state: "WI",
-      zip: "",
-    },
+  "property": {
+    "association": "Geneva Bay Estates",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Lake Geneva",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  owners: [
+  "owners": [
     {
-      member: false,
-      membershipType: "",
-      members: [
-        { t: "", f: "Bill", m: "", l: "Young", s: "" },
-        { t: "", f: "Carla", m: "", l: "Young", s: "" },
-      ],
-    },
-  ],
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Bill", "m": "", "l": "Young", "s": "" },
+        { "t": "", "f": "Carla", "m": "", "l": "Young", "s": "" }
+      ]
+    }
+  ]
 }

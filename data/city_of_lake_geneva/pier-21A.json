@@ -1,28 +1,28 @@
 {
-  pier: "21A",
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "pier": "21A",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  property: {
-    association: "Lake Geneva Manor",
-    name: "",
-    address: {
-      street: "",
-      city: "Lake Geneva",
-      state: "WI",
-      zip: "",
-    },
+  "property": {
+    "association": "Lake Geneva Manor",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Lake Geneva",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  owners: [
+  "owners": [
     {
-      member: true,
-      membershipType: "",
-      members: [
-        { t: "", f: "Paul", m: "", l: "Lederer", s: "" },
-        { t: "", f: "Joanne", m: "", l: "Lederer", s: "" },
-      ],
-    },
-  ],
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Paul", "m": "", "l": "Lederer", "s": "" },
+        { "t": "", "f": "Joanne", "m": "", "l": "Lederer", "s": "" }
+      ]
+    }
+  ]
 }

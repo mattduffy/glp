@@ -1,75 +1,75 @@
 {
-  pier: "17",
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "pier": "17",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  property: {
-    association: "Lake Geneva Manor",
-    name: "",
-    address: {
-      street: "",
-      city: "Lake Geneva",
-      state: "WI",
-      zip: "",
-    },
+  "property": {
+    "association": "Lake Geneva Manor",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Lake Geneva",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  owners: [
+  "owners": [
     {
-      member: false,
-      membershipType: "",
-      members: [
-        { t: "", f: "Lake Geneva Manor Boat Pier", m: "", l: "", s: "" },
-      ],
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Lake Geneva Manor Boat Pier", "m": "", "l": "", "s": "" }
+      ]
     },
     {
-      member: true,
-      membershipType: "",
-      members: [
-        { t: "", f: "Hugh", m: "", l: "Connolly", s: "" },
-        { t: "", f: "Carrie", m: "", l: "Connolly", s: "" },
-      ],
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Hugh", "m": "", "l": "Connolly", "s": "" },
+        { "t": "", "f": "Carrie", "m": "", "l": "Connolly", "s": "" }
+      ]
     },
     {
-      member: true,
-      membershipType: "",
-      members: [
-        { t: "", f: "Tom", m: "", l: "Myers", s: "" },
-        { t: "", f: "Mary", m: "", l: "Myers", s: "" },
-      ],
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Tom", "m": "", "l": "Myers", "s": "" },
+        { "t": "", "f": "Mary", "m": "", "l": "Myers", "s": "" }
+      ]
     },
     {
-      member: true,
-      membershipType: "",
-      members: [
-        { t: "", f: "Tom", m: "", l: "Nickols", s: "" },
-        { t: "", f: "Janet", m: "", l: "Nickols", s: "" },
-      ],
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Tom", "m": "", "l": "Nickols", "s": "" },
+        { "t": "", "f": "Janet", "m": "", "l": "Nickols", "s": "" }
+      ]
     },
     {
-      member: true,
-      membershipType: "",
-      owners: [
-        { t: "", f: "David", m: "", l: "Pezza", s: "" },
-        { t: "", f: "Paula", m: "", l: "Pezza", s: "" },
-      ],
+      "member": true,
+      "membershipType": "",
+      "owners": [
+        { "t": "", "f": "David", "m": "", "l": "Pezza", "s": "" },
+        { "t": "", "f": "Paula", "m": "", "l": "Pezza", "s": "" }
+      ]
     },
     {
-      member: true,
-      membershipType: "",
-      members: [
-        { t: "", f: "David", m: "", l: "Tanking", s: "" },
-        { t: "", f: "Aimee", m: "", l: "Tanking", s: "" },
-      ],
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "David", "m": "", "l": "Tanking", "s": "" },
+        { "t": "", "f": "Aimee", "m": "", "l": "Tanking", "s": "" }
+      ]
     },
     {
-      member: true,
-      membershipType: "",
-      members: [
-        { t: "", f: "Carol", m: "", l: "Zimmermann", s: "" },
-        { t: "", f: "George", m: "", l: "Zimmermann", s: "" },
-      ],
-    },
-  ],
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Carol", "m": "", "l": "Zimmermann", "s": "" },
+        { "t": "", "f": "George", "m": "", "l": "Zimmermann", "s": "" }
+      ]
+    }
+  ]
 }

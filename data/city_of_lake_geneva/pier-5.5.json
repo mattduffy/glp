@@ -1,28 +1,28 @@
 {
-  pier: "5.5",
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "pier": "5.5",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  property: {
-    association: "",
-    name: "Starboard Property",
-    address: {
-      street: "",
-      city: "Lake Geneva",
-      state: "WI",
-      zip: "",
-    },
+  "property": {
+    "association": "",
+    "name": "Starboard Property",
+    "address": {
+      "street": "",
+      "city": "Lake Geneva",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  owners: [
+  "owners": [
     {
-      member: true,
-      membershipType: "",
-      members: [
-        { t: "", f: "Ed", m: "", l: "Borkowski", s: "" },
-        { t: "", f: "Linda", m: "", l: "Borkowski", s: "" },
-      ],
-    },
-  ],
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Ed", "m": "", "l": "Borkowski", "s": "" },
+        { "t": "", "f": "Linda", "m": "", "l": "Borkowski", "s": "" }
+      ]
+    }
+  ]
 }

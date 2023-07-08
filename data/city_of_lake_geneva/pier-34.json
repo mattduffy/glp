@@ -1,27 +1,27 @@
 {
-  pier: "34",
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "pier": "34",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  property: {
-    association: "Geneva Bay Estates",
-    name: "Somervilla",
-    address: {
-      street: "",
-      city: "Lake Geneva",
-      state: "WI",
-      zip: "",
-    },
+  "property": {
+    "association": "Geneva Bay Estates",
+    "name": "Somervilla",
+    "address": {
+      "street": "",
+      "city": "Lake Geneva",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  owners: [
+  "owners": [
     {
-      member: true,
-      membershipType: "",
-      members: [
-        { t: "", f: "Debbie", m: "", l: "Somerville", s: "" },
-      ],
-    },
-  ],
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Debbie", "m": "", "l": "Somerville", "s": "" }
+      ]
+    }
+  ]
 }

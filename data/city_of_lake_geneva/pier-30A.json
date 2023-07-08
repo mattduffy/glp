@@ -1,27 +1,27 @@
 {
-  pier: "30A",
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "pier": "30A",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  property: {
-    association: "Covenant Harbor Bible Camp",
-    name: "",
-    address: {
-      street: "",
-      city: "Lake Geneva",
-      state: "WI",
-      zip: "",
-    },
+  "property": {
+    "association": "Covenant Harbor Bible Camp",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Lake Geneva",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  owners: [
+  "owners": [
     {
-      member: false,
-      membershipType: "",
-      members: [
-        { t: "", f: "Covenant Harbor Bible Camp", m: "", l: "", s: "" },
-      ],
-    },
-  ],
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Covenant Harbor Bible Camp", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
 }
