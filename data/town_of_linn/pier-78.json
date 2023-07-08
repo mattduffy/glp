@@ -1,0 +1,28 @@
+{
+  pier: "78",
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+  property: {
+    association: "Bonnie Brae",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  owners: [
+    {
+      member: true,
+      membershipType: "",
+      members: [
+        { t: "", f: "Kenneth", m: "", l: "Trent" s: ""  },
+        { t: "", f: "Tara", m: "", l: "Trent" s: ""  },
+      ],
+    },
+  ],
+}

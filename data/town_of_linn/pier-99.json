@@ -1,0 +1,28 @@
+{
+  pier: "99",
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+  property: {
+    association: "S. B. Chapin",
+    name: "Willow Bend",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  owners: [
+    {
+      member: true,
+      membershipType: "",
+      members: [
+        { t: "", f: "Annette", m: "", l: "Ebert" s: ""  },
+        { t: "", f: "Jim", m: "", l: "Ebert" s: ""  },
+      ],
+    },
+  ],
+}

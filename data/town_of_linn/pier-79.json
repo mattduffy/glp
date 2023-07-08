@@ -1,0 +1,28 @@
+{
+  pier: "79",
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+  property: {
+    association: "Bonnie Brae",
+    name: "Lane’s End",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  owners: [
+    {
+      member: false,
+      membershipType: "",
+      members: [
+        { t: "", f: "Melissa", m: "", l: "McClayton" s: ""  },
+        { t: "", f: "William", m: "", l: "McClayton" s: ""  },
+      ],
+    },
+  ],
+}

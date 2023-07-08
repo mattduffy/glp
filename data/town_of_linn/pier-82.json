@@ -1,0 +1,28 @@
+{
+  pier: "82",
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+  property: {
+    association: "Bonnie Brae",
+    name: "Nebel North",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  owners: [
+    {
+      member: true,
+      membershipType: "",
+      members: [
+        { t: "", f: "Jack", m: "", l: "Nebel" s: ""  },
+        { t: "", f: "Maureen", m: "", l: "Nebel" s: ""  },
+      ],
+    },
+  ],
+}

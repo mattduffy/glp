@@ -1,0 +1,27 @@
+{
+  pier: "103",
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+  property: {
+    association: "Geneva Oaks",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  owners: [
+    {
+      member: false,
+      membershipType: "",
+      members: [
+        { t: "", f: "Geneva Oaks Association Pier", m: "", l: "" s: ""  },
+      ],
+    },
+  ],
+}

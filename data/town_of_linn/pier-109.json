@@ -1,0 +1,28 @@
+{
+  pier: "109",
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+  property: {
+    association: "Elgin Club",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  owners: [
+    {
+      member: false,
+      membershipType: "",
+      members: [
+        { t: "", f: "Steve", m: "", l: "Chaouki" s: "" },
+        { t: "", f: "Jymme", m: "", l: "Chaouki" s: "" },
+      ],
+    },
+  ],
+}

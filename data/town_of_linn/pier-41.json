@@ -1,0 +1,28 @@
+{
+  pier: "41",
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+  property: {
+    association: "Shady Lane Pier Association",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  owners: [
+    {
+      member: false,
+      membershipType: "",
+      members: [
+        { t: "", f: "Rick", m: "", l: "Neuman", s: "" },
+        { t: "", f: "Nancy", m: "", l: "Neuman", s: "" },
+      ],
+    },
+  ],
+}

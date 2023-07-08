@@ -1,0 +1,24 @@
+{
+  pier: "220B",
+  member: true,
+  membershipType: "",
+  owners: [
+    { t: "", f: "Craig", m: "", l: "Hudson" s: ""  },
+    { t: "", f: "Kathie", m: "", l: "Hudson" s: ""  },
+  ],
+  property: {
+    association: "Cedar Point Park",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: "",
+  },
+}

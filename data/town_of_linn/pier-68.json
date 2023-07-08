@@ -1,0 +1,28 @@
+{
+  pier: "68",
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+  property: {
+    association: "",
+    name: "The Narrows",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  owners: [
+    {
+      member: true,
+      membershipType: "",
+      members: [
+        { t: "", f: "Lydia", m: "", l: "Ryan" s: ""  },
+        { t: "", f: "Patrick", m: "", l: "Ryan" s: "Jr."  },
+      ],
+    },
+  ],
+}

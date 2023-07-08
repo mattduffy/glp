@@ -1,0 +1,95 @@
+[
+  {
+    pier: "219",
+    member: false,
+    membershipType: "",
+    owners: [
+      { t: "", f: "Cedar Point Park Pier", m: "", l: "" s: ""  },
+    ],
+    property: {
+      association: "Cedar Point Park",
+      name: "",
+      address: {
+        street: "",
+        city: "Linn",
+        state: "WI",
+        zip: "",
+      },
+    },
+    loc: {
+      lon: "",
+      lat: "",
+      geohash: "",
+    },
+  },
+  {
+    pier: "219",
+    member: true,
+    membershipType: "",
+    owners: [
+      { t: "", f: "Marianne", m: "", l: "Bonifacic" s: ""  },
+      { t: "", f: "Frank", m: "", l: "Bonifacic" s: ""  },
+    ],
+    property: {
+      association: "Cedar Point Park",
+      name: "",
+      address: {
+        street: "",
+        city: "Linn",
+        state: "WI",
+        zip: "",
+      },
+    },
+    loc: {
+      lon: "",
+      lat: "",
+      geohash: "",
+    },
+  },
+  {
+    pier: "219",
+    member: true,
+    membershipType: "",
+    owners: [
+      { t: "", f: "Alice", m: "J", l: "Morava" s: ""  },
+    ],
+    property: {
+      association: "Cedar Point Park",
+      name: "",
+      address: {
+        street: "",
+        city: "Linn",
+        state: "WI",
+        zip: "",
+      },
+    },
+    loc: {
+      lon: "",
+      lat: "",
+      geohash: "",
+    },
+  },
+  {
+    pier: "219",
+    member: true,
+    membershipType: "",
+    owners: [
+      { t: "", f: "Linda", m: "J", l: "Tonge" s: ""  },
+    ],
+    property: {
+      association: "Cedar Point Park",
+      name: "",
+      address: {
+        street: "",
+        city: "Linn",
+        state: "WI",
+        zip: "",
+      },
+    },
+    loc: {
+      lon: "",
+      lat: "",
+      geohash: "",
+    },
+  },
+]

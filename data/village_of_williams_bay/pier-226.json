@@ -1,0 +1,96 @@
+[
+  {
+    pier: "226",
+    member: false,
+    membershipType: "",
+    owners: [
+      { t: "", f: "Cedar Point Park Pier", m: "", l: "" s: ""  },
+    ],
+    property: {
+      association: "Cedar Point Park",
+      name: "",
+      address: {
+        street: "",
+        city: "Linn",
+        state: "WI",
+        zip: "",
+      },
+    },
+    loc: {
+      lon: "",
+      lat: "",
+      geohash: "",
+    },
+  },
+  {
+    pier: "226",
+    member: true,
+    membershipType: "",
+    owners: [
+      { t: "", f: "James", m: "", l: "Ahern" s: ""  },
+      { t: "", f: "JoAnne", m: "", l: "Ahern" s: ""  },
+    ],
+    property: {
+      association: "Cedar Point Park",
+      name: "",
+      address: {
+        street: "",
+        city: "Linn",
+        state: "WI",
+        zip: "",
+      },
+    },
+    loc: {
+      lon: "",
+      lat: "",
+      geohash: "",
+    },
+  },
+  {
+    pier: "226",
+    member: true,
+    membershipType: "",
+    owners: [
+      { t: "", f: "Dr. & Mrs. Raymond Copeland", m: "", l: "" s: ""  },
+    ],
+    property: {
+      association: "Cedar Point Park",
+      name: "",
+      address: {
+        street: "",
+        city: "Linn",
+        state: "WI",
+        zip: "",
+      },
+    },
+    loc: {
+      lon: "",
+      lat: "",
+      geohash: "",
+    },
+  },
+  {
+    pier: "226",
+    member: true,
+    membershipType: "",
+    owners: [
+      { t: "", f: "Peter", m: "", l: "Russell" s: ""  },
+      { t: "", f: "Paula", m: "", l: "Russell" s: ""  },
+    ],
+    property: {
+      association: "Cedar Point Park",
+      name: "",
+      address: {
+        street: "",
+        city: "Linn",
+        state: "WI",
+        zip: "",
+      },
+    },
+    loc: {
+      lon: "",
+      lat: "",
+      geohash: "",
+    },
+  },
+]

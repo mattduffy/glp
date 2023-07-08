@@ -1,0 +1,23 @@
+{
+  pier: "213",
+  member: true,
+  membershipType: "",
+  owners: [
+    { t: "", f: "Edward W. Boehm 3 Trust", m: "", l: "" s: ""  },
+  ],
+  property: {
+    association: "Cedar Point Park",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: "",
+  },
+}

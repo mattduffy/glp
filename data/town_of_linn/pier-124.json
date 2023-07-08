@@ -1,0 +1,50 @@
+[
+  {
+    pier: "124",
+    member: false,
+    membershipType: "",
+    owners: [
+      { t: "", f: "Dale", m: "", l: "Caputo" s: ""  },
+      { t: "", f: "Bonnie", m: "", l: "Caputo" s: ""  },
+    ],
+    property: {
+      association: "Elgin Club",
+      name: "",
+      address: {
+        street: "",
+        city: "Linn",
+        state: "WI",
+        zip: "",
+      },
+    },
+    loc: {
+      lon: "",
+      lat: "",
+      geohash: ""
+    },
+  },
+  {
+    pier: "124",
+    member: false,
+    membershipType: "",
+    owners: [
+      { t: "", f: "Andrea", m: "", l: "Gibbs" s: ""  },
+      { t: "", f: "Jerry", m: "", l: "Gibbs" s: ""  },
+    ],
+    property: {
+      association: "Elgin Club",
+      name: "",
+      address: {
+        street: "",
+        city: "Linn",
+        state: "WI",
+        zip: "",
+      },
+    },
+    loc: {
+      lon: "",
+      lat: "",
+      geohash: ""
+    },
+  },
+]

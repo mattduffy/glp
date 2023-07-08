@@ -1,0 +1,23 @@
+{
+  pier: "220A",
+  member: false,
+  membershipType: "",
+  owners: [
+    { t: "", f: "Yianny", m: "", l: "Caparos" s: ""  },
+  ],
+  property: {
+    association: "Cedar Point Park",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: "",
+  },
+}

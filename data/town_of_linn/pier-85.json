@@ -1,0 +1,28 @@
+{
+  pier: "85",
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+  property: {
+    association: "Alta Vista",
+    name: "",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  owners: [
+    {
+      member: false,
+      membershipType: "",
+      members: [
+        { t: "", f: "Paul", m: "", l: "Gurinas" s: ""  },
+        { t: "", f: "Jessica", m: "", l: "Gurinas" s: ""  },
+      ],
+    },
+  ],
+}

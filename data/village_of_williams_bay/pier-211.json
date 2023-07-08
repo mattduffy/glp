@@ -1,0 +1,24 @@
+{
+  pier: "211",
+  member: true,
+  membershipType: "",
+  owners: [
+    { t: "", f: "David", m: "", l: "Bruskin" s: ""  },
+    { t: "", f: "Tiffany", m: "", l: "Bruskin" s: ""  },
+  ],
+  property: {
+    association: "Cedar Point Park",
+    name: "Sweet Water",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: "",
+  },
+}

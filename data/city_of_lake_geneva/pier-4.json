@@ -1,0 +1,28 @@
+{
+  pier: "4",
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+  property: {
+    association: "",
+    name: "Maple Lawn",
+    address: {
+      street: "",
+      city: "Lake Geneva",
+      state: "WI",
+      zip: "",
+    },
+  },
+  owners: [
+    {
+      member: true,
+      membershipType: "",
+      members: [
+        { t: "", f: "Jim", m: "", l: " Willett", s: "" },
+        { t: "", f: "Kathi", m: "", l: " Willett", s: "" },
+      ],
+    },
+  ],
+}

@@ -1,0 +1,28 @@
+{
+  pier: "9A",
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+  property: {
+    association: "",
+    name: "",
+    address: {
+      street: "",
+      city: "Lake Geneva",
+      state: "WI",
+      zip: "",
+    },
+  },
+  owners: [
+    {
+      member: false,
+      membershipType: "",
+      members: [
+        { t: "", f: "Paul", m: "", l: "Lagerlof", s: "" },
+        { t: "", f: "Harriet", m: "", l: "Lagerlof", s: "" },
+      ],
+    },
+  ],
+}

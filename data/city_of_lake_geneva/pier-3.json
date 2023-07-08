@@ -1,0 +1,27 @@
+{
+  pier: "3",
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+  property: {
+    association: "",
+    name: "ESBRO",
+    address: {
+      street: "",
+      city: "Lake Geneva",
+      state: "WI",
+      zip: "",
+    },
+  },
+  owners: [
+    {
+      member: false,
+      membershipType: "",
+      members: [
+        { t: "", f: "Betty", m: "J.", l: "Burch-Spanjer", s: "" },
+      ],
+    },
+  ],
+}

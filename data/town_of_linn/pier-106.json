@@ -1,0 +1,28 @@
+{
+  pier: "106",
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+  property: {
+    association: "",
+    name: "Glen Fern",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  owners: [
+    {
+      member: true,
+      membershipType: "",
+      members: [
+        { t: "", f: "Bob", m: "", l: "Clifford" s: ""  },
+        { t: "", f: "Joan", m: "", l: "Clifford" s: ""  },
+      ],
+    },
+  ],
+}

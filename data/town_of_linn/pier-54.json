@@ -1,0 +1,27 @@
+{
+  pier: "54",
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+  property: {
+    association: "",
+    name: "Lakewood",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  owners: [
+    {
+      member: true,
+      membershipType: "",
+      members: [
+        { t: "", f: "William", m: "", l: "Wrigley" s: "Jr."  },
+      ],
+    },
+  ],
+}

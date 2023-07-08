@@ -1,0 +1,28 @@
+{
+  pier: "90",
+  loc: {
+    lon: "",
+    lat: "",
+    geohash: ""
+  },
+  property: {
+    association: "S. B. Chapin",
+    name: "Chez Mere",
+    address: {
+      street: "",
+      city: "Linn",
+      state: "WI",
+      zip: "",
+    },
+  },
+  owners: [
+    {
+      member: true,
+      membershipType: "",
+      members: [
+        { t: "", f: "Matthew", m: "", l: "Walsh" s: ""  },
+        { t: "", f: "Joyce", m: "", l: "Walsh" s: ""  },
+      ],
+    },
+  ],
+}
