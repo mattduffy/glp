@@ -1,24 +1,28 @@
 {
-  pier: "222B",
-  member: true,
-  membershipType: "",
-  owners: [
-    { t: "", f: "Mike", m: "", l: "Blair", s: "" },
-    { t: "", f: "Jolynn", m: "", l: "Blair", s: "" },
-  ],
-  property: {
-    association: "Cedar Point Park",
-    name: "Sunset Bay",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "pier": "222B",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: "",
+  "property": {
+    "association": "Cedar Point Park",
+    "name": "Sunset Bay",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Mike", "m": "", "l": "Blair", "s": "" },
+        { "t": "", "f": "Jolynn", "m": "", "l": "Blair", "s": "" }
+      ]
+    }
+  ]
 }

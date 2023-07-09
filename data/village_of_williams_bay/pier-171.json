@@ -1,24 +1,28 @@
 {
-  pier: "171",
-  member: false,
-  membershipType: "",
-  owners: [
-    { t: "", f: "Brian", m: "", l: "Stearns", s: "" },
-    { t: "", f: "Sandy", m: "", l: "Stearns", s: "" },
-  ],
-  property: {
-    association: "",
-    name: "",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "pier": "171",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: "",
+  "property": {
+    "association": "",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Brian", "m": "", "l": "Stearns", "s": "" },
+        { "t": "", "f": "Sandy", "m": "", "l": "Stearns", "s": "" }
+      ]
+    }
+  ]
 }

@@ -1,24 +1,28 @@
 {
-  pier: "182",
-  member: false,
-  membershipType: "",
-  owners: [
-    { t: "", f: "James", m: "H", l: "Zaleski", s: "" },
-    { t: "", f: "Beverly", m: "H", l: "Zaleski", s: "" },
-  ],
-  property: {
-    association: "",
-    name: "",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "pier": "182",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: "",
+  "property": {
+    "association": "",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "James", "m": "H", "l": "Zaleski", "s": "" },
+        { "t": "", "f": "Beverly", "m": "H", "l": "Zaleski", "s": "" }
+      ]
+    }
+  ]
 }

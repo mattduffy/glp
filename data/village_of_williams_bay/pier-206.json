@@ -1,24 +1,28 @@
 {
-  pier: "206",
-  member: true,
-  membershipType: "",
-  owners: [
-    { t: "", f: "Jeff", m: "", l: "Liljeberg", s: "" },
-    { t: "", f: "Ellen", m: "", l: "Liljeberg", s: "" },
-  ],
-  property: {
-    association: "Cedar Point Park",
-    name: "Sunset Point",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "pier": "206",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: "",
+  "property": {
+    "association": "Cedar Point Park",
+    "name": "Sunset Point",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Jeff", "m": "", "l": "Liljeberg", "s": "" },
+        { "t": "", "f": "Ellen", "m": "", "l": "Liljeberg", "s": "" }
+      ]
+    }
+  ]
 }

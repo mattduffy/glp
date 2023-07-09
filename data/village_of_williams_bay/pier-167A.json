@@ -1,23 +1,27 @@
 {
-  pier: "167A",
-  member: false,
-  membershipType: "",
-  owners: [
-    { t: "", f: "William", m: "B", l: "Gage", s: "Jr." },
-  ],
-  property: {
-    association: "",
-    name: "",
-    address: {
-      street: "",
-      city: "Williams Bay",
-      state: "WI",
-      zip: "",
-    },
+  "pier": "167A",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: "",
+  "property": {
+    "association": "",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Williams Bay",
+      "state": "WI",
+      "zip": ""
+    }
   },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "William", "m": "B", "l": "Gage", "s": "Jr." }
+      ]
+    }
+]
 }

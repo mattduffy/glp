@@ -1,24 +1,28 @@
 {
-  pier: "220B",
-  member: true,
-  membershipType: "",
-  owners: [
-    { t: "", f: "Craig", m: "", l: "Hudson", s: "" },
-    { t: "", f: "Kathie", m: "", l: "Hudson", s: "" },
-  ],
-  property: {
-    association: "Cedar Point Park",
-    name: "",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "pier": "220B",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: "",
+  "property": {
+    "association": "Cedar Point Park",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Craig", "m": "", "l": "Hudson", "s": "" },
+        { "t": "", "f": "Kathie", "m": "", "l": "Hudson", "s": "" }
+      ]
+    }
+  ]
 }

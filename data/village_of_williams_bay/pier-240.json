@@ -1,11 +1,10 @@
 {
   "pier": "240",
-  "member": false,
-  "membershipType": "",
-  "owners": [
-    { "t": "", "f": "Don", "m": "", "l": "Duda", "s": "" },
-    { "t": "", "f": "Patti", "m": "", "l": "Duda", "s": "" }
-  ],
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
   "property": {
     "association": "Cedar Point Park",
     "name": "",
@@ -16,9 +15,14 @@
       "zip": ""
     }
   },
-  "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
-  }
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Don", "m": "", "l": "Duda", "s": "" },
+        { "t": "", "f": "Patti", "m": "", "l": "Duda", "s": "" }
+      ]
+    }
+  ]
 }

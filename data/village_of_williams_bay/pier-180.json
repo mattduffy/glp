@@ -1,24 +1,28 @@
 {
-  pier: "180",
-  member: true,
-  membershipType: "",
-  owners: [
-    { t: "", f: "Charles", m: "H", l: "Wegner", s: "" },
-    { t: "", f: "Tara", m: "H", l: "Wegner", s: "" },
-  ],
-  property: {
-    association: "",
-    name: "Glen Annie",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "pier": "180",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: "",
+  "property": {
+    "association": "",
+    "name": "Glen Annie",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Charles", "m": "H", "l": "Wegner", "s": "" },
+        { "t": "", "f": "Tara", "m": "H", "l": "Wegner", "s": "" }
+      ]
+    }
+  ]
 }

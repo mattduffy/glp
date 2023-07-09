@@ -1,49 +1,35 @@
-[
-  {
-    pier: "216",
-    member: false,
-    membershipType: "",
-    owners: [
-      { t: "", f: "Jim", m: "", l: "Swift", s: "" },
-    ],
-    property: {
-      association: "Cedar Point Park",
-      name: "",
-      address: {
-        street: "",
-        city: "Linn",
-        state: "WI",
-        zip: "",
-      },
-    },
-    loc: {
-      lon: "",
-      lat: "",
-      geohash: "",
-    },
+{
+  "pier": "216",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  {
-    pier: "216",
-    member: false,
-    membershipType: "",
-    owners: [
-      { t: "", f: "Jim", m: "", l: "Swift", s: "" },
-      { t: "", f: "Robin", m: "", l: "Swift", s: "" },
-    ],
-    property: {
-      association: "Cedar Point Park",
-      name: "",
-      address: {
-        street: "",
-        city: "Linn",
-        state: "WI",
-        zip: "",
-      },
-    },
-    loc: {
-      lon: "",
-      lat: "",
-      geohash: "",
-    },
+  "property": {
+    "association": "Cedar Point Park",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
-]
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Jim", "m": "", "l": "Swift", "s": "" }
+      ]
+    },
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Jim", "m": "", "l": "Swift", "s": "" },
+        { "t": "", "f": "Robin", "m": "", "l": "Swift", "s": "" }
+      ]
+    }
+  ]
+}
