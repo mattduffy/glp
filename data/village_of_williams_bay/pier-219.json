@@ -4,7 +4,7 @@
     member: false,
     membershipType: "",
     owners: [
-      { t: "", f: "Cedar Point Park Pier", m: "", l: "" s: ""  },
+      { t: "", f: "Cedar Point Park Pier", m: "", l: "", s: "" },
     ],
     property: {
       association: "Cedar Point Park",
@@ -27,8 +27,8 @@
     member: true,
     membershipType: "",
     owners: [
-      { t: "", f: "Marianne", m: "", l: "Bonifacic" s: ""  },
-      { t: "", f: "Frank", m: "", l: "Bonifacic" s: ""  },
+      { t: "", f: "Marianne", m: "", l: "Bonifacic", s: "" },
+      { t: "", f: "Frank", m: "", l: "Bonifacic", s: "" },
     ],
     property: {
       association: "Cedar Point Park",
@@ -51,7 +51,7 @@
     member: true,
     membershipType: "",
     owners: [
-      { t: "", f: "Alice", m: "J", l: "Morava" s: ""  },
+      { t: "", f: "Alice", m: "J", l: "Morava", s: "" },
     ],
     property: {
       association: "Cedar Point Park",
@@ -74,7 +74,7 @@
     member: true,
     membershipType: "",
     owners: [
-      { t: "", f: "Linda", m: "J", l: "Tonge" s: ""  },
+      { t: "", f: "Linda", m: "J", l: "Tonge", s: "" },
     ],
     property: {
       association: "Cedar Point Park",

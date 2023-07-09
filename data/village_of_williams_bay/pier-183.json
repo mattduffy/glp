@@ -3,8 +3,8 @@
   member: false,
   membershipType: "",
   owners: [
-    { t: "", f: "James", m: "H", l: "Athans" s: ""  },
-    { t: "", f: "Georgia", m: "H", l: "Athans" s: ""  },
+    { t: "", f: "James", m: "H", l: "Athans", s: "" },
+    { t: "", f: "Georgia", m: "H", l: "Athans", s: "" },
   ],
   property: {
     association: "Cedar Point Park",

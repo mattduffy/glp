@@ -3,7 +3,7 @@
   member: false,
   membershipType: "",
   owners: [
-    { t: "", f: "Marjorie", m: "H", l: "Greenfield" s: ""  },
+    { t: "", f: "Marjorie", m: "H", l: "Greenfield", s: "" },
   ],
   property: {
     association: "",

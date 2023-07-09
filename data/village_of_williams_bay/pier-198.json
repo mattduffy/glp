@@ -3,8 +3,8 @@
   member: true,
   membershipType: "",
   owners: [
-      { t: "", f: "Andrew", m: "", l: "Szafran" s: ""  },
-      { t: "", f: "Maureen", m: "", l: "Szafran" s: ""  },
+      { t: "", f: "Andrew", m: "", l: "Szafran", s: "" },
+      { t: "", f: "Maureen", m: "", l: "Szafran", s: "" },
   ],
   property: {
     association: "Cedar Point Park",

@@ -4,7 +4,7 @@
     member: false,
     membershipType: "",
     owners: [
-      { t: "", f: "Jim", m: "", l: "Swift" s: ""  },
+      { t: "", f: "Jim", m: "", l: "Swift", s: "" },
     ],
     property: {
       association: "Cedar Point Park",
@@ -27,8 +27,8 @@
     member: false,
     membershipType: "",
     owners: [
-      { t: "", f: "Jim", m: "", l: "Swift" s: ""  },
-      { t: "", f: "Robin", m: "", l: "Swift" s: ""  },
+      { t: "", f: "Jim", m: "", l: "Swift", s: "" },
+      { t: "", f: "Robin", m: "", l: "Swift", s: "" },
     ],
     property: {
       association: "Cedar Point Park",
