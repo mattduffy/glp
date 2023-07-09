@@ -1,73 +1,43 @@
-[
-  {
-    pier: "141B",
-    member: false,
-    membershipType: "",
-    owners: [
-      { t: "", f: "Ara Glen Association Pier", m: "", l: "", s: "" },
-    ],
-    property: {
-      association: "Ara Glen",
-      name: "",
-      address: {
-        street: "",
-        city: "Linn",
-        state: "WI",
-        zip: "",
-      },
-    },
-    loc: {
-      lon: "",
-      lat: "",
-      geohash: ""
-    },
+{
+  "pier": "141B",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  {
-    pier: "141B",
-    member: false,
-    membershipType: "",
-    owners: [
-      { t: "", f: "Gene", m: "", l: "Needles", s: "" },
-    ],
-    property: {
-      association: "Ara Glen",
-      name: "",
-      address: {
-        street: "",
-        city: "Linn",
-        state: "WI",
-        zip: "",
-      },
-    },
-    loc: {
-      lon: "",
-      lat: "",
-      geohash: ""
-    },
+  "property": {
+    "association": "Ara Glen",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  {
-    pier: "141B",
-    member: false,
-    membershipType: "",
-    owners: [
-      { t: "", f: "Charlene", m: "", l: "Needles", s: "" },
-      { t: "", f: "Chad", m: "", l: "Black", s: "" },
-      { t: "", f: "Jennifer", m: "", l: "Ahlstrand", s: "" },
-    ],
-    property: {
-      association: "Ara Glen",
-      name: "",
-      address: {
-        street: "",
-        city: "Linn",
-        state: "WI",
-        zip: "",
-      },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Ara Glen Association Pier", "m": "", "l": "", "s": "" }
+      ]
     },
-    loc: {
-      lon: "",
-      lat: "",
-      geohash: ""
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Gene", "m": "", "l": "Needles", "s": "" }
+      ]
     },
-  },
-]
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Charlene", "m": "", "l": "Needles", "s": "" },
+        { "t": "", "f": "Chad", "m": "", "l": "Black", "s": "" },
+        { "t": "", "f": "Jennifer", "m": "", "l": "Ahlstrand", "s": "" }
+      ]
+    }
+  ]
+}

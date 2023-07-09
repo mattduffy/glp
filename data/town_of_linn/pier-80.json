@@ -1,28 +1,28 @@
 {
-  pier: "80",
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "pier": "80",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  property: {
-    association: "Bonnie Brae",
-    name: "",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "property": {
+    "association": "Bonnie Brae",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  owners: [
+  "owners": [
     {
-      member: true,
-      membershipType: "",
-      members: [
-        { t: "", f: "Daniel", m: "", l: "Affetto", s: "" },
-        { t: "", f: "Anisa", m: "", l: "Affetto", s: "" },
-      ],
-    },
-  ],
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Daniel", "m": "", "l": "Affetto", "s": "" },
+        { "t": "", "f": "Anisa", "m": "", "l": "Affetto", "s": "" }
+      ]
+    }
+  ]
 }

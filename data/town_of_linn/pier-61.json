@@ -1,27 +1,27 @@
 {
-  pier: "61",
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "pier": "61",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  property: {
-    association: "",
-    name: "Edgewood",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "property": {
+    "association": "",
+    "name": "Edgewood",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  owners: [
+  "owners": [
     {
-      member: true,
-      membershipType: "",
-      members: [
-        { t: "", f: "MacDonald Family", m: "", l: "", s: "" },
-      ],
-    },
-  ],
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "MacDonald Family", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
 }

@@ -1,24 +1,28 @@
 {
-  pier: "166",
-  member: true,
-  membershipType: "",
-  owners: [
-    { t: "", f: "Carl", m: "", l: "Lundstrom", s: "" },
-    { t: "", f: "Kay", m: "", l: "Lundstrom", s: "" },
-  ],
-  property: {
-    association: "",
-    name: "",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "pier": "166",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: "",
+  "property": {
+    "association": "",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Carl", "m": "", "l": "Lundstrom", "s": "" },
+        { "t": "", "f": "Kay", "m": "", "l": "Lundstrom", "s": "" }
+      ]
+    }
+  ]
 }

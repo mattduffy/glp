@@ -1,28 +1,28 @@
 {
-  pier: "40",
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "pier": "40",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  property: {
-    association: "",
-    name: "",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "property": {
+    "association": "",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  owners: [
+  "owners": [
     {
-      member: false,
-      membershipType: "",
-      members: [
-        { t: "", f: "Dean", m: "", l: "Athans", s: "" },
-        { t: "", f: "Eilena", m: "", l: "Athans", s: "" },
-      ],
-    },
-  ],
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Dean", "m": "", "l": "Athans", "s": "" },
+        { "t": "", "f": "Eilena", "m": "", "l": "Athans", "s": "" }
+      ]
+    }
+  ]
 }

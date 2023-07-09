@@ -1,23 +1,27 @@
 {
-  pier: "139",
-  member: false,
-  membershipType: "",
-  owners: [
-    { t: "", f: "", m: "", l: "Griffith", s: "" },
-  ],
-  property: {
-    association: "",
-    name: "",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "pier": "139",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "property": {
+    "association": "",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "", "m": "", "l": "Griffith", "s": "" }
+      ]
+    }
+  ]
 }

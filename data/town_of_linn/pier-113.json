@@ -1,28 +1,28 @@
 {
-  pier: "113",
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "pier": "113",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  property: {
-    association: "Elgin Club",
-    name: "",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "property": {
+    "association": "Elgin Club",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  owners: [
+  "owners": [
     {
-      member: true,
-      membershipType: "",
-      members: [
-        { t: "", f: "John", m: "", l: "Morand", s: "" },
-        { t: "", f: "Karen", m: "", l: "Morand", s: "" },
-      ],
-    },
-  ],
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "John", "m": "", "l": "Morand", "s": "" },
+        { "t": "", "f": "Karen", "m": "", "l": "Morand", "s": "" }
+      ]
+    }
+  ]
 }

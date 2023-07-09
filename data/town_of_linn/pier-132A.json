@@ -1,23 +1,28 @@
 {
-  pier: "132A",
-  member: true,
-  owners: [
-    { t: "", f: "Lee", m: "", l: "Tenzer", s: "" },
-    { t: "", f: "Marilyn", m: "", l: "Tenzer", s: "" },
-  ],
-  property: {
-    association: "",
-    name: "",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "pier": "132A",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: "",
+  "property": {
+    "association": "",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "mmembers": [
+        { "t": "", "f": "Lee", "m": "", "l": "Tenzer", "s": "" },
+        { "t": "", "f": "Marilyn", "m": "", "l": "Tenzer", "s": "" }
+      ]
+    }
+  ]
 }

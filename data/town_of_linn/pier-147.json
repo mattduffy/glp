@@ -1,23 +1,27 @@
 {
-  pier: "147",
-  member: false,
-  membershipType: "",
-  owners: [
-    { t: "", f: "Joan", m: "S", l: "Dee", s: "" },
-  ],
-  property: {
-    association: "Knollwood",
-    name: "",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "pier": "147",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "property": {
+    "association": "Knollwood",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Joan", "m": "S", "l": "Dee", "s": "" }
+      ]
+    }
+  ]
 }

@@ -1,48 +1,34 @@
-[
-  {
-    pier: "128",
-    member: true,
-    membershipType: "",
-    owners: [
-      { t: "", f: "Martha", m: "", l: "Craven", s: "" },
-    ],
-    property: {
-      association: "Elgin Club",
-      name: "",
-      address: {
-        street: "",
-        city: "Linn",
-        state: "WI",
-        zip: "",
-      },
-    },
-    loc: {
-      lon: "",
-      lat: "",
-      geohash: ""
-    },
+{
+  "pier": "128",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  {
-    pier: "128",
-    member: true,
-    membershipType: "",
-    owners: [
-      { t: "", f: "Scott", m: "", l: "Craven Jones", s: "" },
-    ],
-    property: {
-      association: "Elgin Club",
-      name: "",
-      address: {
-        street: "",
-        city: "Linn",
-        state: "WI",
-        zip: "",
-      },
-    },
-    loc: {
-      lon: "",
-      lat: "",
-      geohash: ""
-    },
+  "property": {
+    "association": "Elgin Club",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
-]
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Martha", "m": "", "l": "Craven", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Scott", "m": "", "l": "Craven Jones", "s": "" }
+      ]
+    }
+  ]
+}

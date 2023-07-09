@@ -1,24 +1,28 @@
 {
-  pier: "132",
-  member: true,
-  membershipType: "",
-  owners: [
-    { t: "", f: "Brent", m: "", l: "Brodeski", s: "" },
-    { t: "", f: "Sharon", m: "", l: "Brodeski", s: "" },
-  ],
-  property: {
-    association: "",
-    name: "El Nido",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "pier": "132",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "property": {
+    "association": "",
+    "name": "El Nido",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Brent", "m": "", "l": "Brodeski", "s": "" },
+        { "t": "", "f": "Sharon", "m": "", "l": "Brodeski", "s": "" }
+      ]
+    }
+  ]
 }

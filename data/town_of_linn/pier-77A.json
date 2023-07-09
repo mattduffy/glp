@@ -1,25 +1,25 @@
 {
-  pier: "77A",
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "pier": "77A",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  property: {
-    association: "Bonnie Brae",
-    name: "",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "property": {
+    "association": "Bonnie Brae",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  owners: [
+  "owners": [
     {
-      member: false,
-      membershipType: "",
-      members: [],
-    },
-  ],
+      "member": false,
+      "membershipType": "",
+      "members": []
+    }
+  ]
 }

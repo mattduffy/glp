@@ -1,48 +1,34 @@
-[
-  {
-    pier: "140A",
-    member: true,
-    membershipType: "",
-    owners: [
-      { t: "", f: "Sylvan Trail Association Pier", m: "", l: "", s: "" },
-    ],
-    property: {
-      association: "Sylvan Trail",
-      name: "",
-      address: {
-        street: "",
-        city: "Linn",
-        state: "WI",
-        zip: "",
-      },
-    },
-    loc: {
-      lon: "",
-      lat: "",
-      geohash: ""
-    },
+{
+  "pier": "140A",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  {
-    pier: "140A",
-    member: true,
-    membershipType: "",
-    owners: [
-      { t: "", f: "Baxter", m: "", l: "Phillip", s: "" },
-    ],
-    property: {
-      association: "Sylvan Trail",
-      name: "",
-      address: {
-        street: "",
-        city: "Linn",
-        state: "WI",
-        zip: "",
-      },
-    },
-    loc: {
-      lon: "",
-      lat: "",
-      geohash: ""
-    },
+  "property": {
+    "association": "Sylvan Trail",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
-]
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Sylvan Trail Association Pier", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Baxter", "m": "", "l": "Phillip", "s": "" }
+      ]
+    }
+  ]
+}

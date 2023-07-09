@@ -1,28 +1,28 @@
 {
-  pier: "49",
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "pier": "49",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  property: {
-    association: "",
-    name: "Green Gables",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "property": {
+    "association": "",
+    "name": "Green Gables",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  owners: [
+  "owners": [
     {
-      member: true,
-      membershipType: "",
-      members: [
-        { t: "", f: "Karl", m: "", l: "Otzen", s: "" },
-        { t: "", f: "Lucy", m: "", l: "Otzen", s: "" },
-      ],
-    },
-  ],
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Karl", "m": "", "l": "Otzen", "s": "" },
+        { "t": "", "f": "Lucy", "m": "", "l": "Otzen", "s": "" }
+      ]
+    }
+  ]
 }

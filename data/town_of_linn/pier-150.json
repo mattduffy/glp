@@ -1,73 +1,43 @@
-[
-  {
-    pier: "150",
-    member: false,
-    membershipType: "",
-    owners: [
-      { t: "", f: "Knollwood Association Piers", m: "", l: "", s: "" },
-    ],
-    property: {
-      association: "Knollwood",
-      name: "",
-      address: {
-        street: "",
-        city: "Linn",
-        state: "WI",
-        zip: "",
-      },
-    },
-    loc: {
-      lon: "",
-      lat: "",
-      geohash: ""
-    },
+{
+  "pier": "150",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  {
-    pier: "150",
-    member: false,
-    membershipType: "",
-    owners: [
-      { t: "", f: "Farrell", m: "", l: "Frentress", s: "" },
-      { t: "", f: "Doris", m: "", l: "Frentress", s: "" },
-    ],
-    property: {
-      association: "Knollwood",
-      name: "",
-      address: {
-        street: "",
-        city: "Linn",
-        state: "WI",
-        zip: "",
-      },
-    },
-    loc: {
-      lon: "",
-      lat: "",
-      geohash: ""
-    },
+  "property": {
+    "association": "Knollwood",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  {
-    pier: "150",
-    member: false,
-    membershipType: "",
-    owners: [
-      { t: "", f: "Bruce", m: "", l: "Johnson", s: "" },
-      { t: "", f: "Gail", m: "", l: "Johnson", s: "" },
-    ],
-    property: {
-      association: "Knollwood",
-      name: "",
-      address: {
-        street: "",
-        city: "Linn",
-        state: "WI",
-        zip: "",
-      },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Knollwood Association Piers", "m": "", "l": "", "s": "" }
+      ]
     },
-    loc: {
-      lon: "",
-      lat: "",
-      geohash: ""
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Farrell", "m": "", "l": "Frentress", "s": "" },
+        { "t": "", "f": "Doris", "m": "", "l": "Frentress", "s": "" }
+      ]
     },
-  },
-]
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Bruce", "m": "", "l": "Johnson", "s": "" },
+        { "t": "", "f": "Gail", "m": "", "l": "Johnson", "s": "" }
+      ]
+    }
+  ]
+}

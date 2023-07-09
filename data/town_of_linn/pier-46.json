@@ -1,44 +1,44 @@
 {
-  pier: "46",
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "pier": "46",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  property: {
-    association: "",
-    name: "Shoreside",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "property": {
+    "association": "",
+    "name": "Shoreside",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  owners: [
+  "owners": [
     {
-      member: true,
-      membershipType: "",
-      members: [
-        { t: "", f: "Dana", m: "", l: "Hagenah", s: "" },
-        { t: "", f: "John", m: "", l: "Hagenah", s: "" },
-      ],
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Dana", "m": "", "l": "Hagenah", "s": "" },
+        { "t": "", "f": "John", "m": "", "l": "Hagenah", "s": "" }
+      ]
     },
     {
-      member: true,
-      membershipType: "",
-      members: [
-        { t: "", f: "Susan", m: "", l: "Hagenah", s: "" },
-        { t: "", f: "Phil", m: "", l: "Hagenah", s: "" },
-      ],
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Susan", "m": "", "l": "Hagenah", "s": "" },
+        { "t": "", "f": "Phil", "m": "", "l": "Hagenah", "s": "" }
+      ]
     },
     {
-      member: true,
-      membershipType: "",
-      owners: [
-        { t: "", f: "Tricia", m: "", l: "Hagenah", s: "" },
-        { t: "", f: "Will", m: "", l: "Hagenah", s: "" },
-      ],
-    },
-  ],
+      "member": true,
+      "membershipType": "",
+      "owners": [
+        { "t": "", "f": "Tricia", "m": "", "l": "Hagenah", "s": "" },
+        { "t": "", "f": "Will", "m": "", "l": "Hagenah", "s": "" }
+      ]
+    }
+  ]
 }

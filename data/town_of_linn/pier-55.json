@@ -1,27 +1,27 @@
 {
-  pier: "55",
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "pier": "55",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  property: {
-    association: "",
-    name: "Deadwood",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "property": {
+    "association": "",
+    "name": "Deadwood",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  owners: [
+  "owners": [
     {
-      member: true,
-      membershipType: "",
-      members: [
-        { t: "", f: "Walter", m: "G", l: "Larkin", s: "" },
-      ],
-    },
-  ],
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Walter", "m": "G", "l": "Larkin", "s": "" }
+      ]
+    }
+  ]
 }

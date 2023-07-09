@@ -1,25 +1,25 @@
 {
-  pier: "45A",
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "pier": "45A",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  property: {
-    association: "",
-    name: "",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
-  },
-  owners: [
-    {
-      member: false,
-      membershipType: "",
-      members: [],
+  "property": {
+    "association": "",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
     }
-  ],
+  },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": []
+    }
+  ]
 }

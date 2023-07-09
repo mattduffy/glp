@@ -1,24 +1,28 @@
 {
-  pier: "155",
-  member: false,
-  membershipType: "",
-  owners: [
-    { t: "", f: "Terry", m: "", l: "Bolger", s: "" },
-    { t: "", f: "Mary Jeanne", m: "", l: "Bolger", s: "" },
-  ],
-  property: {
-    association: "",
-    name: "Oak View",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "pier": "155",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "property": {
+    "association": "",
+    "name": "Oak View",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Terry", "m": "", "l": "Bolger", "s": "" },
+        { "t": "", "f": "Mary Jeanne", "m": "", "l": "Bolger", "s": "" }
+      ]
+    }
+  ]
 }

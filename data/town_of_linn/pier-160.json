@@ -1,24 +1,28 @@
 {
-  pier: "160",
-  member: true,
-  membershipType: "",
-  owners: [
-    { t: "", f: "Michael", m: "", l: "Loeber", s: "" },
-    { t: "", f: "Julie", m: "", l: "Loeber", s: "" },
-  ],
-  property: {
-    association: "",
-    name: "Crystal Falls",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "pier": "160",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: "",
+  "property": {
+    "association": "",
+    "name": "Crystal Falls",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Michael", "m": "", "l": "Loeber", "s": "" },
+        { "t": "", "f": "Julie", "m": "", "l": "Loeber", "s": "" }
+      ]
+    }
+  ]
 }

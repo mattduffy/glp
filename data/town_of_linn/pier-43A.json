@@ -1,27 +1,27 @@
 {
-  pier: "43A",
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "pier": "43A",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  property: {
-    association: "Shady Lane Pier Association",
-    name: "",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "property": {
+    "association": "Shady Lane Pier Association",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  owners: [
+  "owners": [
     {
-      member: false,
-      membershipType: "",
-      members: [
-        { t: "", f: "Shady Lane Pier Association", m: "", l: "", s: "" },
-      ],
-    },
-  ],
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Shady Lane Pier Association", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
 }

@@ -1,24 +1,28 @@
 {
-  pier: "157",
-  member: false,
-  membershipType: "",
-  owners: [
-    { t: "", f: "Bill", m: "", l: "McCune", s: "" },
-    { t: "", f: "Kelly", m: "", l: "McCune", s: "" },
-  ],
-  property: {
-    association: "",
-    name: "",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "pier": "157",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "property": {
+    "association": "",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Bill", "m": "", "l": "McCune", "s": "" },
+        { "t": "", "f": "Kelly", "m": "", "l": "McCune", "s": "" }
+      ]
+    }
+  ]
 }

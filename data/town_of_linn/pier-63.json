@@ -1,27 +1,27 @@
 {
-  pier: "63",
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "pier": "63",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  property: {
-    association: "",
-    name: "Hodge Podge Cottage",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "property": {
+    "association": "",
+    "name": "Hodge Podge Cottage",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  owners: [
+  "owners": [
     {
-      member: true,
-      membershipType: "",
-      members: [
-        { t: "", f: "Rasin Family", m: "", l: "", s: "" },
-      ],
-    },
-  ],
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Rasin Family", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
 }

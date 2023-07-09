@@ -1,24 +1,28 @@
 {
-  pier: "158B",
-  member: true,
-  membershipType: "",
-  owners: [
-    { t: "", f: "Tyler", m: "", l: "Anderson", s: "" },
-    { t: "", f: "Nancy", m: "", l: "Anderson", s: "" },
-  ],
-  property: {
-    association: "",
-    name: "",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "pier": "158B",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "property": {
+    "association": "",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Tyler", "m": "", "l": "Anderson", "s": "" },
+        { "t": "", "f": "Nancy", "m": "", "l": "Anderson", "s": "" }
+      ]
+    }
+  ]
 }

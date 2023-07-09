@@ -1,23 +1,27 @@
 {
-  pier: "116",
-  member: false,
-  membershipType: "",
-  owners: [
-    { t: "", f: "Couffer Family", m: "", l: "", s: "" },
-  ],
-  property: {
-    association: "Elgin Club",
-    name: "",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "pier": "116",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "property": {
+    "association": "Elgin Club",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Couffer Family", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
 }

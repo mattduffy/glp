@@ -1,27 +1,27 @@
 {
-  pier: "60",
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "pier": "60",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  property: {
-    association: "",
-    name: "Wychwood",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "property": {
+    "association": "",
+    "name": "Wychwood",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  owners: [
+  "owners": [
     {
-      member: true,
-      membershipType: "",
-      members: [
-        { t: "", f: "William", m: "", l: "Wrigley", s: "Jr." },
-      ],
-    },
-  ],
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "William", "m": "", "l": "Wrigley", "s": "Jr." }
+      ]
+    }
+  ]
 }

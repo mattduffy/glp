@@ -1,28 +1,28 @@
 {
-  pier: "75",
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "pier": "75",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  property: {
-    association: "Bonnie Brae",
-    name: "The Cliffs",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "property": {
+    "association": "Bonnie Brae",
+    "name": "The Cliffs",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  owners: [
+  "owners": [
     {
-      member: true,
-      membershipType: "",
-      members: [
-        { t: "", f: "Rob", m: "", l: "Moore", s: "" },
-        { t: "", f: "Patty", m: "", l: "Moore", s: "" },
-      ],
-    },
-  ],
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Rob", "m": "", "l": "Moore", "s": "" },
+        { "t": "", "f": "Patty", "m": "", "l": "Moore", "s": "" }
+      ]
+    }
+  ]
 }

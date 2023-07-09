@@ -1,28 +1,28 @@
 {
-  pier: "68",
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "pier": "68",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  property: {
-    association: "",
-    name: "The Narrows",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "property": {
+    "association": "",
+    "name": "The Narrows",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  owners: [
+  "owners": [
     {
-      member: true,
-      membershipType: "",
-      members: [
-        { t: "", f: "Lydia", m: "", l: "Ryan", s: "" },
-        { t: "", f: "Patrick", m: "", l: "Ryan", s: "Jr." },
-      ],
-    },
-  ],
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Lydia", "m": "", "l": "Ryan", "s": "" },
+        { "t": "", "f": "Patrick", "m": "", "l": "Ryan", "s": "Jr." }
+      ]
+    }
+  ]
 }

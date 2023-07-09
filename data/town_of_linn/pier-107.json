@@ -1,27 +1,27 @@
 {
-  pier: "107",
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "pier": "107",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  property: {
-    association: "Elgin Club",
-    name: "",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "property": {
+    "association": "Elgin Club",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  owners: [
+  "owners": [
     {
-      member: true,
-      membershipType: "",
-      members: [
-        { t: "", f: "Jerome R. & Denise L. Vainisi Family, LLC", m: "", l: "", s: "" },
-      ],
-    },
-  ],
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Jerome R. & Denise L. Vainisi Family, LLC", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
 }

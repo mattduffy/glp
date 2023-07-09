@@ -1,27 +1,27 @@
 {
-  pier: "97",
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "pier": "97",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  property: {
-    association: "S. B. Chapin",
-    name: "",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "property": {
+    "association": "S. B. Chapin",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  owners: [
+  "owners": [
     {
-      member: false,
-      membershipType: "",
-      members: [
-        { t: "", f: "John", m: "", l: "Ciciora", s: "" },
-      ],
-    },
-  ],
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "John", "m": "", "l": "Ciciora", "s": "" }
+      ]
+    }
+  ]
 }

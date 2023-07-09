@@ -1,24 +1,28 @@
 {
-  pier: "115",
-  member: false,
-  membershipType: "",
-  owners: [
-    { t: "", f: "Scot", m: "", l: "Seyfarth", s: "" },
-    { t: "", f: "Eileen", m: "", l: "Seyfarth", s: "" },
-  ],
-  property: {
-    association: "Elgin Club",
-    name: "",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "pier": "115",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "property": {
+    "association": "Elgin Club",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Scot", "m": "", "l": "Seyfarth", "s": "" },
+        { "t": "", "f": "Eileen", "m": "", "l": "Seyfarth", "s": "" }
+      ]
+    }
+  ]
 }

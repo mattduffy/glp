@@ -1,25 +1,25 @@
 {
-  pier: "65",
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "pier": "65",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  property: {
-    association: "",
-    name: "",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "property": {
+    "association": "",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  owners: [
+  "owners": [
     {
-      member: false,
-      membershipType: "",
-      members: [],
-    },
-  ],
+      "member": false,
+      "membershipType": "",
+      "members": []
+    }
+  ]
 }

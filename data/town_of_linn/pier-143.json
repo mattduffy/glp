@@ -1,23 +1,27 @@
 {
-  pier: "143",
-  member: true,
-  membershipType: "",
-  owners: [
-    { t: "", f: "Barbara", m: "", l: "Wittenstrom", s: "" },
-  ],
-  property: {
-    association: "Knollwood",
-    name: "",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "pier": "143",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "property": {
+    "association": "Knollwood",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Barbara", "m": "", "l": "Wittenstrom", "s": "" }
+      ]
+    }
+  ]
 }

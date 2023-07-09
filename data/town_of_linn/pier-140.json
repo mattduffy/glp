@@ -1,23 +1,27 @@
 {
-  pier: "140",
-  member: false,
-  membershipType: "",
-  owners: [
-    { t: "", f: "Howard", m: "A", l: "Vaughan", s: "Jr." },
-  ],
-  property: {
-    association: "Sylvan Trail",
-    name: "",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "pier": "140",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "property": {
+    "association": "Sylvan Trail",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Howard", "m": "A", "l": "Vaughan", "s": "Jr." }
+      ]
+    }
+  ]
 }

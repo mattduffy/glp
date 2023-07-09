@@ -1,24 +1,28 @@
 {
-  pier: "120",
-  member: false,
-  membershipType: "",
-  owners: [
-    { t: "", f: "Martin", m: "", l: "Butler", s: "" },
-    { t: "", f: "Gerry", m: "", l: "Butler", s: "" },
-  ],
-  property: {
-    association: "Elgin Club",
-    name: "",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "pier": "120",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "property": {
+    "association": "Elgin Club",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Martin", "m": "", "l": "Butler", "s": "" },
+        { "t": "", "f": "Gerry", "m": "", "l": "Butler", "s": "" }
+      ]
+    }
+  ]
 }

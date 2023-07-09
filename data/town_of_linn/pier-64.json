@@ -1,27 +1,27 @@
 {
-  pier: "64",
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "pier": "64",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  property: {
-    association: "",
-    name: "Flowerside",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "property": {
+    "association": "",
+    "name": "Flowerside",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  owners: [
+  "owners": [
     {
-      member: true,
-      membershipType: "",
-      members: [
-        { t: "", f: "Rasin Family", m: "", l: "", s: "" },
-      ],
-    },
-  ],
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Rasin Family", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
 }

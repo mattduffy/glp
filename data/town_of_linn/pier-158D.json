@@ -1,23 +1,27 @@
 {
-  pier: "158D",
-  member: false,
-  membershipType: "",
-  owners: [
-    { t: "", f: "Oak Glen Association Pier", m: "", l: "", s: "" },
-  ],
-  property: {
-    association: "Oak Glen",
-    name: "",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "pier": "158D",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "property": {
+    "association": "Oak Glen",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Oak Glen Association Pier", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
 }

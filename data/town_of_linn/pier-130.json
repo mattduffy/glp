@@ -1,24 +1,28 @@
 {
-  pier: "130",
-  member: false,
-  membershipType: "",
-  owners: [
-    { t: "", f: "Ignas", m: "", l: "Labanauskas", s: "" },
-    { t: "", f: "Maureen", m: "", l: "Labanauskas", s: "" },
-  ],
-  property: {
-    association: "",
-    name: "",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "pier": "130",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "property": {
+    "association": "",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Ignas", "m": "", "l": "Labanauskas", "s": "" },
+        { "t": "", "f": "Maureen", "m": "", "l": "Labanauskas", "s": "" }
+      ]
+    }
+  ]
 }

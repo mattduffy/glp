@@ -1,27 +1,27 @@
 {
-  pier: "104",
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "pier": "104",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  property: {
-    association: "Sunset Hills",
-    name: "",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "property": {
+    "association": "Sunset Hills",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
-  owners: [
+  "owners": [
     {
-      member: true,
-      membershipType: "",
-      members: [
-        { t: "", f: "Sunset Hills Association", m: "", l: "", s: "" },
-      ],
-    },
-  ],
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Sunset Hills Association", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
 }

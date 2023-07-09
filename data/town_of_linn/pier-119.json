@@ -1,23 +1,27 @@
 {
-  pier: "119",
-  member: false,
-  membershipType: "",
-  owners: [
-    { t: "", f: "David", m: "W", l: "King", s: "" },
-  ],
-  property: {
-    association: "Elgin Club",
-    name: "Restmore",
-    address: {
-      street: "",
-      city: "Linn",
-      state: "WI",
-      zip: "",
-    },
+  "pier": "119",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  loc: {
-    lon: "",
-    lat: "",
-    geohash: ""
+  "property": {
+    "association": "Elgin Club",
+    "name": "Restmore",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "David", "m": "W", "l": "King", "s": "" }
+      ]
+    }
+  ]
 }

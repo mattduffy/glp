@@ -1,49 +1,35 @@
-[
-  {
-    pier: "158C",
-    member: true,
-    membershipType: "",
-    owners: [
-      { t: "", f: "Oak Glen Association Pier", m: "", l: "", s: "" },
-    ],
-    property: {
-      association: "Oak Glen",
-      name: "",
-      address: {
-        street: "",
-        city: "Linn",
-        state: "WI",
-        zip: "",
-      },
-    },
-    loc: {
-      lon: "",
-      lat: "",
-      geohash: ""
-    },
+{
+  "pier": "158C",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
   },
-  {
-    pier: "158C",
-    member: true,
-    membershipType: "",
-    owners: [
-      { t: "", f: "Jim", m: "", l: "Wycpalek", s: "" },
-      { t: "", f: "Georgia", m: "", l: "Wycpalek", s: "" },
-    ],
-    property: {
-      association: "Oak Glen",
-      name: "",
-      address: {
-        street: "",
-        city: "Linn",
-        state: "WI",
-        zip: "",
-      },
-    },
-    loc: {
-      lon: "",
-      lat: "",
-      geohash: ""
-    },
+  "property": {
+    "association": "Oak Glen",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
   },
-]
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Oak Glen Association Pier", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Jim", "m": "", "l": "Wycpalek", "s": "" },
+        { "t": "", "f": "Georgia", "m": "", "l": "Wycpalek", "s": "" }
+      ]
+    }
+  ]
+}
