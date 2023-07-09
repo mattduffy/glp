@@ -20,7 +20,7 @@
       member: true,
       membershipType: "",
       members: [
-        { t: "", f: "Sunset Hills Association", m: "", l: "" s: ""  },
+        { t: "", f: "Sunset Hills Association", m: "", l: "", s: "" },
       ],
     },
   ],

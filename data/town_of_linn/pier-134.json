@@ -4,8 +4,8 @@
     member: true,
     membershipType: "",
     owners: [
-      { t: "", f: "Brian", m: "", l: "Griffith" s: ""  },
-      { t: "", f: "Sue", m: "", l: "Griffith" s: ""  },
+      { t: "", f: "Brian", m: "", l: "Griffith", s: "" },
+      { t: "", f: "Sue", m: "", l: "Griffith", s: "" },
     ],
     property: {
       association: "",
@@ -28,7 +28,7 @@
     member: true,
     membershipType: "",
     owners: [
-      { t: "", f: "Lois", m: "", l: "Griffith" s: ""  },
+      { t: "", f: "Lois", m: "", l: "Griffith", s: "" },
     ],
     property: {
       association: "",

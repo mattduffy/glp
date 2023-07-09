@@ -3,8 +3,8 @@
   member: true,
   membershipType: "",
   owners: [
-    { t: "", f: "Bob", m: "", l: "Karlblom" s: ""  },
-    { t: "", f: "Carol", m: "", l: "Karlblom" s: ""  },
+    { t: "", f: "Bob", m: "", l: "Karlblom", s: "" },
+    { t: "", f: "Carol", m: "", l: "Karlblom", s: "" },
   ],
   property: {
     association: "Knollwood",

@@ -4,7 +4,7 @@
     member: false,
     membershipType: "",
     owners: [
-      { t: "", f: "Knollwood Association Piers", m: "", l: "" s: ""  },
+      { t: "", f: "Knollwood Association Piers", m: "", l: "", s: "" },
     ],
     property: {
       association: "Knollwood",
@@ -27,8 +27,8 @@
     member: false,
     membershipType: "",
     owners: [
-      { t: "", f: "Farrell", m: "", l: "Frentress" s: ""  },
-      { t: "", f: "Doris", m: "", l: "Frentress" s: ""  },
+      { t: "", f: "Farrell", m: "", l: "Frentress", s: "" },
+      { t: "", f: "Doris", m: "", l: "Frentress", s: "" },
     ],
     property: {
       association: "Knollwood",
@@ -51,8 +51,8 @@
     member: false,
     membershipType: "",
     owners: [
-      { t: "", f: "Bruce", m: "", l: "Johnson" s: ""  },
-      { t: "", f: "Gail", m: "", l: "Johnson" s: ""  },
+      { t: "", f: "Bruce", m: "", l: "Johnson", s: "" },
+      { t: "", f: "Gail", m: "", l: "Johnson", s: "" },
     ],
     property: {
       association: "Knollwood",

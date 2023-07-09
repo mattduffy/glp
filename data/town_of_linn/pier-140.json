@@ -3,7 +3,7 @@
   member: false,
   membershipType: "",
   owners: [
-    { t: "", f: "Howard", m: "A", l: "Vaughan" s: "Jr."  },
+    { t: "", f: "Howard", m: "A", l: "Vaughan", s: "Jr." },
   ],
   property: {
     association: "Sylvan Trail",

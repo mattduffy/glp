@@ -3,7 +3,7 @@
   member: false,
   membershipType: "",
   owners: [
-    { t: "", f: "Oak Glen Association Pier", m: "", l: "" s: ""  },
+    { t: "", f: "Oak Glen Association Pier", m: "", l: "", s: "" },
   ],
   property: {
     association: "Oak Glen",

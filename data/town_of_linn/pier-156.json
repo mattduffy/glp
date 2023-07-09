@@ -3,10 +3,10 @@
   member: true,
   membershipType: "",
   owners: [
-    { t: "", f: "Nancy", m: "", l: "Baird" s: ""  },
-    { t: "", f: "Lanny", m: "", l: "Baird" s: ""  },
-    { t: "", f: "Nolan ", m: "", l: "Baird" s: "III"  },
-    { t: "", f: "Karen ", m: "", l: "Baird" s: ""  },
+    { t: "", f: "Nancy", m: "", l: "Baird", s: "" },
+    { t: "", f: "Lanny", m: "", l: "Baird", s: "" },
+    { t: "", f: "Nolan ", m: "", l: "Baird", s: "III" },
+    { t: "", f: "Karen ", m: "", l: "Baird", s: "" },
   ],
   property: {
     association: "",

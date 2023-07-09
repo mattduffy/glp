@@ -4,7 +4,7 @@
     member: true,
     membershipType: "",
     owners: [
-      { t: "", f: "Sylvan Trail Association Pier", m: "", l: "" s: ""  },
+      { t: "", f: "Sylvan Trail Association Pier", m: "", l: "", s: "" },
     ],
     property: {
       association: "Sylvan Trail",
@@ -27,7 +27,7 @@
     member: true,
     membershipType: "",
     owners: [
-      { t: "", f: "Baxter", m: "", l: "Phillip" s: ""  },
+      { t: "", f: "Baxter", m: "", l: "Phillip", s: "" },
     ],
     property: {
       association: "Sylvan Trail",

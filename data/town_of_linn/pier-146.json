@@ -3,7 +3,7 @@
   member: false,
   membershipType: "",
   owners: [
-    { t: "", f: "Catherine", m: "", l: "Carpenter" s: ""  },
+    { t: "", f: "Catherine", m: "", l: "Carpenter", s: "" },
   ],
   property: {
     association: "Knollwood",

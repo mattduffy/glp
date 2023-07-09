@@ -4,7 +4,7 @@
     member: true,
     membershipType: "",
     owners: [
-      { t: "", f: "Oak Glen Association Pier", m: "", l: "" s: ""  },
+      { t: "", f: "Oak Glen Association Pier", m: "", l: "", s: "" },
     ],
     property: {
       association: "Oak Glen",
@@ -27,8 +27,8 @@
     member: true,
     membershipType: "",
     owners: [
-      { t: "", f: "Jim", m: "", l: "Wycpalek" s: ""  },
-      { t: "", f: "Georgia", m: "", l: "Wycpalek" s: ""  },
+      { t: "", f: "Jim", m: "", l: "Wycpalek", s: "" },
+      { t: "", f: "Georgia", m: "", l: "Wycpalek", s: "" },
     ],
     property: {
       association: "Oak Glen",

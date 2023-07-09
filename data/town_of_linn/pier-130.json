@@ -3,8 +3,8 @@
   member: false,
   membershipType: "",
   owners: [
-    { t: "", f: "Ignas", m: "", l: "Labanauskas" s: ""  },
-    { t: "", f: "Maureen", m: "", l: "Labanauskas" s: ""  },
+    { t: "", f: "Ignas", m: "", l: "Labanauskas", s: "" },
+    { t: "", f: "Maureen", m: "", l: "Labanauskas", s: "" },
   ],
   property: {
     association: "",

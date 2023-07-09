@@ -20,8 +20,8 @@
       member: true,
       membershipType: "",
       members: [
-        { t: "", f: "Annette", m: "", l: "Ebert" s: ""  },
-        { t: "", f: "Jim", m: "", l: "Ebert" s: ""  },
+        { t: "", f: "Annette", m: "", l: "Ebert", s: "" },
+        { t: "", f: "Jim", m: "", l: "Ebert", s: "" },
       ],
     },
   ],

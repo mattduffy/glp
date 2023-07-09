@@ -20,8 +20,8 @@
       member: true,
       membershipType: "",
       members: [
-        { t: "", f: "Daniel", m: "", l: "Affetto" s: ""  },
-        { t: "", f: "Anisa", m: "", l: "Affetto" s: ""  },
+        { t: "", f: "Daniel", m: "", l: "Affetto", s: "" },
+        { t: "", f: "Anisa", m: "", l: "Affetto", s: "" },
       ],
     },
   ],

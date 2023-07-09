@@ -20,7 +20,7 @@
       member: false,
       membershipType: "",
       members: [
-        { t: "", f: "Ashburton Estate", m: "", l: "" s: ""  },
+        { t: "", f: "Ashburton Estate", m: "", l: "", s: "" },
       ],
     },
   ],

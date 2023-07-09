@@ -20,7 +20,7 @@
       member: false,
       membershipType: "",
       members: [
-        { t: "", f: "Geneva Oaks Association Pier", m: "", l: "" s: ""  },
+        { t: "", f: "Geneva Oaks Association Pier", m: "", l: "", s: "" },
       ],
     },
   ],

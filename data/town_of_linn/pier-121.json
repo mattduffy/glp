@@ -3,8 +3,8 @@
   member: true,
   membershipType: "",
   owners: [
-    { t: "", f: "James", m: "", l: "Newman" s: ""  },
-    { t: "", f: "Lynne", m: "", l: "Newman" s: ""  },
+    { t: "", f: "James", m: "", l: "Newman", s: "" },
+    { t: "", f: "Lynne", m: "", l: "Newman", s: "" },
   ],
   property: {
     association: "Elgin Club",

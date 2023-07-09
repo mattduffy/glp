@@ -3,7 +3,7 @@
   member: false,
   membershipType: "",
   owners: [
-    { t: "", f: "", m: "", l: "O’Malley" s: ""  },
+    { t: "", f: "", m: "", l: "O’Malley", s: "" },
   ],
   property: {
     association: "",
@@ -12,12 +12,12 @@
       street: "",
       city: "Linn",
       state: "WI",
-      zip: "",
-    },
+      zip: ""
+    }
   },
   loc: {
     lon: "",
     lat: "",
     geohash: ""
-  },
+  }
 }

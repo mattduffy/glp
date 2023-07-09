@@ -20,7 +20,7 @@
       member: false,
       membershipType: "",
       members: [
-        { t: "", f: "Ryan Family", m: "", l: "" s: ""  },
+        { t: "", f: "Ryan Family", m: "", l: "", s: "" },
       ],
     },
   ],

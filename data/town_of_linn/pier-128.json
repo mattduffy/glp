@@ -4,7 +4,7 @@
     member: true,
     membershipType: "",
     owners: [
-      { t: "", f: "Martha", m: "", l: "Craven" s: ""  },
+      { t: "", f: "Martha", m: "", l: "Craven", s: "" },
     ],
     property: {
       association: "Elgin Club",
@@ -27,7 +27,7 @@
     member: true,
     membershipType: "",
     owners: [
-      { t: "", f: "Scott", m: "", l: "Craven Jones" s: ""  },
+      { t: "", f: "Scott", m: "", l: "Craven Jones", s: "" },
     ],
     property: {
       association: "Elgin Club",

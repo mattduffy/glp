@@ -3,9 +3,9 @@
   member: true,
   membershipType: "",
   owners: [
-    { t: "", f: "Martha", m: "", l: "Redeker" s: ""  },
-    { t: "", f: "Barbara", m: "", l: "Snell" s: ""  },
-    { t: "", f: "John", m: "", l: "Snell" s: ""  },
+    { t: "", f: "Martha", m: "", l: "Redeker", s: "" },
+    { t: "", f: "Barbara", m: "", l: "Snell", s: "" },
+    { t: "", f: "John", m: "", l: "Snell", s: "" },
   ],
   property: {
     association: "Elgin Club",

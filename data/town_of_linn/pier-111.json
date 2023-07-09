@@ -20,7 +20,7 @@
       member: true,
       membershipType: "",
       members: [
-        { t: "", f: "Juliana", m: "", l: "Hummel" s: "" },
+        { t: "", f: "Juliana", m: "", l: "Hummel", s: "" },
       ],
     },
   ],

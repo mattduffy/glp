@@ -20,7 +20,7 @@
       member: false,
       membershipType: "",
       members: [
-        { t: "", f: "Alta Vista Association Pier", m: "", l: "" s: ""  },
+        { t: "", f: "Alta Vista Association Pier", m: "", l: "", s: "" },
       ],
     },
   ],

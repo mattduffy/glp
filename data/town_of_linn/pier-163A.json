@@ -3,7 +3,7 @@
   member: true,
   membershipType: "",
   owners: [
-    { t: "", f: "Gary", m: "R", l: "Bertrand" s: ""  },
+    { t: "", f: "Gary", m: "R", l: "Bertrand", s: "" },
   ],
   property: {
     association: "",

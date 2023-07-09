@@ -20,7 +20,7 @@
       member: false,
       membershipType: "",
       members: [
-        { t: "", f: "Geneva Oak Trail Trust", m: "", l: "" s: ""  },
+        { t: "", f: "Geneva Oak Trail Trust", m: "", l: "", s: "" },
       ],
     },
   ],

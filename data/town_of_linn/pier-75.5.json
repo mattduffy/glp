@@ -20,8 +20,8 @@
       member: true,
       membershipType: "",
       members: [
-        { t: "", f: "Margie", m: "", l: "Riordan" s: ""  },
-        { t: "", f: "Tom", m: "", l: "Riordan" s: ""  },
+        { t: "", f: "Margie", m: "", l: "Riordan", s: "" },
+        { t: "", f: "Tom", m: "", l: "Riordan", s: "" },
       ],
     },
   ],

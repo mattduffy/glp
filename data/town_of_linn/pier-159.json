@@ -3,8 +3,8 @@
   member: true,
   membershipType: "",
   owners: [
-    { t: "", f: "Brian", m: "", l: "Fahrney" s: ""  },
-    { t: "", f: "Mary Beth", m: "", l: "Fahrney" s: ""  },
+    { t: "", f: "Brian", m: "", l: "Fahrney", s: "" },
+    { t: "", f: "Mary Beth", m: "", l: "Fahrney", s: "" },
   ],
   property: {
     association: "",

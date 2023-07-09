@@ -20,7 +20,7 @@
       member: false,
       membershipType: "",
       members: [
-        { t: "", f: "Erik", m: "", l: "Eiseman" s: ""  },
+        { t: "", f: "Erik", m: "", l: "Eiseman", s: "" },
       ],
     },
   ],
