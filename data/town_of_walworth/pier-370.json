@@ -1,0 +1,28 @@
+{
+  "pier": "370",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "name": "Devil’s Descent",
+    "address": {
+      "street": "",
+      "city": "Walworth",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Rosemary", "m": "", "l": "White-Traut", "s": "" },
+        { "t": "", "f": "David", "m": "", "l": "Traut", "s": "" }
+      ]
+    }
+  ]
+}

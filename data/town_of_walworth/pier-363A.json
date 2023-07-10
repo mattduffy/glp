@@ -1,0 +1,28 @@
+{
+  "pier": "363A",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "name": "Angels Landing",
+    "address": {
+      "street": "",
+      "city": "Walworth",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Tim", "m": "", "l": "Feltes", "s": "" },
+        { "t": "", "f": "Karla", "m": "", "l": "Feltes", "s": "" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pier": "364",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "name": "Angels View",
+    "address": {
+      "street": "",
+      "city": "Walworth",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Randy", "m": "", "l": "Conte", "s": "" },
+        { "t": "", "f": "Cheryl", "m": "", "l": "Conte", "s": "" }
+      ]
+    }
+  ]
+}

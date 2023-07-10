@@ -1,0 +1,28 @@
+{
+  "pier": "369",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Walworth",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Alan", "m": "", "l": "Heine", "s": "" },
+        { "t": "", "f": "Sandee", "m": "", "l": "Heine", "s": "" }
+      ]
+    }
+  ]
+}

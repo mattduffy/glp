@@ -1,0 +1,28 @@
+{
+  "pier": "366",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Walworth",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Edward", "m": "", "l": "O’Reilly", "s": "" },
+        { "t": "", "f": "Elizabeth", "m": "", "l": "O’Reilly", "s": "" }
+      ]
+    }
+  ]
+}

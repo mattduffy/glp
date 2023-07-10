@@ -1,0 +1,28 @@
+{
+  "pier": "365",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "name": "Lake Song",
+    "address": {
+      "street": "",
+      "city": "Walworth",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Bill", "m": "", "l": "Birck", "s": "" },
+        { "t": "", "f": "Beverly", "m": "", "l": "Birck", "s": "" }
+      ]
+    }
+  ]
+}
