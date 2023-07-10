@@ -1,0 +1,27 @@
+{
+  "pier": "385",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Belvidere Park",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Belvidere Park Association Boat Pier", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

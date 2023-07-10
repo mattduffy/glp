@@ -1,0 +1,28 @@
+{
+  "pier": "392",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "name": "Boulder Lodge",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "John", "m": "", "l": "Porter", "s": "" },
+        { "t": "", "f": "Annie", "m": "", "l": "Porter", "s": "" }
+      ]
+    }
+  ]
+}

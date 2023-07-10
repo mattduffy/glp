@@ -1,0 +1,28 @@
+{
+  "pier": "388",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Cranks' Roost",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Tom", "m": "", "l": "O'Brien", "s": "" },
+        { "t": "", "f": "Sharon", "m": "", "l": "O'Brien", "s": "" }
+      ]
+    }
+  ]
+}

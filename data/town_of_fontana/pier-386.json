@@ -1,0 +1,42 @@
+{
+  "pier": "386",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Belvidere Park",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Belvidere Park Association Swim Pier", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "John", "m": "", "l": "Pierce", "s": "" },
+        { "t": "", "f": "Debra", "m": "", "l": "Pierce", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Laurance", "m": "", "l": "Pierce", "s": "" }
+      ]
+    }
+  ]
+}

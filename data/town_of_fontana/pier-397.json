@@ -1,0 +1,28 @@
+{
+  "pier": "397",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "name": "Deepwood",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Jeff", "m": "", "l": "Neal", "s": "" },
+        { "t": "", "f": "Susan", "m": "", "l": "Cellmer", "s": "" }
+      ]
+    }
+  ]
+}

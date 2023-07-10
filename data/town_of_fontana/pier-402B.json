@@ -1,0 +1,27 @@
+{
+  "pier": "402B",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Buena Vista",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Deborah", "m": "", "l": "Mecklenburg", "s": "" }
+      ]
+    }
+  ]
+}

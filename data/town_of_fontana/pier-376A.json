@@ -1,0 +1,28 @@
+{
+  "pier": "376A",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Dana", "m": "", "l": "Akiya", "s": "" },
+        { "t": "", "f": "Yoshi", "m": "", "l": "Akiya", "s": "" }
+      ]
+    }
+  ]
+}

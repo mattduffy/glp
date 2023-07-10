@@ -1,0 +1,28 @@
+{
+  "pier": "394",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Aaron", "m": "", "l": "Rankin", "s": "" },
+        { "t": "", "f": "Yeming", "m": "", "l": "Rankin", "s": "" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pier": "405C",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Buena Vista",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Stephen", "m": "", "l": "Dawson", "s": "" },
+        { "t": "", "f": "Tammi", "m": "", "l": "Dawson", "s": "" }
+      ]
+    }
+  ]
+}

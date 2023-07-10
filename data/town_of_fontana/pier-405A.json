@@ -1,0 +1,43 @@
+{
+  "pier": "405A",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Buena Vista",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "John", "m": "", "l": "Rolander", "s": "" },
+        { "t": "", "f": "Dana", "m": "", "l": "Rolander", "s": "" }
+      ]
+    },
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "William", "m": "", "l": "Rolander", "s": "" },
+        { "t": "", "f": "Susan", "m": "", "l": "Rolander", "s": "" }
+      ]
+    },
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "William R. Rolander, Jr. Family", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

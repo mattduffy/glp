@@ -1,0 +1,28 @@
+{
+  "pier": "384",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "name": "Stone Creek",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Frank", "m": "", "l": "Stellato", "s": "" },
+        { "t": "", "f": "Mary Lou", "m": "", "l": "Stellato", "s": "" }
+      ]
+    }
+  ]
+}

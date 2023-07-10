@@ -1,0 +1,28 @@
+{
+  "pier": "378",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "name": "Summer Wind",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Kristen", "m": "", "l": "Freytag", "s": "" },
+        { "t": "", "f": "Tom", "m": "", "l": "Freytag", "s": "" }
+      ]
+    }
+  ]
+}

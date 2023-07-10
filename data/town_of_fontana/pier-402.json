@@ -1,0 +1,95 @@
+{
+  "pier": "402",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Buena Vista",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Buena Vista Club", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Robert", "m": "", "l": "Ahern", "s": "" },
+        { "t": "", "f": "Sharna", "m": "", "l": "Ahern", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Gwen", "m": "", "l": "Clausius", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Bob", "m": "", "l": "Doherty", "s": "" },
+        { "t": "", "f": "Maggie", "m": "", "l": "Doherty", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Rick", "m": "", "l": "Dousman", "s": "" },
+        { "t": "", "f": "Michele", "m": "", "l": "Dousman", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Karen", "m": "", "l": "Gizzi", "s": "" },
+        { "t": "", "f": "Alec", "m": "", "l": "Gizzi", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Michael", "m": "", "l": "Keeling", "s": "" },
+        { "t": "", "f": "Mary", "m": "", "l": "Keeling", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Libit Family", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Doris", "m": "", "l": "Mosser", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "James", "m": "", "l": "Winquist", "s": "" }
+      ]
+    }
+  ]
+}

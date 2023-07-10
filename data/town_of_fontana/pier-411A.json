@@ -1,0 +1,27 @@
+{
+  "pier": "411A",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Buena Vista",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Henry", "m": "", "l": "Abelmann", "s": "" }
+      ]
+    }
+  ]
+}

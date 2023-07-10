@@ -1,0 +1,58 @@
+{
+  "pier": "408",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Buena Vista",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Ginny", "m": "", "l": "Cavanaugh", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Tom", "m": "", "l": "Elwood", "s": "" },
+        { "t": "", "f": "Kathy", "m": "", "l": "Elwood", "s": "" }
+      ]
+    },
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Jane", "m": "", "l": "Hoffmann", "s": "" }
+      ]
+    },
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Jeff", "m": "", "l": "Parkhill", "s": "" },
+        { "t": "", "f": "Karen", "m": "", "l": "Parkhill", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Rob", "m": "", "l": "Rowe", "s": "" },
+        { "t": "", "f": "Suzette", "m": "", "l": "Rowe", "s": "" }
+      ]
+    }
+  ]
+}

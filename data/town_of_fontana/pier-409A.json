@@ -1,0 +1,28 @@
+{
+  "pier": "409A",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Buena Vista",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "John", "m": "", "l": "Reynolds", "s": "" },
+        { "t": "", "f": "Karen", "m": "", "l": "Reynolds", "s": "" }
+      ]
+    }
+  ]
+}

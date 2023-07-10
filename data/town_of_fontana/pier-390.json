@@ -1,0 +1,36 @@
+{
+  "pier": "390",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "name": "House on a Hill",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "David", "m": "", "l": "Curry", "s": "" },
+        { "t": "", "f": "Sara Harkness", "m": "", "l": "Curry", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Ken", "m": "", "l": "Harkness", "s": "" },
+        { "t": "", "f": "Toni", "m": "", "l": "Harkness", "s": "" }
+      ]
+    }
+  ]
+}

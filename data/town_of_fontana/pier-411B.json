@@ -1,0 +1,43 @@
+{
+  "pier": "411B",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Buena Vista",
+    "name": "Pi Cottage",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Frank", "m": "H", "l": "Voris", "s": "" },
+        { "t": "", "f": "Michele", "m": "", "l": "Voris", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Frank", "m": "H", "l": "Wehrstein", "s": "" },
+        { "t": "", "f": "Jennifer", "m": "H", "l": "Wehrstein", "s": "" }
+      ]
+    },
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Geraldine", "m": "H", "l": "Audino", "s": "" }
+      ]
+    }
+  ]
+}

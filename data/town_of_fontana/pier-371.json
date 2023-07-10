@@ -1,0 +1,28 @@
+{
+  "pier": "371",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Blythe", "m": "", "l": "Youngquist", "s": "" },
+        { "t": "", "f": "Bob", "m": "", "l": "Youngquist", "s": "" }
+      ]
+    }
+  ]
+}

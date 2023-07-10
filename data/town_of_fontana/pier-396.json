@@ -1,0 +1,36 @@
+{
+  "pier": "396",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "name": "Windward Point",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Greg", "m": "", "l": "Huck", "s": "" },
+        { "t": "", "f": "Julie", "m": "", "l": "Huck", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "William", "m": "C", "l": "Huck", "s": "" },
+        { "t": "", "f": "Barbara", "m": "A", "l": "Huck", "s": "" }
+      ]
+    }
+  ]
+}

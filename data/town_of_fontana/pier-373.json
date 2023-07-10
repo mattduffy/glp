@@ -1,0 +1,28 @@
+{
+  "pier": "373",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Marie", "m": "", "l": "Keefe", "s": "" },
+        { "t": "", "f": "Mike", "m": "", "l": "Keefe", "s": "" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pier": "391",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "name": "Pinegate",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "George", "m": "", "l": "Atkinson", "s": "" },
+        { "t": "", "f": "Jeanne", "m": "", "l": "Atkinson", "s": "" }
+      ]
+    }
+  ]
+}
