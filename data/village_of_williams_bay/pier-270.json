@@ -1,0 +1,42 @@
+{
+  "pier": "270",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Willams Bay",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Kirsh's Pier Slips", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Joshua", "m": "", "l": "LaCroix", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Dale", "m": "", "l": "Vavra", "s": "" },
+        { "t": "", "f": "Sue", "m": "", "l": "Vavra", "s": "" }
+      ]
+    }
+  ]
+}

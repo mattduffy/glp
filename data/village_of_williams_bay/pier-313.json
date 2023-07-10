@@ -1,0 +1,50 @@
+{
+  "pier": "313",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Congress Club",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Willams Bay",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Congress Club South Dock", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Jane", "m": "", "l": "Harker", "s": "" },
+        { "t": "", "f": "Hagen", "m": "", "l": "Harker", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Carol", "m": "", "l": "Swed", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Andrew", "m": "", "l": "Turza", "s": "" },
+        { "t": "", "f": "Virginia", "m": "", "l": "Turza", "s": "" }
+      ]
+    }
+  ]
+}

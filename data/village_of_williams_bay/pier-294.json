@@ -1,0 +1,28 @@
+{
+  "pier": "294",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Willams Bay",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Mark", "m": "", "l": "Tresnowski", "s": "" },
+        { "t": "", "f": "Rita", "m": "", "l": "Tresnowski", "s": "" }
+      ]
+    }
+  ]
+}

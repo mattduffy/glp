@@ -1,0 +1,27 @@
+{
+  "pier": "304",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Loch Vista Club",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Willams Bay",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Lynne", "m": "", "l": "Railsback", "s": "" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "pier": "311",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Congress Club",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Willams Bay",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Congress Club North Dock", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Arlene", "m": "", "l": "Rose", "s": "" },
+        { "t": "", "f": "John", "m": "", "l": "Rose", "s": "" }
+      ]
+    }
+  ]
+}

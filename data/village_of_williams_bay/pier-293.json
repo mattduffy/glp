@@ -1,0 +1,50 @@
+{
+  "pier": "293",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Oakwood Estates",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Willams Bay",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Oakwood Estates Pier", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Wendy", "m": "", "l": "Darre", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Connie", "m": "", "l": "Gluth", "s": "" },
+        { "t": "", "f": "Rich", "m": "", "l": "Gluth", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Bob", "m": "", "l": "Jelinek", "s": "" },
+        { "t": "", "f": "Susan", "m": "", "l": "Collins", "s": "" }
+      ]
+    }
+  ]
+}

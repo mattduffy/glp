@@ -1,0 +1,28 @@
+{
+  "pier": "330F",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "name": "Club Fabe",
+    "address": {
+      "street": "",
+      "city": "Willams Bay",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Chris", "m": "", "l": "Faber", "s": "" },
+        { "t": "", "f": "Sheila", "m": "", "l": "Faber", "s": "" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "pier": "289",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Summer Haven",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Willams Bay",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Summer Haven Association Pier", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Bob", "m": "", "l": "Peck", "s": "" },
+        { "t": "", "f": "Christina", "m": "", "l": "Peck", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Thomas", "m": "", "l": "Shaughnessy", "s": "" },
+        { "t": "", "f": "Deborah", "m": "", "l": "Shaughnessy", "s": "" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pier": "337",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Dartmouth Woods Assn. (Formerly Rockford Camp)",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Willams Bay",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Steven", "m": "", "l": "Carlson", "s": "" },
+        { "t": "", "f": "Betsy", "m": "", "l": "Carlson", "s": "" }
+      ]
+    }
+  ]
+}

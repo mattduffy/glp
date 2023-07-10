@@ -1,0 +1,27 @@
+{
+  "pier": "351",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "George Williams College of Aurora University",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Willams Bay",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Geneva Lake Water Safety Patrol", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pier": "280",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Willams Bay",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Chester", "m": "", "l": " Rozny", "s": "" },
+        { "t": "", "f": "Mary Ellen", "m": "", "l": " Rozny", "s": "" }
+      ]
+    }
+  ]
+}

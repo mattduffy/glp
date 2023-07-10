@@ -1,0 +1,27 @@
+{
+  "pier": "288",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Bay Colony South Condo",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Willams Bay",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Bay Colony South Condo Pier", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

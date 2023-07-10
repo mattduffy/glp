@@ -1,0 +1,28 @@
+{
+  "pier": "354",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Oak Bank",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Willams Bay",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Daniel", "m": "", "l": "von Rabenau", "s": "" },
+        { "t": "", "f": "Janetta", "m": "", "l": "von Rabenau", "s": "" }
+      ]
+    }
+  ]
+}

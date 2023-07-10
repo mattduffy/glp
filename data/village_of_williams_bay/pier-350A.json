@@ -1,0 +1,27 @@
+{
+  "pier": "350A",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "George Williams College of Aurora University",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Willams Bay",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "George Williams College Boat Dock", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

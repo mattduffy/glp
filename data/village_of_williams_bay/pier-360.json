@@ -1,0 +1,27 @@
+{
+  "pier": "360",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Norman B. Barr Camp",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Willams Bay",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Norman B. Barr Camp", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

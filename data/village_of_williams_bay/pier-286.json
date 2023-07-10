@@ -1,0 +1,42 @@
+{
+  "pier": "286",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Bay Colony 286 North Condo",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Willams Bay",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Bay Colony North Condo Pier", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Barry", "m": "", "l": "Diekelman", "s": "" }
+      ]
+    },
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Todd", "m": "", "l": "Hitzeman", "s": "" }
+        { "t": "", "f": "Susan", "m": "", "l": "Hitzeman", "s": "" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pier": "356",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Oak Bank",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Willams Bay",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Francis", "m": "", "l": "Beidler", "s": "" },
+        { "t": "", "f": "Elizabeth", "m": "", "l": "Tisdahl", "s": "" }
+      ]
+    }
+  ]
+}

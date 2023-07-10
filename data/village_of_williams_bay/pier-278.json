@@ -1,0 +1,28 @@
+{
+  "pier": "278",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Willams Bay",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Keith", "m": "E", "l": "Snidtker", "s": "" },
+        { "t": "", "f": "Ayla", "m": "", "l": "Snidtker De Bosschere", "s": "" }
+      ]
+    }
+  ]
+}

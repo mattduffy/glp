@@ -1,0 +1,27 @@
+{
+  "pier": "333",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Wesley Woods Retreat Center",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Willams Bay",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Wesley Woods Retreat Center", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

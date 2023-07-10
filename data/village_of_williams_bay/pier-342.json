@@ -1,0 +1,28 @@
+{
+  "pier": "342",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Dartmouth Woods Assn. (Formerly Rockford Camp)",
+    "name": "Bally Bay",
+    "address": {
+      "street": "",
+      "city": "Willams Bay",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Jill", "m": "", "l": "Plaza", "s": "" },
+        { "t": "", "f": "Wayne", "m": "", "l": "Plaza", "s": "" }
+      ]
+    }
+  ]
+}

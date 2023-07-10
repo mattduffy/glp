@@ -1,0 +1,27 @@
+{
+  "pier": "325",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Conference Point Center",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Willams Bay",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Conference Point Conference Center", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

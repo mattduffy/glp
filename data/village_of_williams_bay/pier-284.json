@@ -1,0 +1,28 @@
+{
+  "pier": "284",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Willams Bay",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Audrey", "m": "", "l": "Roctman", "s": "" },
+        { "t": "", "f": "Leigh ", "m": "", "l": "Gignilliat", "s": "" }
+      ]
+    }
+  ]
+}

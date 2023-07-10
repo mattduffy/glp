@@ -1,0 +1,27 @@
+{
+  "pier": "312",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Congress Club",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Willams Bay",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Congress Club Swim Pier", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

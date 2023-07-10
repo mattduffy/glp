@@ -1,0 +1,28 @@
+{
+  "pier": "281",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Willams Bay",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Donald", "m": "", "l": "Waterbury", "s": "" },
+        { "t": "", "f": "Kent", "m": "", "l": "Waterbury", "s": "" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pier": "349",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Yerkes Observatory",
+    "name": "",
+    "address": {
+      "street": "",
+      "city": "Willams Bay",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Yerkes Future Foundation", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}
