@@ -1,0 +1,28 @@
+{
+  "pier": "416",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Gordy's Lakefront Marine, Inc. - Main Pier", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

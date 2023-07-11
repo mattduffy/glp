@@ -1,0 +1,28 @@
+{
+  "pier": "518B",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Clear Sky Lodge Assn.",
+    "established": "1989",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Margaret Lombardo Trust", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

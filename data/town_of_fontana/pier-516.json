@@ -1,0 +1,29 @@
+{
+  "pier": "516",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Whippoorwill",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Peter", "m": "", "l": "Wright", "s": "" },
+        { "t": "", "f": "Dina", "m": "", "l": "Wright", "s": "" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pier": "475A",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Indian Hills",
+    "established": "1927",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Bethany", "m": "", "l": "Keown", "s": "" },
+        { "t": "", "f": "Brad", "m": "", "l": "Keown", "s": "" }
+      ]
+    }
+  ]
+}

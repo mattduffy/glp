@@ -1,0 +1,29 @@
+{
+  "pier": "412A",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Barbara", "m": "", "l": "Sullivan", "s": "" },
+        { "t": "", "f": "Ginny", "m": "", "l": "Cavanagh", "s": "" }
+      ]
+    }
+  ]
+}

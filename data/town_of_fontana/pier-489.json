@@ -1,0 +1,29 @@
+{
+  "pier": "489",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Catherine", "m": "", "l": "O'Malley", "s": "" },
+        { "t": "", "f": "Michael", "m": "", "l": "O'Malley", "s": "" }
+      ]
+    }
+  ]
+}

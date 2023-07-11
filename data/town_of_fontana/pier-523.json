@@ -1,0 +1,28 @@
+{
+  "pier": "523",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Lake Geneva Yacht Club",
+    "established": "1874",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Yacht Club West Main Pier", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pier": "490",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Phil", "m": "", "l": "Carollo", "s": "" },
+        { "t": "", "f": "Nila", "m": "", "l": "Carollo", "s": "" }
+      ]
+    }
+  ]
+}

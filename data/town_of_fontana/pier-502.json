@@ -1,0 +1,53 @@
+{
+  "pier": "502",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Westgate",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Westgate Association Pier", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Bradley & Rebecca Fideler", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "estateName": "Flower Cottage",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Bob", "m": "", "l": "Kelly", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Charley", "m": "", "l": "Zeches", "s": "" },
+        { "t": "", "f": "Bob", "m": "", "l": "Zeches", "s": "" }
+      ]
+    }
+  ]
+}

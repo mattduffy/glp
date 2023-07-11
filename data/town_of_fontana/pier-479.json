@@ -1,13 +1,13 @@
 {
-  "pier": "412",
+  "pier": "479",
   "loc": {
     "lon": "",
     "lat": "",
     "geohash": ""
   },
   "property": {
-    "association": "Fontana Shores Condo",
-    "established": "1968",
+    "association": "Club Unique",
+    "established": "1927",
     "address": {
       "street": "",
       "city": "Fontana",
@@ -18,19 +18,18 @@
   "owners": [
     {
       "estateName": "",
-      "member": false,
-      "membershipType": "",
-      "members": [
-        { "t": "", "f": "Fontana Shores Condo. Pier", "m": "", "l": "", "s": "" }
-      ]
-    },
-    {
-      "estateName": "Best View on the Lake",
       "member": true,
       "membershipType": "",
       "members": [
-        { "t": "", "f": "Bob", "m": "", "l": "Tangredi", "s": "" },
-        { "t": "", "f": "Erin", "m": "", "l": "Tangredi", "s": "" }
+        { "t": "", "f": "Club Unique", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "David", "m": "A", "l": "Rasmussen", "s": "" }
       ]
     }
   ]

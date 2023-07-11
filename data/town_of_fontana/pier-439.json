@@ -1,0 +1,28 @@
+{
+  "pier": "439",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Country Club Estates",
+    "established": "1926",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Country Club Estates Boat Pier", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

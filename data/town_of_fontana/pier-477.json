@@ -1,0 +1,28 @@
+{
+  "pier": "477",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Club Unique",
+    "established": "1927",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Blue Haven",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "George H. Kiefer, Jr. Family", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

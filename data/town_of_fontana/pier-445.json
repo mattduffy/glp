@@ -1,0 +1,29 @@
+{
+  "pier": "445",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Glenwood Springs",
+    "established": "1892",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Linda", "m": "", "l": "Umans", "s": "" },
+        { "t": "", "f": "Craig", "m": "", "l": "Umans", "s": "" }
+      ]
+    }
+  ]
+}

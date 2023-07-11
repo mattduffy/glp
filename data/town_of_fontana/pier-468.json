@@ -1,0 +1,28 @@
+{
+  "pier": "468",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Indian Hills",
+    "established": "1927",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Carylsue", "m": "", "l": "Ambel", "s": "" }
+      ]
+    }
+  ]
+}

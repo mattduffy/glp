@@ -1,0 +1,29 @@
+{
+  "pier": "515",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Julia", "m": "", "l": "Wegner", "s": "" },
+        { "t": "", "f": "Ken", "m": "", "l": "Wegner", "s": "" }
+      ]
+    }
+  ]
+}

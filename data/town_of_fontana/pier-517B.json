@@ -1,0 +1,29 @@
+{
+  "pier": "517B",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Clear Sky Lodge Assn.",
+    "established": "1989",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Cathleen", "m": "", "l": "Dettling", "s": "" },
+        { "t": "", "f": "Jay", "m": "", "l": "Dettling", "s": "" }
+      ]
+    }
+  ]
+}

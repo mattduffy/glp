@@ -1,0 +1,46 @@
+{
+  "pier": "518",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Clear Sky Lodge Assn.",
+    "established": "1989",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Dan", "m": "", "l": "Gallagher", "s": "" },
+        { "t": "", "f": "Sarah", "m": "", "l": "Gallagher", "s": "" }
+      ]
+    },
+    {
+      "estateName": "Clear Sky Lodge",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Murray", "m": "", "l": "Peretz", "s": "" },
+        { "t": "", "f": "Anne Marie", "m": "", "l": "Peretz", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "The Lombardo Family", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

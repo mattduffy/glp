@@ -1,0 +1,28 @@
+{
+  "pier": "473",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Indian Hills",
+    "established": "1927",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Janess/Smith Families", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

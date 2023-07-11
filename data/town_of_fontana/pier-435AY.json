@@ -1,0 +1,29 @@
+{
+  "pier": "435AY",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Abbey Harbor Yacht Club",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Edward", "m": "", "l": "Breen", "s": "" },
+        { "t": "", "f": "Elizabeth", "m": "", "l": "Davis", "s": "" }
+      ]
+    }
+  ]
+}

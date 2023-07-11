@@ -1,0 +1,29 @@
+{
+  "pier": "483",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "John", "m": "", "l": "Pagliari", "s": "" },
+        { "t": "", "f": "Rose", "m": "", "l": "Pagliari", "s": "" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pier": "521A",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Ten Acre Wood",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Martin", "m": "", "l": "O'Connor", "s": "" },
+        { "t": "", "f": "Maureen", "m": "", "l": "O'Connor", "s": "" }
+      ]
+    }
+  ]
+}

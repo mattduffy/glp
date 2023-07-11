@@ -1,0 +1,29 @@
+{
+  "pier": "506",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "David", "m": "", "l": "Weinberg", "s": "" },
+        { "t": "", "f": "Grace", "m": "Allen", "l": "Newton", "s": "" }
+      ]
+    }
+  ]
+}

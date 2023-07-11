@@ -1,0 +1,45 @@
+{
+  "pier": "524",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Lake Geneva Yacht Club",
+    "established": "1874",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Yacht Club East Main Pier", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Hans", "m": "", "l": "Melges", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "James", "m": "", "l": "Smith", "s": "" },
+        { "t": "", "f": "Kathleen", "m": "", "l": "Smith", "s": "" }
+      ]
+    }
+  ]
+}

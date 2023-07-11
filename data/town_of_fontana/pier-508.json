@@ -1,0 +1,29 @@
+{
+  "pier": "508",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Tom", "m": "", "l": "Kolder", "s": "" },
+        { "t": "", "f": "Cherie", "m": "", "l": "Kolder", "s": "" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "pier": "450",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Glenwood Springs",
+    "established": "1892",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Subdiv. Pier Glenwood Springs", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Ann", "m": "", "l": "Hagerty", "s": "" },
+        { "t": "", "f": "Jack", "m": "", "l": "Hagerty", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Michael", "m": "", "l": "Kallergis", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Edward", "m": "", "l": "Maloney", "s": "" },
+        { "t": "", "f": "Cheryl", "m": "", "l": "Maloney", "s": "" }
+      ]
+    },
+    {
+      "estateName": "Maus Haus",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "James", "m": "", "l": "Maus", "s": "" },
+        { "t": "", "f": "Michelle", "m": "", "l": "Maus", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Peggy", "m": "", "l": "Pollitt", "s": "" }
+      ]
+    }
+  ]
+}

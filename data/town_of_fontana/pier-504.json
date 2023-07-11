@@ -1,0 +1,28 @@
+{
+  "pier": "504",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Eastgate",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "VEL Family Partnership", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

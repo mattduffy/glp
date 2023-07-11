@@ -1,0 +1,28 @@
+{
+  "pier": "494",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Sylvan Glen",
+    "established": "1900",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Sylvan Glen Association", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

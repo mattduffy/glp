@@ -1,0 +1,29 @@
+{
+  "pier": "475",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Indian Hills",
+    "established": "1927",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Christopher", "m": "", "l": "Martin", "s": "" },
+        { "t": "", "f": "Tracy", "m": "", "l": "Martin", "s": "" }
+      ]
+    }
+  ]
+}

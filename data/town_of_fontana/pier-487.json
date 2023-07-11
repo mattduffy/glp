@@ -1,0 +1,29 @@
+{
+  "pier": "487",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Rainbow Point",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Joe", "m": "", "l": "Pringle", "s": "" },
+        { "t": "", "f": "Tami", "m": "", "l": "Pringle", "s": "" }
+      ]
+    }
+  ]
+}

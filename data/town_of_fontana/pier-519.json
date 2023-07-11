@@ -1,13 +1,13 @@
 {
-  "pier": "412",
+  "pier": "519",
   "loc": {
     "lon": "",
     "lat": "",
     "geohash": ""
   },
   "property": {
-    "association": "Fontana Shores Condo",
-    "established": "1968",
+    "association": "Brookwood",
+    "established": "1956",
     "address": {
       "street": "",
       "city": "Fontana",
@@ -21,16 +21,15 @@
       "member": false,
       "membershipType": "",
       "members": [
-        { "t": "", "f": "Fontana Shores Condo. Pier", "m": "", "l": "", "s": "" }
+        { "t": "", "f": "William", "m": "", "l": "Pope", "s": "" }
       ]
     },
     {
-      "estateName": "Best View on the Lake",
+      "estateName": "The Echoes",
       "member": true,
       "membershipType": "",
       "members": [
-        { "t": "", "f": "Bob", "m": "", "l": "Tangredi", "s": "" },
-        { "t": "", "f": "Erin", "m": "", "l": "Tangredi", "s": "" }
+        { "t": "", "f": "Theodore", "m": "R", "l": "Tetzlaff", "s": "" }
       ]
     }
   ]

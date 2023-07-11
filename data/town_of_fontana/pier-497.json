@@ -1,0 +1,44 @@
+{
+  "pier": "497",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Abbey Springs",
+    "established": "1971",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Abbey Springs Condo Assoc.", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Jeff Germanotta", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Mr. & Mrs. John L. Simpson, Jr.", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

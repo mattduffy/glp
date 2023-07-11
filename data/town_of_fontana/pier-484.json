@@ -1,0 +1,28 @@
+{
+  "pier": "484",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Sans Souci",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Skip & Linda Bliss", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

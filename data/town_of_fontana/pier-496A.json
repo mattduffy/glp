@@ -1,0 +1,29 @@
+{
+  "pier": "496A",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Frank", "m": "", "l": "Brewe", "s": "" },
+        { "t": "", "f": "Pam", "m": "", "l": "Monaco", "s": "" }
+      ]
+    }
+  ]
+}

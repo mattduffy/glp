@@ -1,0 +1,28 @@
+{
+  "pier": "512",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Festina Lente",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Hugh", "m": "", "l": "Plunkett", "s": "" }
+      ]
+    }
+  ]
+}

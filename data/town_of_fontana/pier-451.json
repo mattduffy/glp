@@ -1,0 +1,28 @@
+{
+  "pier": "451",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Glenwood Springs",
+    "established": "1892",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Lazy Acres",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Tom", "m": "W", "l": "Nicholson", "s": "" }
+      ]
+    }
+  ]
+}

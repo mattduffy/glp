@@ -1,0 +1,29 @@
+{
+  "pier": "507",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Evergreen",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Gregg", "m": "", "l": "Kunes", "s": "" },
+        { "t": "", "f": "Debbie", "m": "", "l": "Kunes", "s": "" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pier": "511",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Fontana",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Robert", "m": "", "l": "Jackson", "s": "" },
+        { "t": "", "f": "Lynette", "m": "", "l": "Jackson", "s": "" }
+      ]
+    }
+  ]
+}
