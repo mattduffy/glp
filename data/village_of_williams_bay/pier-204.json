@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "Cedar Point Park",
-    "name": "Port Phillip",
+    "established": "1922",
     "address": {
       "street": "",
       "city": "Willams Bay",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Port Phillip",
       "member": true,
       "membershipType": "",
       "members": [

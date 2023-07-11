@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "House on a Hill",
+    "established": "",
     "address": {
       "street": "",
       "city": "Fontana",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "",
       "member": true,
       "membershipType": "",
       "members": [
@@ -25,6 +26,7 @@
       ]
     },
     {
+      "estateName": "House on a Hill",
       "member": true,
       "membershipType": "",
       "members": [

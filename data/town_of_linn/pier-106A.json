@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "Camp Highview",
+    "established": "",
     "address": {
       "street": "",
       "city": "Linn",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Camp Highview",
       "member": true,
       "membershipType": "",
       "members": [

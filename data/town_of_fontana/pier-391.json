@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "Pinegate",
+    "established": "",
     "address": {
       "street": "",
       "city": "Fontana",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Pinegate",
       "member": true,
       "membershipType": "",
       "members": [

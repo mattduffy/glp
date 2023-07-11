@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "Cedar Point Park",
-    "name": "Sweet Water",
+    "established": "1922",
     "address": {
       "street": "",
       "city": "Linn",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Sweet Water",
       "member": true,
       "membershipType": "",
       "members": [

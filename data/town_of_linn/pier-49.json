@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "Green Gables",
+    "established": "",
     "address": {
       "street": "",
       "city": "Linn",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Green Gables",
       "member": true,
       "membershipType": "",
       "members": [

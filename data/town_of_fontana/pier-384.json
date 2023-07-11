@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "Stone Creek",
+    "established": "",
     "address": {
       "street": "",
       "city": "Fontana",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Stone Creek",
       "member": true,
       "membershipType": "",
       "members": [

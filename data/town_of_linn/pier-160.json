@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "Crystal Falls",
+    "established": "",
     "address": {
       "street": "",
       "city": "Linn",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Crystal Falls",
       "member": true,
       "membershipType": "",
       "members": [

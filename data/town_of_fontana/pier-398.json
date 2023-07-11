@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "Deepwood",
+    "established": "",
     "address": {
       "street": "",
       "city": "Fontana",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Deepwood",
       "member": true,
       "membershipType": "",
       "members": [
@@ -25,6 +26,7 @@
       ]
     },
     {
+      "estateName": "Deepwood",
       "member": true,
       "membershipType": "",
       "members": [

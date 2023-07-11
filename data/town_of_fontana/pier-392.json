@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "Boulder Lodge",
+    "established": "",
     "address": {
       "street": "",
       "city": "Fontana",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Boulder Lodge",
       "member": true,
       "membershipType": "",
       "members": [

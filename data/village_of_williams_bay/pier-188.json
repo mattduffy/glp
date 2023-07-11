@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "Cedar Point Park",
-    "name": "Hays Acre",
+    "established": "1922",
     "address": {
       "street": "",
       "city": "Willams Bay",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Hays Acre",
       "member": true,
       "membershipType": "",
       "members": [

@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "Embree House",
+    "established": "",
     "address": {
       "street": "",
       "city": "Fontana",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Embree House",
       "member": true,
       "membershipType": "",
       "members": [

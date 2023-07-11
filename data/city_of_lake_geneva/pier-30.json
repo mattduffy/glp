@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "Covenant Harbor Bible Camp",
-    "name": "",
+    "established": "",
     "address": {
       "street": "",
       "city": "Lake Geneva",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "",
       "member": false,
       "membershipType": "",
       "members": [

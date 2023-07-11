@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "Blue Hill",
+    "established": "",
     "address": {
       "street": "",
       "city": "Lake Geneva",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Blue Hill",
       "member": false,
       "membershipType": "",
       "members": [

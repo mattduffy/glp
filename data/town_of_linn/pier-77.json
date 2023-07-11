@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "Bonnie Brae",
-    "name": "The Cliffs",
+    "established": "1916",
     "address": {
       "street": "",
       "city": "Linn",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "The Cliffs",
       "member": false,
       "membershipType": "",
       "members": [

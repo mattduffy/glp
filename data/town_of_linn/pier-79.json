@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "Bonnie Brae",
-    "name": "Lane’s End",
+    "established": "1916",
     "address": {
       "street": "",
       "city": "Linn",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Lane’s End",
       "member": false,
       "membershipType": "",
       "members": [

@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "Towering Elms",
+    "established": "",
     "address": {
       "street": "",
       "city": "Willams Bay",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Towering Elms",
       "member": false,
       "membershipType": "",
       "members": [

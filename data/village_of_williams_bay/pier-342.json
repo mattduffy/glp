@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "Dartmouth Woods Assn. (Formerly Rockford Camp)",
-    "name": "Bally Bay",
+    "established": "1984",
     "address": {
       "street": "",
       "city": "Willams Bay",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Bally Bay",
       "member": true,
       "membershipType": "",
       "members": [

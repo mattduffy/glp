@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "Wychwood",
+    "established": "",
     "address": {
       "street": "",
       "city": "Linn",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Wychwood",
       "member": true,
       "membershipType": "",
       "members": [

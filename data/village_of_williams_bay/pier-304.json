@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "Loch Vista Club",
-    "name": "",
+    "established": "1921",
     "address": {
       "street": "",
       "city": "Willams Bay",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "",
       "member": true,
       "membershipType": "",
       "members": [

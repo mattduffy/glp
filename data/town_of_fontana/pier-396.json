@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "Windward Point",
+    "established": "",
     "address": {
       "street": "",
       "city": "Fontana",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Windward Point",
       "member": false,
       "membershipType": "",
       "members": [
@@ -25,6 +26,7 @@
       ]
     },
     {
+      "estateName": "Windward Point",
       "member": true,
       "membershipType": "",
       "members": [

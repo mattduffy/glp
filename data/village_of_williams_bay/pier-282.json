@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "",
+    "established": "",
     "address": {
       "street": "",
       "city": "Willams Bay",
@@ -17,11 +17,12 @@
   },
   "owners": [
     {
+      "estateName": "",
       "member": true,
       "membershipType": "",
       "members": [
         { "t": "", "f": "John", "m": "", "l": "O’Sullivan", "s": "" },
-        { "t": "", "f": "Colleen", "m": "", "l": "O’Sullivan", "s": "" },
+        { "t": "", "f": "Colleen", "m": "", "l": "O’Sullivan", "s": "" }
       ]
     }
   ]

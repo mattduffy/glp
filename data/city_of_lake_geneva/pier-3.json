@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "ESBRO",
+    "established": "",
     "address": {
       "street": "",
       "city": "Lake Geneva",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "ESBRO",
       "member": false,
       "membershipType": "",
       "members": [

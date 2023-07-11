@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "The Narrows",
+    "established": "",
     "address": {
       "street": "",
       "city": "Linn",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "The Narrows",
       "member": true,
       "membershipType": "",
       "members": [

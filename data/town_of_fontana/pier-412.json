@@ -1,16 +1,16 @@
 {
-  "pier": "311",
+  "pier": "412",
   "loc": {
     "lon": "",
     "lat": "",
     "geohash": ""
   },
   "property": {
-    "association": "Congress Club",
-    "established": "1882",
+    "association": "Fontana Shores Condo",
+    "established": "1968",
     "address": {
       "street": "",
-      "city": "Willams Bay",
+      "city": "Fontana",
       "state": "WI",
       "zip": ""
     }
@@ -21,16 +21,16 @@
       "member": false,
       "membershipType": "",
       "members": [
-        { "t": "", "f": "Congress Club North Dock", "m": "", "l": "", "s": "" }
+        { "t": "", "f": "Fontana Shores Condo. Pier", "m": "H", "l": "", "s": "" }
       ]
     },
     {
-      "estateName": "",
+      "estateName": "Best View on the Lake",
       "member": true,
       "membershipType": "",
       "members": [
-        { "t": "", "f": "Arlene", "m": "", "l": "Rose", "s": "" },
-        { "t": "", "f": "John", "m": "", "l": "Rose", "s": "" }
+        { "t": "", "f": "Bob", "m": "", "l": "Tangredi", "s": "" },
+        { "t": "", "f": "Erin", "m": "", "l": "Tangredi", "s": "" }
       ]
     }
   ]

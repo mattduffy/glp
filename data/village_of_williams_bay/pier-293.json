@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "Oakwood Estates",
-    "name": "",
+    "established": "1921",
     "address": {
       "street": "",
       "city": "Willams Bay",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "",
       "member": true,
       "membershipType": "",
       "members": [
@@ -24,6 +25,7 @@
       ]
     },
     {
+      "estateName": "",
       "member": true,
       "membershipType": "",
       "members": [
@@ -31,6 +33,7 @@
       ]
     },
     {
+      "estateName": "",
       "member": true,
       "membershipType": "",
       "members": [
@@ -39,6 +42,7 @@
       ]
     },
     {
+      "estateName": "",
       "member": true,
       "membershipType": "",
       "members": [

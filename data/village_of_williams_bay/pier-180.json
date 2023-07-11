@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "Glen Annie",
+    "established": "",
     "address": {
       "street": "",
       "city": "Willams Bay",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Glen Annie",
       "member": true,
       "membershipType": "",
       "members": [

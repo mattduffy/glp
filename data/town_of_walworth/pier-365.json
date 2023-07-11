@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "Lake Song",
+    "established": "",
     "address": {
       "street": "",
       "city": "Walworth",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Lake Song",
       "member": true,
       "membershipType": "",
       "members": [

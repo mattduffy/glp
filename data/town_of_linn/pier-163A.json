@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "Serenity",
+    "established": "",
     "address": {
       "street": "",
       "city": "Linn",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Serenity",
       "member": true,
       "membershipType": "",
       "members": [

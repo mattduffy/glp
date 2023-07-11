@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "Congress Club",
-    "name": "",
+    "established": "1882",
     "address": {
       "street": "",
       "city": "Willams Bay",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "",
       "member": false,
       "membershipType": "",
       "members": [
@@ -24,6 +25,7 @@
       ]
     },
     {
+      "estateName": "",
       "member": true,
       "membershipType": "",
       "members": [
@@ -32,6 +34,7 @@
       ]
     },
     {
+      "estateName": "",
       "member": true,
       "membershipType": "",
       "members": [
@@ -39,6 +42,7 @@
       ]
     },
     {
+      "estateName": "",
       "member": true,
       "membershipType": "",
       "members": [

@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "Bonnie Brae",
-    "name": "Nebel North",
+    "established": "1916",
     "address": {
       "street": "",
       "city": "Linn",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Nebel North",
       "member": true,
       "membershipType": "",
       "members": [

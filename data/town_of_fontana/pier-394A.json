@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "Camp Lake Geneva",
+    "established": "",
     "address": {
       "street": "",
       "city": "Fontana",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Camp Lake Geneva",
       "member": true,
       "membershipType": "",
       "members": [

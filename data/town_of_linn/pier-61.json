@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "Edgewood",
+    "established": "",
     "address": {
       "street": "",
       "city": "Linn",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Edgewood",
       "member": true,
       "membershipType": "",
       "members": [

@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "Bonnie Brae",
-    "name": "Forest Edge",
+    "established": "1916",
     "address": {
       "street": "",
       "city": "Linn",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Forest Edge",
       "member": true,
       "membershipType": "",
       "members": [

@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "Angels Landing",
+    "established": "",
     "address": {
       "street": "",
       "city": "Walworth",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Angels Landing",
       "member": true,
       "membershipType": "",
       "members": [

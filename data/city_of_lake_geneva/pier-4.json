@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "Maple Lawn",
+    "established": "",
     "address": {
       "street": "",
       "city": "Lake Geneva",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Maple Lawn",
       "member": true,
       "membershipType": "",
       "members": [

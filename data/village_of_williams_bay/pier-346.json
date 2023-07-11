@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "",
+    "established": "",
     "address": {
       "street": "",
       "city": "Willams Bay",
@@ -17,11 +17,12 @@
   },
   "owners": [
     {
+      "estateName": "",
       "member": true,
       "membershipType": "",
       "members": [
         { "t": "", "f": "Melissa", "m": "", "l": "Herrman", "s": "" },
-        { "t": "", "f": "Bob", "m": "", "l": "Herrman", "s": "" },
+        { "t": "", "f": "Bob", "m": "", "l": "Herrman", "s": "" }
       ]
     }
   ]

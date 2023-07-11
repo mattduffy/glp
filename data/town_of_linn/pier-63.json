@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "Hodge Podge Cottage",
+    "established": "",
     "address": {
       "street": "",
       "city": "Linn",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Hodge Podge Cottage",
       "member": true,
       "membershipType": "",
       "members": [

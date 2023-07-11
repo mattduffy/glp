@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "Knollwood",
-    "name": "",
+    "established": "1926",
     "address": {
       "street": "",
       "city": "Linn",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "",
       "member": true,
       "membershipType": "",
       "members": [

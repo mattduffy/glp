@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "Jerseyhurst",
+    "established": "",
     "address": {
       "street": "",
       "city": "Linn",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Jerseyhurst",
       "member": false,
       "membershipType": "",
       "members": [

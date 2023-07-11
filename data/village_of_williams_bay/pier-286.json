@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "Bay Colony 286 North Condo",
-    "name": "",
+    "established": "1967",
     "address": {
       "street": "",
       "city": "Willams Bay",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "",
       "member": false,
       "membershipType": "",
       "members": [
@@ -24,6 +25,7 @@
       ]
     },
     {
+      "estateName": "",
       "member": true,
       "membershipType": "",
       "members": [
@@ -31,10 +33,11 @@
       ]
     },
     {
+      "estateName": "",
       "member": true,
       "membershipType": "",
       "members": [
-        { "t": "", "f": "Todd", "m": "", "l": "Hitzeman", "s": "" }
+        { "t": "", "f": "Todd", "m": "", "l": "Hitzeman", "s": "" },
         { "t": "", "f": "Susan", "m": "", "l": "Hitzeman", "s": "" }
       ]
     }

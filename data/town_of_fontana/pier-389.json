@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "Hawks Woods",
-    "name": "",
+    "established": "",
     "address": {
       "street": "",
       "city": "Fontana",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "",
       "member": true,
       "membershipType": "",
       "members": [

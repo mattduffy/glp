@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "Oak Glen",
-    "name": "",
+    "established": "1970",
     "address": {
       "street": "",
       "city": "Linn",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "",
       "member": false,
       "membershipType": "",
       "members": [

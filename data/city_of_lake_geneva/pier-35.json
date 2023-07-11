@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "Geneva Bay Estates",
-    "name": "Butternut",
+    "established": "1956",
     "address": {
       "street": "",
       "city": "Lake Geneva",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Butternut",
       "member": true,
       "membershipType": "",
       "members": [

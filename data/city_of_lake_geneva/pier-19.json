@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "Lake Geneva Manor",
-    "name": "Willows Retreat",
+    "established": "1924",
     "address": {
       "street": "",
       "city": "Lake Geneva",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Willows Retreat",
       "member": true,
       "membershipType": "",
       "members": [

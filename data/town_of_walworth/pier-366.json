@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "",
+    "established": "",
     "address": {
       "street": "",
       "city": "Walworth",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "",
       "member": true,
       "membershipType": "",
       "members": [

@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "Devil’s Descent",
+    "established": "",
     "address": {
       "street": "",
       "city": "Walworth",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Devil’s Descent",
       "member": true,
       "membershipType": "",
       "members": [

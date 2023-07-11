@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "Cedar Point Park",
-    "name": "La Hacienda",
+    "established": "1922",
     "address": {
       "street": "",
       "city": "Willams Bay",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "La Hacienda",
       "member": true,
       "membershipType": "",
       "members": [

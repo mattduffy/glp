@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "Buena Vista",
-    "name": "",
+    "established": "1912",
     "address": {
       "street": "",
       "city": "Fontana",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "",
       "member": true,
       "membershipType": "",
       "members": [
@@ -25,6 +26,7 @@
       ]
     },
     {
+      "estateName": "",
       "member": false,
       "membershipType": "",
       "members": [

@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "",
-    "name": "",
+    "established": "",
     "address": {
       "street": "",
       "city": "Willams Bay",
@@ -17,10 +17,11 @@
   },
   "owners": [
     {
+      "estateName": "",
       "member": false,
       "membershipType": "",
       "members": [
-        { "t": "", "f": "Dave", "m": "", "l": "Stout", "s": "" },
+        { "t": "", "f": "Dave", "m": "", "l": "Stout", "s": "" }
       ]
     }
   ]

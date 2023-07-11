@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "Lake Geneva Fresh Air Association (Holiday Home)",
-    "name": "",
+    "established": "1887",
     "address": {
       "street": "",
       "city": "Willams Bay",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "",
       "member": false,
       "membershipType": "",
       "members": [

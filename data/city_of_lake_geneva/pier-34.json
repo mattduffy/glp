@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "Geneva Bay Estates",
-    "name": "Somervilla",
+    "established": "1956",
     "address": {
       "street": "",
       "city": "Lake Geneva",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Somervilla",
       "member": true,
       "membershipType": "",
       "members": [

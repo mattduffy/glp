@@ -7,7 +7,7 @@
   },
   "property": {
     "association": "Cedar Point Park",
-    "name": "Sunset Point",
+    "established": "1922",
     "address": {
       "street": "",
       "city": "Willams Bay",
@@ -17,6 +17,7 @@
   },
   "owners": [
     {
+      "estateName": "Sunset Point",
       "member": true,
       "membershipType": "",
       "members": [
