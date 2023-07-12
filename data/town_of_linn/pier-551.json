@@ -1,0 +1,29 @@
+{
+  "pier": "551",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Twin Pines",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Richard", "m": "", "l": "Cucco", "s": "" },
+        { "t": "", "f": "Martha", "m": "", "l": "Cucco", "s": "" }
+      ]
+    }
+  ]
+}

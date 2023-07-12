@@ -1,0 +1,28 @@
+{
+  "pier": "544",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Sybil Lane Assn.",
+    "established": "1914",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Sybil Lane Association", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

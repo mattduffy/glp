@@ -1,0 +1,29 @@
+{
+  "pier": "643",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Wooddale Beach Assn.",
+    "established": "1926",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Dan", "m": "", "l": "Nordsieck", "s": "" },
+        { "t": "", "f": "Karen", "m": "", "l": "Nordsieck", "s": "" }
+      ]
+    }
+  ]
+}

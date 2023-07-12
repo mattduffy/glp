@@ -1,0 +1,29 @@
+{
+  "pier": "657",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Wooddale Lakeshore 645 Property Owners *646 Assn.",
+    "established": "1942",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "On Golden Pier",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Andrew", "m": "J", "l": "Kubicsko", "s": "Jr." },
+        { "t": "", "f": "Robin", "m": "", "l": "Randolph", "s": "" }
+      ]
+    }
+  ]
+}

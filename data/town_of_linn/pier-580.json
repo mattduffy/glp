@@ -1,0 +1,28 @@
+{
+  "pier": "580",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Estates of Black Point",
+    "established": "1888",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Black Point",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Black Point Historic Preserve", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

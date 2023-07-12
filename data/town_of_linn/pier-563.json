@@ -1,0 +1,29 @@
+{
+  "pier": "563",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Wayne", "m": "", "l": "Kocourek", "s": "" },
+        { "t": "", "f": "Nan", "m": "", "l": "Kocourek", "s": "" }
+      ]
+    }
+  ]
+}

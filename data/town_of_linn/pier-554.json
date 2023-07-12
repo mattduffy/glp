@@ -1,0 +1,29 @@
+{
+  "pier": "554",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Happy 'ours",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Gregg", "m": "", "l": "Liebovich", "s": "" },
+        { "t": "", "f": "Gail", "m": "", "l": "Liebovich", "s": "" }
+      ]
+    }
+  ]
+}

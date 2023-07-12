@@ -1,0 +1,29 @@
+{
+  "pier": "652",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Wooddale Lakeshore 645 Property Owners *646 Assn.",
+    "established": "1942",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Chuck", "m": "", "l": "Sprovieri", "s": "" },
+        { "t": "", "f": "Lisa", "m": "", "l": "Sprovieri", "s": "" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pier": "625",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Valley Park Assn.",
+    "established": "1970",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Michael", "m": "", "l": "Quinlan", "s": "" },
+        { "t": "", "f": "Marilyn", "m": "", "l": "Quinlan", "s": "" }
+      ]
+    }
+  ]
+}

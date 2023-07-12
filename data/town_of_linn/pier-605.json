@@ -1,0 +1,28 @@
+{
+  "pier": "605",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Lake Geneva Highlands",
+    "established": "1922",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Juricic", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pier": "571",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Over the Hill",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Don", "m": "", "l": "Sheldon", "s": "" },
+        { "t": "", "f": "Denise", "m": "", "l": "Sheldon", "s": "" }
+      ]
+    }
+  ]
+}

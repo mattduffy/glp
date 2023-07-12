@@ -1,0 +1,28 @@
+{
+  "pier": "592",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Estates of Black Point",
+    "established": "1888",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Walter", "m": "", "l": "Pollard", "s": "" }
+      ]
+    }
+  ]
+}

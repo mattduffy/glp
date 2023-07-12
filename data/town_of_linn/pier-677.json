@@ -1,0 +1,29 @@
+{
+  "pier": "677",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Birches",
+    "established": "1924",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Scott", "m": "", "l": "Barber", "s": "" },
+        { "t": "", "f": "Michelle", "m": "", "l": "Barber", "s": "" }
+      ]
+    }
+  ]
+}

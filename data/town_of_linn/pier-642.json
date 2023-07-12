@@ -1,0 +1,29 @@
+{
+  "pier": "642",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Thomas", "m": "", "l": "Gardiner", "s": "" },
+        { "t": "", "f": "Margaret", "m": "", "l": "Lass-Gardiner", "s": "" }
+      ]
+    }
+  ]
+}

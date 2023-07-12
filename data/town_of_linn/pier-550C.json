@@ -1,0 +1,29 @@
+{
+  "pier": "550C",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Jim", "m": "", "l": "Bell", "s": "" },
+        { "t": "", "f": "Nancy", "m": "", "l": "Bell", "s": "" }
+      ]
+    }
+  ]
+}

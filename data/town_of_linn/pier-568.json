@@ -1,0 +1,29 @@
+{
+  "pier": "568",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Woodhill",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Doug", "m": "", "l": "Perks", "s": "" },
+        { "t": "", "f": "Mary", "m": "", "l": "Perks", "s": "" }
+      ]
+    }
+  ]
+}

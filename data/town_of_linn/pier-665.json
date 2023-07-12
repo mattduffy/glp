@@ -1,0 +1,29 @@
+{
+  "pier": "665",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Lackey Lane",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Don", "m": "", "l": "Zaraza", "s": "" },
+        { "t": "", "f": "Laura", "m": "", "l": "Zaraza", "s": "" }
+      ]
+    }
+  ]
+}

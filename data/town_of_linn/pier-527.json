@@ -1,0 +1,28 @@
+{
+  "pier": "527",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Keeklo Eekea",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Ernest Cochanis", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

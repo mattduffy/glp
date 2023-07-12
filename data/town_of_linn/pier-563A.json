@@ -1,0 +1,29 @@
+{
+  "pier": "563A",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "The Vagabond",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Meghan", "m": "", "l": "Norton", "s": "" },
+        { "t": "", "f": "Matt", "m": "", "l": "Norton", "s": "" }
+      ]
+    }
+  ]
+}

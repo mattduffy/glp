@@ -1,0 +1,29 @@
+{
+  "pier": "622",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Edgewater Terrace",
+    "established": "1925",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Rich", "m": "", "l": "Copans", "s": "" },
+        { "t": "", "f": "Vanessa", "m": "", "l": "Copans", "s": "" }
+      ]
+    }
+  ]
+}

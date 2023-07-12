@@ -1,0 +1,70 @@
+{
+  "pier": "531",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Lake Geneva Club",
+    "established": "1922",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Lake Geneva Club Pier", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Jon", "m": "", "l": "Abrahamovich", "s": "" },
+        { "t": "", "f": "Colleen", "m": "", "l": "Abrahamovich", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Roger", "m": "", "l": "Bohn", "s": "" },
+        { "t": "", "f": "Lynda", "m": "", "l": "Bohn", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Gardella Family", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Marty", "m": "", "l": "Rexinger", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Jim & Denise Vitale Family", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

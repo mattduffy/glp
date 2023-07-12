@@ -1,0 +1,95 @@
+{
+  "pier": "644",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Wooddale Beach Assn.",
+    "established": "1926",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Wooddale Beach Assn. Pier", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Fairbank", "m": "", "l": "Carpenter", "s": "" },
+        { "t": "", "f": "Lynne", "m": "", "l": "Carpenter", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Eleanor", "m": "", "l": "Curtiss", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Diane", "m": "", "l": "Fanelle", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Jeff", "m": "", "l": "Jancik", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Tricia", "m": "", "l": "McCoy", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Mark", "m": "", "l": "Scharres", "s": "" },
+        { "t": "", "f": "Nancy", "m": "", "l": "McCoy", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Bill", "m": "", "l": "Thompson", "s": "" },
+        { "t": "", "f": "Diane", "m": "", "l": "Thompson", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Sonette", "m": "", "l": "Tippens", "s": "" }
+      ]
+    }
+  ]
+}

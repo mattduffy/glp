@@ -1,0 +1,29 @@
+{
+  "pier": "612",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Lake Geneva Highlands",
+    "established": "1922",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Joe", "m": "", "l": "Barber", "s": "" },
+        { "t": "", "f": "Maureen", "m": "", "l": "Barber", "s": "" }
+      ]
+    }
+  ]
+}

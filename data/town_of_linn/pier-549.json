@@ -1,0 +1,29 @@
+{
+  "pier": "549",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Chateau DuLac",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "John", "m": "", "l": "Simms", "s": "" },
+        { "t": "", "f": "Michelle", "m": "", "l": "Simms", "s": "" }
+      ]
+    }
+  ]
+}

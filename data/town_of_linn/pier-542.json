@@ -1,0 +1,28 @@
+{
+  "pier": "542",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Shore Haven",
+    "established": "1926",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Shore Haven Association", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

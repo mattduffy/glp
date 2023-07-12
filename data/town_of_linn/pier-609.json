@@ -1,0 +1,29 @@
+{
+  "pier": "609",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Lake Geneva Highlands",
+    "established": "1922",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Rich", "m": "", "l": "Steinbarth", "s": "" },
+        { "t": "", "f": "Sharon", "m": "", "l": "Steinbarth", "s": "" }
+      ]
+    }
+  ]
+}

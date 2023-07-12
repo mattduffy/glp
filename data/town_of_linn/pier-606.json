@@ -1,0 +1,28 @@
+{
+  "pier": "606",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Lake Geneva Highlands",
+    "established": "1922",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Stone Hurst",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Lynda", "m": "Z", "l": "McKeaney", "s": "" }
+      ]
+    }
+  ]
+}

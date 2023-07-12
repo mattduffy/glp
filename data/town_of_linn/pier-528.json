@@ -1,0 +1,28 @@
+{
+  "pier": "528",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Oak Shores",
+    "established": "1950",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Oak Shores Boat Pier", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

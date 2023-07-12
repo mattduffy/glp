@@ -1,0 +1,29 @@
+{
+  "pier": "570",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Otto", "m": "", "l": "Madlener", "s": "" },
+        { "t": "", "f": "William", "m": "", "l": "Madlener", "s": "" }
+      ]
+    }
+  ]
+}

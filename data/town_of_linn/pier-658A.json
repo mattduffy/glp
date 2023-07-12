@@ -1,0 +1,28 @@
+{
+  "pier": "658A",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "Dr.", "f": "Rick", "m": "", "l": "Karana", "s": "" }
+      ]
+    }
+  ]
+}

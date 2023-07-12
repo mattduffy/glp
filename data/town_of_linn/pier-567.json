@@ -1,0 +1,28 @@
+{
+  "pier": "567",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Grey Oaks",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Michelle", "m": "", "l": "Moore", "s": "" }
+      ]
+    }
+  ]
+}

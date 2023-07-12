@@ -1,0 +1,29 @@
+{
+  "pier": "543",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Tom", "m": "", "l": "Tevebaugh", "s": "" },
+        { "t": "", "f": "Kathy", "m": "", "l": "Tevebaugh", "s": "" }
+      ]
+    }
+  ]
+}

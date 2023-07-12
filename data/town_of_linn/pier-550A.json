@@ -1,0 +1,28 @@
+{
+  "pier": "550A",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Academy Estates",
+    "established": "1975",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Academy Estates Pier", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

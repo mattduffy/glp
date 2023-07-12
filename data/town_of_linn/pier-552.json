@@ -1,0 +1,29 @@
+{
+  "pier": "552",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Ronald", "m": "", "l": "Levin", "s": "" },
+        { "t": "", "f": "Fifi", "m": "", "l": "Levin", "s": "" }
+      ]
+    }
+  ]
+}

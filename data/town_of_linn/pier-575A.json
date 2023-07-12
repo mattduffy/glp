@@ -1,0 +1,29 @@
+{
+  "pier": "575A",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Steve", "m": "", "l": "Glasgow", "s": "" },
+        { "t": "", "f": "Michele", "m": "", "l": "Glasgow", "s": "" }
+      ]
+    }
+  ]
+}

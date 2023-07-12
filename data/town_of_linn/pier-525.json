@@ -1,0 +1,28 @@
+{
+  "pier": "525",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Maple Hills Association",
+    "established": "1927",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Maple Hills Association Pier", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

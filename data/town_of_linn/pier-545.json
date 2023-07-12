@@ -1,0 +1,72 @@
+{
+  "pier": "545",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "South Shore Club",
+    "established": "2001",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "South Shore Club", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Frank", "m": "", "l": "Catalano", "s": "" },
+        { "t": "", "f": "Debra", "m": "", "l": "Catalano", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Debbie", "m": "", "l": "Kallergis", "s": "" },
+        { "t": "", "f": "Nick", "m": "", "l": "Kallergis", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Ken", "m": "", "l": "Koranda", "s": "" },
+        { "t": "", "f": "Susan", "m": "", "l": "Koranda", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "John", "m": "", "l": "Matustik", "s": "" },
+        { "t": "", "f": "Kathy", "m": "", "l": "Matustik", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Todd", "m": "", "l": "Mintz", "s": "" }
+      ]
+    }
+  ]
+}

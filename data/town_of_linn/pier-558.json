@@ -1,0 +1,29 @@
+{
+  "pier": "558",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "John", "m": "", "l": "Anderson", "s": "" },
+        { "t": "", "f": "Linda", "m": "", "l": "Anderson", "s": "" }
+      ]
+    }
+  ]
+}

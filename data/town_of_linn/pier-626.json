@@ -1,0 +1,71 @@
+{
+  "pier": "626",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Valley Park Assn.",
+    "established": "1970",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Valley Park Boat Pier", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Tom", "m": "", "l": "Dorn", "s": "" }
+      ]
+    },
+    {
+      "estateName": "Stonebridge",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Mary", "m": "", "l": "Kirchhoefer", "s": "" },
+        { "t": "", "f": "Gregg", "m": "", "l": "Kirchhoefer", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Mark", "m": "", "l": "Lillie", "s": "" },
+        { "t": "", "f": "Celine", "m": "", "l": "Lillie", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Mike", "m": "", "l": "Moran", "s": "" },
+        { "t": "", "f": "Kathy", "m": "", "l": "Moran", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Paul", "m": "M", "l": "Schulz", "s": "" }
+      ]
+    }
+  ]
+}

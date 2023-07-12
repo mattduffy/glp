@@ -1,0 +1,29 @@
+{
+  "pier": "530",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Oak Shores",
+    "established": "1950",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Eddie", "m": "", "l": "Greco", "s": "" },
+        { "t": "", "f": "Lisa", "m": "", "l": "Greco", "s": "" }
+      ]
+    }
+  ]
+}
