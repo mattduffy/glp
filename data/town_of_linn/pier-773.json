@@ -1,0 +1,37 @@
+{
+  "pier": "773",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Lake View",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Michael", "m": "", "l": "Ramsey", "s": "" },
+        { "t": "", "f": "Ruth", "m": "", "l": "Ramsey", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Thomas", "m": "", "l": "Ramsey", "s": "" }
+      ]
+    }
+  ]
+}

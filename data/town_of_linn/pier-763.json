@@ -1,0 +1,35 @@
+{
+  "pier": "763",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Timeless",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Joe", "m": "", "l": "Cosenza", "s": "" },
+        { "t": "", "f": "Judy", "m": "", "l": "Cosenza", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": []
+    }
+  ]
+}

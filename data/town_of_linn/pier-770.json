@@ -1,0 +1,29 @@
+{
+  "pier": "770",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Glen Arden",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Allison", "m": "", "l": "Childers", "s": "" },
+        { "t": "", "f": "Michael", "m": "", "l": "Childers", "s": "" }
+      ]
+    }
+  ]
+}

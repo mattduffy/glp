@@ -1,0 +1,29 @@
+{
+  "pier": "722",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Trinke Estates",
+    "established": "1951",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Bill", "m": "", "l": "Kashul", "s": "" },
+        { "t": "", "f": "Karen", "m": "", "l": "Kashul", "s": "" }
+      ]
+    }
+  ]
+}

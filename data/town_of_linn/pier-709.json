@@ -1,0 +1,124 @@
+{
+  "pier": "709",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Linnwood",
+    "established": "1969",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Mr. & Mrs. Thomas Cashman", "m": "", "l": "", "s": "" },
+        { "t": "", "f": "Brigid", "m": "", "l": "Cashman", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "Drs.", "f": "Robert", "m": "", "l": "Conlon", "s": "" },
+        { "t": "", "f": "Cynthia", "m": "", "l": "Conlon", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "David", "m": "", "l": "Dermenjian", "s": "" },
+        { "t": "", "f": "Michelle", "m": "", "l": "Dermenjian", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "Drs.", "f": "Vicki", "m": "", "l": "Galbraith", "s": "" },
+        { "t": "", "f": "Jack", "m": "", "l": "Galbraith", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Marilyn", "m": "", "l": "Hedberg", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Tobey", "m": "E", "l": "Lannert", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Tobey", "m": "E", "l": "Lannert", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Roselyn", "m": "", "l": "Lanzito", "s": "" },
+        { "t": "", "f": "Joseph", "m": "", "l": "Lanzito", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "John", "m": "K", "l": "Notz", "s": "Jr." }
+      ]
+    },
+    {
+      "estateName": "Rock Ridge",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Greg", "m": "", "l": "Pace", "s": "" },
+        { "t": "", "f": "Patsy", "m": "", "l": "Pace", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Bill", "m": "", "l": "Poggensee", "s": "" },
+        { "t": "", "f": "Stella", "m": "", "l": "Poggensee", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "David", "m": "", "l": "Williams", "s": "" },
+        { "t": "", "f": "Nancy", "m": "", "l": "Williams", "s": "" }
+      ]
+    }
+  ]
+}

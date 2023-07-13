@@ -1,0 +1,28 @@
+{
+  "pier": "698",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "700 Lake Shore Drive Association",
+    "established": "1950",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Deer Path",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Mr. & Mrs.Roger O'Neill", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

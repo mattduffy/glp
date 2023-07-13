@@ -1,0 +1,26 @@
+{
+  "pier": "769",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Glen Arden",
+      "member": true,
+      "membershipType": "",
+      "members": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pier": "761",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Dr. & Mrs.R. Zimmerman", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

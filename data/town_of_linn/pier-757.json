@@ -1,0 +1,29 @@
+{
+  "pier": "757",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Lake Geneva Beach Association",
+    "established": "1925",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Bob", "m": "", "l": "Streed", "s": "" },
+        { "t": "", "f": "Eileen", "m": "", "l": "Streed", "s": "" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pier": "770A",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Ashling",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Mary", "m": "", "l": "Lahey", "s": "" },
+        { "t": "", "f": "Mark", "m": "", "l": "Lahey", "s": "" }
+      ]
+    }
+  ]
+}

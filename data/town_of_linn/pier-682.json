@@ -1,0 +1,29 @@
+{
+  "pier": "682",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Maple Lane",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Larry", "m": "", "l": "Liebovich", "s": "" },
+        { "t": "", "f": "Barb", "m": "", "l": "Liebovich", "s": "" }
+      ]
+    }
+  ]
+}

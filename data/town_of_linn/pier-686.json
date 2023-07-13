@@ -1,0 +1,29 @@
+{
+  "pier": "686",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Maple Lane",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Beth", "m": "", "l": "Cunningham", "s": "" },
+        { "t": "", "f": "Bob", "m": "", "l": "Cunningham", "s": "" }
+      ]
+    }
+  ]
+}

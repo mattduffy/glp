@@ -1,0 +1,38 @@
+{
+  "pier": "696A",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "700 Lake Shore Drive Association",
+    "established": "1950",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Bob", "m": "", "l": "Schmidt", "s": "" },
+        { "t": "", "f": "Meg", "m": "", "l": "Schmidt", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "John", "m": "R", "l": "Schmidt", "s": "" },
+        { "t": "", "f": "Janet", "m": "", "l": "Gilboy", "s": "" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pier": "754",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Lake Geneva Beach Association",
+    "established": "1925",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Play 'N Lazy",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Kent", "m": "", "l": "Taubensee", "s": "" },
+        { "t": "", "f": "Christine", "m": "", "l": "Taubensee", "s": "" }
+      ]
+    }
+  ]
+}

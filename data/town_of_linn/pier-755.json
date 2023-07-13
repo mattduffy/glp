@@ -1,0 +1,37 @@
+{
+  "pier": "755",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Lake Geneva Beach Association",
+    "established": "1925",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Play 'N Lazy",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Geneva Beach Association Pier", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "estateName": "The Cottage",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Peter", "m": "", "l": "King", "s": "" },
+        { "t": "", "f": "Pat", "m": "", "l": "King", "s": "" }
+      ]
+    }
+  ]
+}

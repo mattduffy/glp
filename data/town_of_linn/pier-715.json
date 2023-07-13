@@ -1,0 +1,37 @@
+{
+  "pier": "715",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Duck Island",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Bates Family", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "estateName": "Duck Island",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Larry", "m": "", "l": "Crum", "s": "" },
+        { "t": "", "f": "Chris", "m": "", "l": "Crum", "s": "" }
+      ]
+    }
+  ]
+}

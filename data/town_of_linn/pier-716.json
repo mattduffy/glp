@@ -1,0 +1,37 @@
+{
+  "pier": "716",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Trinke Estates",
+    "established": "1951",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Trinke Estates Homeowners Assn", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Susie", "m": "", "l": "Vanderveld", "s": "" },
+        { "t": "", "f": "Paul", "m": "", "l": "Vanderveld", "s": "" }
+      ]
+    }
+  ]
+}

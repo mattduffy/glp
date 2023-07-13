@@ -1,0 +1,28 @@
+{
+  "pier": "700A",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "700 Lake Shore Drive Association",
+    "established": "1950",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Welcome Home",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Carol", "m": "", "l": "Bernick", "s": "" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pier": "765",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Allegheny",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "E. C. Styberg Family", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

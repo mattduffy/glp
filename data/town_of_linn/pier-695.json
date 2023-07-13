@@ -1,0 +1,29 @@
+{
+  "pier": "695",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "700 Lake Shore Drive Association",
+    "established": "1950",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Kalmwaters",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "The Kirch Foundation", "m": "", "l": "", "s": "" },
+        { "t": "", "f": "Terry", "m": "", "l": "Kirch", "s": "" }
+      ]
+    }
+  ]
+}

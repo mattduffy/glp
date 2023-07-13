@@ -1,0 +1,28 @@
+{
+  "pier": "768",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Aloha Lodge",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Harold", "m": "B", "l": "Smith", "s": "" }
+      ]
+    }
+  ]
+}

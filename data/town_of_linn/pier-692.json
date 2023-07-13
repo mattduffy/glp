@@ -1,0 +1,29 @@
+{
+  "pier": "692",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Maple Lane",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Beth", "m": "", "l": "Bovis", "s": "" },
+        { "t": "", "f": "David", "m": "", "l": "Feldstein", "s": "" }
+      ]
+    }
+  ]
+}

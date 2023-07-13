@@ -1,0 +1,29 @@
+{
+  "pier": "695B",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "700 Lake Shore Drive Association",
+    "established": "1950",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Allview Estate",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Arvid", "m": "", "l": "Dahlstrom", "s": "" },
+        { "t": "", "f": "Sue", "m": "", "l": "Dahlstrom", "s": "" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pier": "721",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Trinke Estates",
+    "established": "1951",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "John", "m": "P", "l": "Goggin", "s": "" },
+        { "t": "", "f": "Sandra", "m": "P", "l": "Goggin", "s": "" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pier": "772B",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Tim", "m": "", "l": "Kilpin", "s": "" },
+        { "t": "", "f": "Heidi", "m": "", "l": "Kilpin", "s": "" }
+      ]
+    }
+  ]
+}

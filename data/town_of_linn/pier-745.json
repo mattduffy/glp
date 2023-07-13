@@ -1,0 +1,29 @@
+{
+  "pier": "745",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Trinke Estates",
+    "established": "1951",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Renato", "m": "", "l": "Turano", "s": "" },
+        { "t": "", "f": "Patricia", "m": "", "l": "Turano", "s": "" }
+      ]
+    }
+  ]
+}

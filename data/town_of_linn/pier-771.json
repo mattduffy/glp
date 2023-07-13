@@ -1,0 +1,28 @@
+{
+  "pier": "771",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Three Pines",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Timothy", "m": "", "l": "Kane", "s": "" }
+      ]
+    }
+  ]
+}
