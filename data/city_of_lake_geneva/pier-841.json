@@ -1,0 +1,29 @@
+{
+  "pier": "841",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Ceylon Court Estates",
+    "established": "1948",
+    "address": {
+      "street": "",
+      "city": "Lake Geneva",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Maytag Estate",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Ann", "m": "", "l": "Burton", "s": "" },
+        { "t": "", "f": "Mike", "m": "", "l": "Burton", "s": "" }
+      ]
+    }
+  ]
+}

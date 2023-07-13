@@ -1,0 +1,29 @@
+{
+  "pier": "859",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Lake Geneva",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Michael", "m": "", "l": "Lynch", "s": "" },
+        { "t": "", "f": "Katie", "m": "", "l": "Lynch", "s": "" }
+      ]
+    }
+  ]
+}

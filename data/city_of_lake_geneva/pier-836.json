@@ -1,0 +1,28 @@
+{
+  "pier": "836",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Big Foot State Park",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Lake Geneva",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Lake Geneva Youth Camp", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

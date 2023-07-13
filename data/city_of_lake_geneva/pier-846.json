@@ -1,0 +1,29 @@
+{
+  "pier": "846",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Ceylon Court Estates",
+    "established": "1948",
+    "address": {
+      "street": "",
+      "city": "Lake Geneva",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Patrick", "m": "", "l": "Lynch", "s": "" },
+        { "t": "", "f": "Rachel", "m": "", "l": "Lynch", "s": "" }
+      ]
+    }
+  ]
+}

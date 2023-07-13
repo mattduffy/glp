@@ -1,0 +1,29 @@
+{
+  "pier": "857",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Lake Geneva",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "John", "m": "", "l": "Gullicksen", "s": "" },
+        { "t": "", "f": "Susan", "m": "", "l": "Gullicksen", "s": "" }
+      ]
+    }
+  ]
+}
