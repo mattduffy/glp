@@ -1,0 +1,28 @@
+{
+  "pier": "788",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Holly Bush",
+    "established": "1948",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Holly Bush Association Pier", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

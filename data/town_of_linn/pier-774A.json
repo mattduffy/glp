@@ -1,0 +1,28 @@
+{
+  "pier": "774A",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Loramoor",
+    "established": "1981",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Mr. & Mrs. Donald Geller", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "pier": "779",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "John", "m": "", "l": "Cooney", "s": "" },
+        { "t": "", "f": "Barbara", "m": "", "l": "Cooney", "s": "" }
+      ]
+    },
+    {
+      "estateName": "Burdock Manor",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Richard", "m": "", "l": "Marra", "s": "" }
+      ]
+    }
+  ]
+}

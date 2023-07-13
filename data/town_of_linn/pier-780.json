@@ -1,0 +1,29 @@
+{
+  "pier": "780",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Casa del Sueno",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "JB", "m": "", "l": "Pritzker", "s": "" },
+        { "t": "", "f": "MK", "m": "", "l": "Pritzker", "s": "" }
+      ]
+    }
+  ]
+}

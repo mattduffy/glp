@@ -1,0 +1,29 @@
+{
+  "pier": "790",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Holly Bush",
+    "established": "1948",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Dave", "m": "", "l": "Hendrickson", "s": "" },
+        { "t": "", "f": "Linda", "m": "", "l": "Hendrickson", "s": "" }
+      ]
+    }
+  ]
+}

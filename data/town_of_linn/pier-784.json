@@ -1,0 +1,29 @@
+{
+  "pier": "784",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Villa di Nova",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Michael", "m": "", "l": "Bungert", "s": "" },
+        { "t": "", "f": "Patricia", "m": "", "l": "Bungert", "s": "" }
+      ]
+    }
+  ]
+}

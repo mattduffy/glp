@@ -1,0 +1,38 @@
+{
+  "pier": "774E",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Loramoor",
+    "established": "1981",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "The Lake House",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Gary", "m": "", "l": "Jouris", "s": "" },
+        { "t": "", "f": "Sally", "m": "", "l": "Jouris", "s": "" }
+      ]
+    },
+    {
+      "estateName": "The Lake House",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Jon", "m": "", "l": "Jouris", "s": "" },
+        { "t": "", "f": "Kelly", "m": "", "l": "Jouris", "s": "" }
+      ]
+    }
+  ]
+}

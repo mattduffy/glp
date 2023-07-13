@@ -1,0 +1,29 @@
+{
+  "pier": "781",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Honeyside",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Claudia", "m": "", "l": "Bauer", "s": "" },
+        { "t": "", "f": "Jay", "m": "", "l": "Bauer", "s": "" }
+      ]
+    }
+  ]
+}

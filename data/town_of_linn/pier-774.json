@@ -1,0 +1,63 @@
+{
+  "pier": "774",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Loramoor",
+    "established": "1981",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Loramoor West Association Pier", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Jeff", "m": "", "l": "Noll", "s": "" },
+        { "t": "", "f": "Ann", "m": "", "l": "Callison", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Loramoor East Association Pier", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "John", "m": "", "l": "Nanna", "s": "" },
+        { "t": "", "f": "Marilyn", "m": "", "l": "Nanna", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "John", "m": "", "l": "Engerman", "s": "" },
+        { "t": "", "f": "Madeleine", "m": "", "l": "Engerman", "s": "" }
+      ]
+    }
+  ]
+}

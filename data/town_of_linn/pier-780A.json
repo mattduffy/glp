@@ -1,0 +1,28 @@
+{
+  "pier": "780A",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Casa Blanka",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Casa East", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

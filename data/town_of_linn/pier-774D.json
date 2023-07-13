@@ -1,0 +1,29 @@
+{
+  "pier": "774D",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Loramoor",
+    "established": "1981",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Scott", "m": "", "l": "Dillion", "s": "" },
+        { "t": "", "f": "Amy", "m": "", "l": "Dillion", "s": "" }
+      ]
+    }
+  ]
+}

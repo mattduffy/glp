@@ -1,0 +1,28 @@
+{
+  "pier": "786",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Koinonia",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Janice Van Dyke-Zeilstra Family", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

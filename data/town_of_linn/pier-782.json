@@ -1,0 +1,29 @@
+{
+  "pier": "782",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Linn",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Dean", "m": "", "l": "Gatziolis", "s": "" },
+        { "t": "", "f": "Susan", "m": "", "l": "Gatziolis", "s": "" }
+      ]
+    }
+  ]
+}
