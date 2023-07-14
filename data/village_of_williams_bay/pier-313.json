@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Congress Club South Dock", "m": "", "l": "", "s": "" }
       ]
@@ -27,7 +27,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Jane", "m": "", "l": "Harker", "s": "" },
         { "t": "", "f": "Hagen", "m": "", "l": "Harker", "s": "" }
@@ -36,7 +36,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
         { "t": "", "f": "Carol", "m": "", "l": "Swed", "s": "" }
       ]
@@ -44,7 +44,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Andrew", "m": "", "l": "Turza", "s": "" },
         { "t": "", "f": "Virginia", "m": "", "l": "Turza", "s": "" }

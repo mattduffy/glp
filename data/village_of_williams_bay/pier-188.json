@@ -19,7 +19,7 @@
     {
       "estateName": "Hays Acre",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
         { "t": "", "f": "Carol", "m": "", "l": "Hays", "s": "" },
         { "t": "", "f": "Andy", "m": "", "l": "Hays", "s": "" }

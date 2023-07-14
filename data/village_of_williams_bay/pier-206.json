@@ -19,7 +19,7 @@
     {
       "estateName": "Sunset Point",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Jeff", "m": "", "l": "Liljeberg", "s": "" },
         { "t": "", "f": "Ellen", "m": "", "l": "Liljeberg", "s": "" }

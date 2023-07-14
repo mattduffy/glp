@@ -19,7 +19,7 @@
     {
       "estateName": "Stone Gates",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Marjorie", "m": "H", "l": "Greenfield", "s": "" }
       ]

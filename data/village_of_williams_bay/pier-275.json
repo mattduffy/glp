@@ -18,8 +18,8 @@
   "owners": [
     {
       "estateName": "",
-      "member": true,
-      "membershipType": "",
+      "member": false,
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "James", "m": "H", "l": "Maiers", "s": "" },
         { "t": "", "f": "Nancy", "m": "", "l": "Maiers", "s": "" }

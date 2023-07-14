@@ -19,8 +19,8 @@
   "owners": [
     {
       "estateName": "",
-      "member": false,
-      "membershipType": "",
+        "member": false,
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "William", "m": "B", "l": "Gage", "s": "Jr." }
       ]

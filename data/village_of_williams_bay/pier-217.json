@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Bob", "m": "", "l": "Morava", "s": "" },
         { "t": "", "f": "Ruth Anne", "m": "", "l": "Morava", "s": "" }

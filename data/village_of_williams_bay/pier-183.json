@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "James", "m": "H", "l": "Athans", "s": "" },
         { "t": "", "f": "Georgia", "m": "H", "l": "Athans", "s": "" }

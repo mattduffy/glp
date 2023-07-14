@@ -19,7 +19,7 @@
     {
       "estateName": "Sweet Water",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
         { "t": "", "f": "David", "m": "", "l": "Bruskin", "s": "" },
         { "t": "", "f": "Tiffany", "m": "", "l": "Bruskin", "s": "" }

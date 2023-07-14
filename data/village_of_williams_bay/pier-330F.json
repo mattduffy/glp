@@ -19,7 +19,7 @@
     {
       "estateName": "Club Fabe",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Chris", "m": "", "l": "Faber", "s": "" },
         { "t": "", "f": "Sheila", "m": "", "l": "Faber", "s": "" }

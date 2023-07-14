@@ -19,7 +19,7 @@
     {
       "estateName": "La Hacienda",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Paul", "m": "", "l": "Darley", "s": "" },
         { "t": "", "f": "Peter", "m": "", "l": "Darley", "s": "" }

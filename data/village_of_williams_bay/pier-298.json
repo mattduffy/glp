@@ -19,7 +19,7 @@
     {
       "estateName": "Towering Elms",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Jane", "m": "", "l": "Shepard", "s": "" }
       ]

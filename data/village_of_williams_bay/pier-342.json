@@ -19,7 +19,7 @@
     {
       "estateName": "Bally Bay",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Sustaining",
       "members": [
         { "t": "", "f": "Jill", "m": "", "l": "Plaza", "s": "" },
         { "t": "", "f": "Wayne", "m": "", "l": "Plaza", "s": "" }
