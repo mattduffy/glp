@@ -1,0 +1,28 @@
+{
+  "pier": "896",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Lake Geneva",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Harbor Watch at the East Bank Condominium", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pier": "893",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Wrigley Drive Residences, LLC",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Lake Geneva",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Wrigley Drive Residences", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

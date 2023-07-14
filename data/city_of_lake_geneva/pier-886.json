@@ -1,0 +1,29 @@
+{
+  "pier": "886",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Lake Geneva",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Jim", "m": "", "l": "Heimann", "s": "" },
+        { "t": "", "f": "Lynette", "m": "", "l": "Heimann", "s": "" }
+      ]
+    }
+  ]
+}

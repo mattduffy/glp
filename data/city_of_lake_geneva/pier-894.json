@@ -1,0 +1,37 @@
+{
+  "pier": "894",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Lake Geneva",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Richard", "m": "", "l": "Adams", "s": "" },
+        { "t": "", "f": "Rita", "m": "", "l": "Adams", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Margaret", "m": "", "l": "Clark", "s": "" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pier": "880",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Lake Geneva",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Stone Manor",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Tina", "m": "", "l": "Trahan", "s": "" }
+      ]
+    }
+  ]
+}

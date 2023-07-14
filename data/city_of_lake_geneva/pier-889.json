@@ -1,0 +1,28 @@
+{
+  "pier": "889",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "East Bank Condominium",
+    "established": "1987",
+    "address": {
+      "street": "",
+      "city": "Lake Geneva",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "East Bank Condominium Pier", "m": "", "l": "", "s": "" }
+      ]
+    }
+  ]
+}

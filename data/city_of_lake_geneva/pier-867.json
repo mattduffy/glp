@@ -1,0 +1,29 @@
+{
+  "pier": "867",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Syverstad",
+    "established": "1955",
+    "address": {
+      "street": "",
+      "city": "Lake Geneva",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Keith", "m": "", "l": "Rozolis", "s": "" },
+        { "t": "", "f": "Linda", "m": "", "l": "Rozolis", "s": "" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "pier": "874",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "Syverstad",
+    "established": "1955",
+    "address": {
+      "street": "",
+      "city": "Lake Geneva",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Syverstad Subdivision Pier", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Robert", "m": "", "l": "Quinn", "s": "" },
+        { "t": "", "f": "Tracy", "m": "", "l": "Quinn", "s": "" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "pier": "865",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Lake Geneva",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "Bayer Trust",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Ernie", "m": "", "l": "Bayer", "s": "" },
+        { "t": "", "f": "Liz", "m": "", "l": "Bayer", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Jenny", "m": "", "l": "Powers", "s": "" }
+      ]
+    }
+  ]
+}

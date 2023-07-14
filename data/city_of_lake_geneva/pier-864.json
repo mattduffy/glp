@@ -1,0 +1,29 @@
+{
+  "pier": "864",
+  "loc": {
+    "lon": "",
+    "lat": "",
+    "geohash": ""
+  },
+  "property": {
+    "association": "",
+    "established": "",
+    "address": {
+      "street": "",
+      "city": "Lake Geneva",
+      "state": "WI",
+      "zip": ""
+    }
+  },
+  "owners": [
+    {
+      "estateName": "The Knoll",
+      "member": true,
+      "membershipType": "",
+      "members": [
+        { "t": "", "f": "Robin", "m": "", "l": "Tebbe", "s": "" },
+        { "t": "", "f": "Mark", "m": "", "l": "Tebbe", "s": "" }
+      ]
+    }
+  ]
+}
