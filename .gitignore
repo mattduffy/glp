@@ -14,6 +14,7 @@ yarn-error.log*
 lerna-debug.log*
 
 tmp
+.DS_Store
 .npmrc
 *.config.bk
 *.config.test

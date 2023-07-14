@@ -19,7 +19,7 @@
     {
       "estateName": "Angels Landing",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Tim", "m": "", "l": "Feltes", "s": "" },
         { "t": "", "f": "Karla", "m": "", "l": "Feltes", "s": "" }

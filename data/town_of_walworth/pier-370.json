@@ -19,7 +19,7 @@
     {
       "estateName": "Devil’s Descent",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Rosemary", "m": "", "l": "White-Traut", "s": "" },
         { "t": "", "f": "David", "m": "", "l": "Traut", "s": "" }
