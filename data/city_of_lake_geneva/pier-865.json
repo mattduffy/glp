@@ -19,7 +19,7 @@
     {
       "estateName": "Bayer Trust",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Ernie", "m": "", "l": "Bayer", "s": "" },
         { "t": "", "f": "Liz", "m": "", "l": "Bayer", "s": "" }
@@ -28,7 +28,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Jenny", "m": "", "l": "Powers", "s": "" }
       ]

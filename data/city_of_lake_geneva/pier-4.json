@@ -19,7 +19,7 @@
     {
       "estateName": "Maple Lawn",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Jim", "m": "", "l": " Willett", "s": "" },
         { "t": "", "f": "Kathi", "m": "", "l": " Willett", "s": "" }

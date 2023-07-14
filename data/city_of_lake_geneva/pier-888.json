@@ -1,5 +1,5 @@
 {
-  "pier": "887",
+  "pier": "888",
   "loc": {
     "lon": "",
     "lat": "",
@@ -17,11 +17,12 @@
   },
   "owners": [
     {
-      "estateName": "",
-      "member": false,
+      "estateName": "Arrowhead",
+      "member": true,
       "membershipType": "",
       "members": [
-        { "t": "", "f": "Tom", "m": "", "l": "Tisbo", "s": "" }
+        { "t": "", "f": "Greg", "m": "", "l": "Fletcher", "s": "" },
+        { "t": "", "f": "Jane", "m": "", "l": "Fletcher", "s": "" }
       ]
     }
   ]

@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Thomas", "m": "", "l": "Frattinger", "s": "" },
         { "t": "", "f": "Virginia", "m": "", "l": "Frattinger", "s": "" }

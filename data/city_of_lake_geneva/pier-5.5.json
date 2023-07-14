@@ -19,7 +19,7 @@
     {
       "estateName": "Starboard Property",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Donor",
       "members": [
         { "t": "", "f": "Ed", "m": "", "l": "Borkowski", "s": "" },
         { "t": "", "f": "Linda", "m": "", "l": "Borkowski", "s": "" }

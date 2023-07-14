@@ -18,8 +18,8 @@
   "owners": [
     {
       "estateName": "ESBRO",
-      "member": false,
-      "membershipType": "",
+      "member": true,
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Betty", "m": "J.", "l": "Burch-Spanjer", "s": "" }
       ]

@@ -19,7 +19,7 @@
     {
       "estateName": "Stone Manor",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Tina", "m": "", "l": "Trahan", "s": "" }
       ]

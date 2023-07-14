@@ -19,7 +19,7 @@
     {
       "estateName": "Blue Hill",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "W.", "m": "J.", "l": "Goes", "s": "" }
       ]
