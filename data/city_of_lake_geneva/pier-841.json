@@ -19,7 +19,7 @@
     {
       "estateName": "Maytag Estate",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
         { "t": "", "f": "Ann", "m": "", "l": "Burton", "s": "" },
         { "t": "", "f": "Mike", "m": "", "l": "Burton", "s": "" }

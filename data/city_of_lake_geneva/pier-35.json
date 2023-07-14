@@ -19,7 +19,7 @@
     {
       "estateName": "Butternut",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
         { "t": "", "f": "Bob", "m": "", "l": "Larson", "s": "" },
         { "t": "", "f": "Renee", "m": "", "l": "Larson", "s": "" }

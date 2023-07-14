@@ -19,7 +19,7 @@
     {
       "estateName": "Victoria Shores",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Wendy", "m": "", "l": "Fisher", "s": "" },
         { "t": "", "f": "Roger", "m": "", "l": "Fisher", "s": "" }

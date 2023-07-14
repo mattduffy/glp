@@ -19,7 +19,7 @@
     {
       "estateName": "Arrowhead",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Greg", "m": "", "l": "Fletcher", "s": "" },
         { "t": "", "f": "Jane", "m": "", "l": "Fletcher", "s": "" }

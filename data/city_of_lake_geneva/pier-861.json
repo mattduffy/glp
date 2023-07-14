@@ -27,7 +27,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Mark", "m": "", "l": "Davids", "s": "" },
         { "t": "", "f": "Wendy", "m": "", "l": "Davids", "s": "" }
@@ -36,7 +36,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Daniel", "m": "", "l": "Lawlor", "s": "" },
         { "t": "", "f": "Laurie", "m": "", "l": "Lawlor", "s": "" }
@@ -45,7 +45,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
         { "t": "", "f": "Beth & John Long Family", "m": "", "l": "", "s": "" }
       ]
@@ -53,7 +53,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Ryan", "m": "", "l": "Southwick", "s": "" },
         { "t": "", "f": "Naomi", "m": "", "l": "Southwick", "s": "" }

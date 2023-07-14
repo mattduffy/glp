@@ -19,7 +19,7 @@
     {
       "estateName": "The Knoll",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Robin", "m": "", "l": "Tebbe", "s": "" },
         { "t": "", "f": "Mark", "m": "", "l": "Tebbe", "s": "" }

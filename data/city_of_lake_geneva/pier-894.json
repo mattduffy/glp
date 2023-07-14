@@ -28,7 +28,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Margaret", "m": "", "l": "Clark", "s": "" }
       ]
