@@ -1,6 +1,7 @@
 coverage
 TODO.md
 tmp
+keys/*
 src/exiftool.config
 *.config.bk
 *.config.test
