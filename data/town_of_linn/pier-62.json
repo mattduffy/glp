@@ -18,8 +18,8 @@
   "owners": [
     {
       "estateName": "Ashburton",
-      "member": false,
-      "membershipType": "",
+      "member": true,
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Ashburton Estate", "m": "", "l": "", "s": "" }
       ]
