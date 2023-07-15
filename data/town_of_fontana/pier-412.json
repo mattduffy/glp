@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Fontana Shores Condo. Pier", "m": "", "l": "", "s": "" }
       ]
@@ -27,7 +27,7 @@
     {
       "estateName": "Best View on the Lake",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Donor",
       "members": [
         { "t": "", "f": "Bob", "m": "", "l": "Tangredi", "s": "" },
         { "t": "", "f": "Erin", "m": "", "l": "Tangredi", "s": "" }

@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Subdiv. Pier Glenwood Springs", "m": "", "l": "", "s": "" }
       ]
@@ -27,7 +27,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Ann", "m": "", "l": "Hagerty", "s": "" },
         { "t": "", "f": "Jack", "m": "", "l": "Hagerty", "s": "" }
@@ -36,7 +36,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Michael", "m": "", "l": "Kallergis", "s": "" }
       ]
@@ -44,7 +44,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Donor",
       "members": [
         { "t": "", "f": "Edward", "m": "", "l": "Maloney", "s": "" },
         { "t": "", "f": "Cheryl", "m": "", "l": "Maloney", "s": "" }
@@ -53,7 +53,7 @@
     {
       "estateName": "Maus Haus",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "James", "m": "", "l": "Maus", "s": "" },
         { "t": "", "f": "Michelle", "m": "", "l": "Maus", "s": "" }
@@ -62,7 +62,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Peggy", "m": "", "l": "Pollitt", "s": "" }
       ]

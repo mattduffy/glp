@@ -18,8 +18,8 @@
   "owners": [
     {
       "estateName": "",
-      "member": true,
-      "membershipType": "",
+      "member": false,
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Abbey Springs Condo Assoc.", "m": "", "l": "", "s": "" }
       ]
@@ -27,15 +27,15 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
-        { "t": "", "f": "Jeff Germanotta", "m": "", "l": "", "s": "" }
+        { "t": "", "f": "Jeff", "m": "", "l": "Germanotta", "s": "" }
       ]
     },
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
         { "t": "", "f": "Mr. & Mrs. John L. Simpson, Jr.", "m": "", "l": "", "s": "" }
       ]

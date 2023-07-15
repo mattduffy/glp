@@ -19,9 +19,10 @@
     {
       "estateName": "Sans Souci",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
-        { "t": "", "f": "Skip & Linda Bliss", "m": "", "l": "", "s": "" }
+        { "t": "", "f": "Skip", "m": "", "l": "Bliss", "s": "" },
+        { "t": "", "f": "Linda", "m": "", "l": "Bliss", "s": "" }
       ]
     }
   ]

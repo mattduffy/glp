@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Bethany", "m": "", "l": "Keown", "s": "" },
         { "t": "", "f": "Brad", "m": "", "l": "Keown", "s": "" }

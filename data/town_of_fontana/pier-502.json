@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Westgate Association Pier", "m": "", "l": "", "s": "" }
       ]
@@ -27,23 +27,24 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
-        { "t": "", "f": "Bradley & Rebecca Fideler", "m": "", "l": "", "s": "" }
+        { "t": "", "f": "Bradley", "m": "", "l": "Fideler", "s": "" },
+        { "t": "", "f": "Rebecca", "m": "", "l": "Fideler", "s": "" }
       ]
     },
     {
       "estateName": "Flower Cottage",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Bob", "m": "", "l": "Kelly", "s": "" }
       ]
     },
     {
       "estateName": "",
-      "member": true,
-      "membershipType": "",
+      "member": false,
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Charley", "m": "", "l": "Zeches", "s": "" },
         { "t": "", "f": "Bob", "m": "", "l": "Zeches", "s": "" }

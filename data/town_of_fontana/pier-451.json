@@ -19,7 +19,7 @@
     {
       "estateName": "Lazy Acres",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Tom", "m": "W", "l": "Nicholson", "s": "" }
       ]

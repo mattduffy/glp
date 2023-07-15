@@ -19,7 +19,7 @@
     {
       "estateName": "Windward Point",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Greg", "m": "", "l": "Huck", "s": "" },
         { "t": "", "f": "Julie", "m": "", "l": "Huck", "s": "" }
@@ -28,7 +28,7 @@
     {
       "estateName": "Windward Point",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "William", "m": "C", "l": "Huck", "s": "" },
         { "t": "", "f": "Barbara", "m": "A", "l": "Huck", "s": "" }

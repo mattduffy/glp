@@ -19,7 +19,7 @@
     {
       "estateName": "Camp Lake Geneva",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Gary", "m": "", "l": "Neilson", "s": "" },
         { "t": "", "f": "Trudy", "m": "", "l": "Havens", "s": "" }

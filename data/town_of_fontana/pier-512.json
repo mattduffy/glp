@@ -19,7 +19,7 @@
     {
       "estateName": "Festina Lente",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Hugh", "m": "", "l": "Plunkett", "s": "" }
       ]

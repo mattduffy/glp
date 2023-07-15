@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Brookwood Subdivision Pier", "m": "", "l": "", "s": "" }
       ]
@@ -27,7 +27,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
         { "t": "", "f": "Francis", "m": "", "l": "Maus", "s": "" },
         { "t": "", "f": "Terry", "m": "", "l": "Maus", "s": "" }

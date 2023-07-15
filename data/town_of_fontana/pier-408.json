@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Ginny", "m": "", "l": "Cavanaugh", "s": "" }
       ]
@@ -36,7 +36,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Jane", "m": "", "l": "Hoffmann", "s": "" }
       ]
@@ -44,7 +44,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Jeff", "m": "", "l": "Parkhill", "s": "" },
         { "t": "", "f": "Karen", "m": "", "l": "Parkhill", "s": "" }

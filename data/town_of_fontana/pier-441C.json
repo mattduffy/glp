@@ -19,7 +19,7 @@
     {
       "estateName": "Villa Tarantino",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Kristina", "m": "", "l": "Tarantino", "s": "" },
         { "t": "", "f": "James", "m": "", "l": "Tarantino", "s": "" }

@@ -19,7 +19,7 @@
     {
       "estateName": "Eastgate",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "VEL Family Partnership", "m": "", "l": "", "s": "" }
       ]

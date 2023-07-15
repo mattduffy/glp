@@ -19,7 +19,7 @@
     {
       "estateName": "Longview",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Chip", "m": "", "l": "Mulaney", "s": "" },
         { "t": "", "f": "Ellen", "m": "", "l": "Mulaney", "s": "" }

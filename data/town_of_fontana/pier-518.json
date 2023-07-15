@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Dan", "m": "", "l": "Gallagher", "s": "" },
         { "t": "", "f": "Sarah", "m": "", "l": "Gallagher", "s": "" }
@@ -28,7 +28,7 @@
     {
       "estateName": "Clear Sky Lodge",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
         { "t": "", "f": "Murray", "m": "", "l": "Peretz", "s": "" },
         { "t": "", "f": "Anne Marie", "m": "", "l": "Peretz", "s": "" }
@@ -37,7 +37,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Donor",
       "members": [
         { "t": "", "f": "The Lombardo Family", "m": "", "l": "", "s": "" }
       ]

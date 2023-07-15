@@ -19,7 +19,7 @@
     {
       "estateName": "Deepwood",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Jeff", "m": "", "l": "Neal", "s": "" },
         { "t": "", "f": "Susan", "m": "", "l": "Cellmer", "s": "" }

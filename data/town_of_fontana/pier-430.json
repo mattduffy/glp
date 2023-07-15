@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Fontana Municipal Pier #1", "m": "", "l": "", "s": "" }
       ]
@@ -27,7 +27,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Brian", "m": "", "l": "McKeough", "s": "" },
         { "t": "", "f": "Julie", "m": "", "l": "McKeough", "s": "" }
@@ -36,7 +36,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Karen", "m": "", "l": "Rechtoris", "s": "" },
         { "t": "", "f": "Ken", "m": "", "l": "Rechtoris", "s": "" }
@@ -45,7 +45,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Todd", "m": "", "l": "Reschke", "s": "" }
       ]

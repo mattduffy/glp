@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "John", "m": "", "l": "Rolander", "s": "" },
         { "t": "", "f": "Dana", "m": "", "l": "Rolander", "s": "" }
@@ -28,7 +28,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "William", "m": "", "l": "Rolander", "s": "" },
         { "t": "", "f": "Susan", "m": "", "l": "Rolander", "s": "" }
@@ -37,7 +37,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "William R. Rolander, Jr. Family", "m": "", "l": "", "s": "" }
       ]

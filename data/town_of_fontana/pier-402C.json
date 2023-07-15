@@ -18,8 +18,8 @@
   "owners": [
     {
       "estateName": "",
-      "member": true,
-      "membershipType": "",
+      "member": false,
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Anthony", "m": "", "l": "Zielinski", "s": "" },
         { "t": "", "f": "Mary", "m": "", "l": "Zielinski", "s": "" }

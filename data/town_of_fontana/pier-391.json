@@ -19,7 +19,7 @@
     {
       "estateName": "Pinegate",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Donor",
       "members": [
         { "t": "", "f": "George", "m": "", "l": "Atkinson", "s": "" },
         { "t": "", "f": "Jeanne", "m": "", "l": "Atkinson", "s": "" }

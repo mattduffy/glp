@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Fontana Municipal Pier #4", "m": "", "l": "", "s": "" }
       ]
@@ -27,7 +27,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Geneva Lake Conservancy", "m": "", "l": "", "s": "" }
       ]
@@ -35,7 +35,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Patrick", "m": "", "l": "Kenny", "s": "" },
         { "t": "", "f": "Lisa", "m": "", "l": "Kenny", "s": "" }
@@ -44,7 +44,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Robert", "m": "", "l": "Rauland", "s": "" }
       ]
@@ -52,7 +52,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Dan", "m": "", "l": "Wieber", "s": "" }
       ]

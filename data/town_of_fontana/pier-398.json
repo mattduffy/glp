@@ -19,7 +19,7 @@
     {
       "estateName": "Deepwood",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Bridgid", "m": "", "l": "Kyle", "s": "" },
         { "t": "", "f": "Mike", "m": "", "l": "Kyle", "s": "" }
@@ -28,7 +28,7 @@
     {
       "estateName": "Deepwood",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Mary", "m": "M", "l": "Reed", "s": "" }
       ]

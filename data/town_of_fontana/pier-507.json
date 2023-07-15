@@ -19,7 +19,7 @@
     {
       "estateName": "Evergreen",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Gregg", "m": "", "l": "Kunes", "s": "" },
         { "t": "", "f": "Debbie", "m": "", "l": "Kunes", "s": "" }

@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Jim", "m": "", "l": "Voss", "s": "" },
         { "t": "", "f": "Nancy", "m": "", "l": "Voss", "s": "" }

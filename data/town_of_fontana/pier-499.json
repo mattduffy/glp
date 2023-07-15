@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Dean", "m": "L", "l": "Buntrock", "s": "" },
         { "t": "", "f": "Rosemarie", "m": "", "l": "Buntrock", "s": "" }

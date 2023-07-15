@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "William", "m": "", "l": "Pope", "s": "" }
       ]
@@ -27,7 +27,7 @@
     {
       "estateName": "The Echoes",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
         { "t": "", "f": "Theodore", "m": "R", "l": "Tetzlaff", "s": "" }
       ]

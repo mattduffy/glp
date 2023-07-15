@@ -19,7 +19,7 @@
     {
       "estateName": "Boulder Lodge",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "John", "m": "", "l": "Porter", "s": "" },
         { "t": "", "f": "Annie", "m": "", "l": "Porter", "s": "" }

@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Belvidere Park Association Swim Pier", "m": "", "l": "", "s": "" }
       ]
@@ -27,7 +27,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "John", "m": "", "l": "Pierce", "s": "" },
         { "t": "", "f": "Debra", "m": "", "l": "Pierce", "s": "" }
@@ -36,7 +36,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Laurance", "m": "", "l": "Pierce", "s": "" }
       ]

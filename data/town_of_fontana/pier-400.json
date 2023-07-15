@@ -28,7 +28,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Kris", "m": "", "l": "Larsen", "s": "" },
         { "t": "", "f": "Kirsten", "m": "", "l": "Larsen", "s": "" }

@@ -19,7 +19,7 @@
     {
       "estateName": "Rainbow Point",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
         { "t": "", "f": "Joe", "m": "", "l": "Pringle", "s": "" },
         { "t": "", "f": "Tami", "m": "", "l": "Pringle", "s": "" }

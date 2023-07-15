@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
         { "t": "", "f": "Yacht Club East Main Pier", "m": "", "l": "", "s": "" }
       ]
@@ -27,7 +27,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Hans", "m": "", "l": "Melges", "s": "" }
       ]
@@ -35,7 +35,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Sustaining",
       "members": [
         { "t": "", "f": "James", "m": "", "l": "Smith", "s": "" },
         { "t": "", "f": "Kathleen", "m": "", "l": "Smith", "s": "" }

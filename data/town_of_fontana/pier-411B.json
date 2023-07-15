@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Frank", "m": "H", "l": "Voris", "s": "" },
         { "t": "", "f": "Michele", "m": "", "l": "Voris", "s": "" }
@@ -28,7 +28,7 @@
     {
       "estateName": "Pi Cottage",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
         { "t": "", "f": "Frank", "m": "H", "l": "Wehrstein", "s": "" },
         { "t": "", "f": "Jennifer", "m": "H", "l": "Wehrstein", "s": "" }
@@ -37,7 +37,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-Member",
       "members": [
         { "t": "", "f": "Geraldine", "m": "H", "l": "Audino", "s": "" }
       ]

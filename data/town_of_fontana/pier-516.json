@@ -19,7 +19,7 @@
     {
       "estateName": "Whippoorwill",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Donor",
       "members": [
         { "t": "", "f": "Peter", "m": "", "l": "Wright", "s": "" },
         { "t": "", "f": "Dina", "m": "", "l": "Wright", "s": "" }

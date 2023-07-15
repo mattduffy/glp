@@ -18,8 +18,8 @@
   "owners": [
     {
       "estateName": "",
-      "member": true,
-      "membershipType": "",
+      "member": false,
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Margaret Lombardo Trust", "m": "", "l": "", "s": "" }
       ]
