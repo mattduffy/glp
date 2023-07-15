@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Dan", "m": "", "l": "Nordsieck", "s": "" },
         { "t": "", "f": "Karen", "m": "", "l": "Nordsieck", "s": "" }

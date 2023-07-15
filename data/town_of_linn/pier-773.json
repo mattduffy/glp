@@ -19,7 +19,7 @@
     {
       "estateName": "Lake View",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
         { "t": "", "f": "Michael", "m": "", "l": "Ramsey", "s": "" },
         { "t": "", "f": "Ruth", "m": "", "l": "Ramsey", "s": "" }
@@ -28,7 +28,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Thomas", "m": "", "l": "Ramsey", "s": "" }
       ]

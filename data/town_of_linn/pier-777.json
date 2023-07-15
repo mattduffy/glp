@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "WF Association Pier", "m": "", "l": "", "s": "" }
       ]
@@ -27,7 +27,7 @@
     {
       "estateName": "Burdock Manor",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Sustaining",
       "members": [
         { "t": "", "f": "Mr. & Mrs. Richard H. Baker III", "m": "", "l": "", "s": "" }
       ]
@@ -35,7 +35,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Donor",
       "members": [
         { "t": "", "f": "Mr. & Mrs.William J. Ring", "m": "", "l": "", "s": "" }
       ]
@@ -43,7 +43,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Boyd", "m": "", "l": "Whiting", "s": "" },
         { "t": "", "f": "Beth", "m": "", "l": "Whiting", "s": "" }
@@ -52,7 +52,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Susan", "m": "D", "l": "Whiting", "s": "" }
       ]

@@ -19,7 +19,7 @@
     {
       "estateName": "Pebble Point",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Julie", "m": "", "l": "Colman Hurt", "s": "" }
       ]

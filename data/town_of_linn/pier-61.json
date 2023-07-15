@@ -19,7 +19,7 @@
     {
       "estateName": "Edgewood",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "MacDonald Family", "m": "", "l": "", "s": "" }
       ]

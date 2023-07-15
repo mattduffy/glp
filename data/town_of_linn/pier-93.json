@@ -19,7 +19,7 @@
     {
       "estateName": "Solliden",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Donor",
       "members": [
         { "t": "", "f": "Ulla", "m": "E", "l": "Brunk", "s": "" },
         { "t": "", "f": "Anna", "m": "", "l": "Brunk Peterson", "s": "" }

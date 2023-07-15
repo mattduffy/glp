@@ -19,7 +19,7 @@
     {
       "estateName": "Forest Edge",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Dvorak Family", "m": "", "l": "", "s": "" }
       ]

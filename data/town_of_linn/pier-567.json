@@ -19,7 +19,7 @@
     {
       "estateName": "Grey Oaks",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Michelle", "m": "", "l": "Moore", "s": "" }
       ]

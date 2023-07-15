@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Donor",
       "members": [
         { "t": "", "f": "Birches Association", "m": "", "l": "", "s": "" }
       ]
@@ -27,7 +27,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
         { "t": "", "f": "Ellen", "m": "", "l": "Bentsen", "s": "" }
       ]
@@ -35,7 +35,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
         { "t": "", "f": "Jill", "m": "", "l": "Kirk", "s": "" },
         { "t": "", "f": "John", "m": "", "l": "Darrow", "s": "" }
@@ -44,7 +44,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Bill", "m": "", "l": "Tookey", "s": "" },
         { "t": "", "f": "Dotty", "m": "", "l": "Tookey", "s": "" }

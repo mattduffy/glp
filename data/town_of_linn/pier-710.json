@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Lake Geneva Country Club", "m": "", "l": "", "s": "" }
       ]
@@ -27,7 +27,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
         { "t": "", "f": "Sarah", "m": "E", "l": "Bogan", "s": "" }
       ]
@@ -35,7 +35,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Sustaining",
       "members": [
         { "t": "", "f": "John", "m": "", "l": "Foxley", "s": "" },
         { "t": "", "f": "Mary Ann", "m": "", "l": "Foxley", "s": "" }
@@ -44,7 +44,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Bob", "m": "", "l": "Klockars", "s": "" },
         { "t": "", "f": "Jane", "m": "", "l": "Klockars", "s": "" }

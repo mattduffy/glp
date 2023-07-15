@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Thomas", "m": "", "l": "Gardiner", "s": "" },
         { "t": "", "f": "Margaret", "m": "", "l": "Lass-Gardiner", "s": "" }

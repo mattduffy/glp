@@ -19,7 +19,7 @@
     {
       "estateName": "Casa del Sol",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
         { "t": "", "f": "Amanda", "m": "", "l": "Rutledge", "s": "" },
         { "t": "", "f": "John", "m": "", "l": "Rutledge", "s": "" }

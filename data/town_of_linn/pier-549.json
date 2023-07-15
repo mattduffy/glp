@@ -19,7 +19,7 @@
     {
       "estateName": "Chateau DuLac",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "John", "m": "", "l": "Simms", "s": "" },
         { "t": "", "f": "Michelle", "m": "", "l": "Simms", "s": "" }

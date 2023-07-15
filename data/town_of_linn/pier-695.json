@@ -19,7 +19,7 @@
     {
       "estateName": "Kalmwaters",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "The Kirch Foundation", "m": "", "l": "", "s": "" },
         { "t": "", "f": "Terry", "m": "", "l": "Kirch", "s": "" }

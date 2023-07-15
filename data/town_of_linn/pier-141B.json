@@ -27,7 +27,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Gene", "m": "", "l": "Needles", "s": "" }
       ]
@@ -35,7 +35,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Charlene", "m": "", "l": "Needles", "s": "" },
         { "t": "", "f": "Chad", "m": "", "l": "Black", "s": "" },

@@ -19,7 +19,7 @@
     {
       "estateName": "Villa di Nova",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Michael", "m": "", "l": "Bungert", "s": "" },
         { "t": "", "f": "Patricia", "m": "", "l": "Bungert", "s": "" }

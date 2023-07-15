@@ -19,7 +19,7 @@
     {
       "estateName": "Aloha Lodge",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Harold", "m": "B", "l": "Smith", "s": "" }
       ]

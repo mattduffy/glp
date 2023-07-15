@@ -19,7 +19,7 @@
     {
       "estateName": "Deadwood",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
         { "t": "", "f": "Walter", "m": "G", "l": "Larkin", "s": "" }
       ]

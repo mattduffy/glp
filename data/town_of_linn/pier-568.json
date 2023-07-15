@@ -19,7 +19,7 @@
     {
       "estateName": "Woodhill",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Doug", "m": "", "l": "Perks", "s": "" },
         { "t": "", "f": "Mary", "m": "", "l": "Perks", "s": "" }

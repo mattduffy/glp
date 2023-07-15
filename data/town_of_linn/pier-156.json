@@ -19,7 +19,7 @@
     {
       "estateName": "Chateau North",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Nancy", "m": "", "l": "Baird", "s": "" },
         { "t": "", "f": "Lanny", "m": "", "l": "Baird", "s": "" },

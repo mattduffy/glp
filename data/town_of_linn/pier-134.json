@@ -19,7 +19,7 @@
     {
       "estateName": "Windwood",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Brian", "m": "", "l": "Griffith", "s": "" },
         { "t": "", "f": "Sue", "m": "", "l": "Griffith", "s": "" }
@@ -27,8 +27,8 @@
     },
     {
       "estateName": "Windwood",
-      "member": true,
-      "membershipType": "",
+      "member": false,
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Lois", "m": "", "l": "Griffith", "s": "" }
       ]

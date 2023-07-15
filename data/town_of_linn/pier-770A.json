@@ -19,7 +19,7 @@
     {
       "estateName": "Ashling",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Mary", "m": "", "l": "Lahey", "s": "" },
         { "t": "", "f": "Mark", "m": "", "l": "Lahey", "s": "" }

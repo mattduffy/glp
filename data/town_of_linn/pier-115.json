@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Scot", "m": "", "l": "Seyfarth", "s": "" },
         { "t": "", "f": "Eileen", "m": "", "l": "Seyfarth", "s": "" }

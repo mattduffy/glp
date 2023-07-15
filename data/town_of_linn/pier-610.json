@@ -19,7 +19,7 @@
     {
       "estateName": "Tuck-ER Inn",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
         { "t": "", "f": "John", "m": "", "l": "Tucker", "s": "" },
         { "t": "", "f": "Ellie", "m": "", "l": "Tucker", "s": "" }

@@ -18,8 +18,8 @@
   "owners": [
     {
       "estateName": "",
-      "member": true,
-      "membershipType": "",
+      "member": false,
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Oak Glen Association Pier", "m": "", "l": "", "s": "" }
       ]
@@ -27,7 +27,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Jim", "m": "", "l": "Wycpalek", "s": "" },
         { "t": "", "f": "Georgia", "m": "", "l": "Wycpalek", "s": "" }

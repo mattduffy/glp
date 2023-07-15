@@ -19,7 +19,7 @@
     {
       "estateName": "Welcome Home",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Carol", "m": "", "l": "Bernick", "s": "" }
       ]

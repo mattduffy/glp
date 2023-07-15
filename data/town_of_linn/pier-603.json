@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Irtiza", "m": "", "l": "Rauf", "s": "" },
         { "t": "", "f": "Hina", "m": "", "l": "Rauf", "s": "" }

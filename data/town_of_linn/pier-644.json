@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Wooddale Beach Assn. Pier", "m": "", "l": "", "s": "" }
       ]
@@ -27,7 +27,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Fairbank", "m": "", "l": "Carpenter", "s": "" },
         { "t": "", "f": "Lynne", "m": "", "l": "Carpenter", "s": "" }
@@ -36,7 +36,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Eleanor", "m": "", "l": "Curtiss", "s": "" }
       ]
@@ -44,7 +44,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Diane", "m": "", "l": "Fanelle", "s": "" }
       ]
@@ -52,7 +52,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Jeff", "m": "", "l": "Jancik", "s": "" }
       ]
@@ -60,7 +60,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Sustaining",
       "members": [
         { "t": "", "f": "Tricia", "m": "", "l": "McCoy", "s": "" }
       ]
@@ -68,7 +68,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Mark", "m": "", "l": "Scharres", "s": "" },
         { "t": "", "f": "Nancy", "m": "", "l": "McCoy", "s": "" }
@@ -77,7 +77,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
         { "t": "", "f": "Bill", "m": "", "l": "Thompson", "s": "" },
         { "t": "", "f": "Diane", "m": "", "l": "Thompson", "s": "" }
@@ -86,7 +86,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Sonette", "m": "", "l": "Tippens", "s": "" }
       ]

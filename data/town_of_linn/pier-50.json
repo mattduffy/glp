@@ -19,9 +19,9 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
-        { "t": "", "f": "Geoff", "m": "", "l": "Wrigley Rusack", "s": "" },
+        { "t": "", "f": "Geoff", "m": "", "l": "Rusack", "s": "" },
         { "t": "", "f": "Allison", "m": "", "l": "Wrigley Rusack", "s": "" }
       ]
     }

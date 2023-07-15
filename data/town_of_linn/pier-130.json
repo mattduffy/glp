@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Ignas", "m": "", "l": "Labanauskas", "s": "" },
         { "t": "", "f": "Maureen", "m": "", "l": "Labanauskas", "s": "" }

@@ -19,7 +19,7 @@
     {
       "estateName": "Koinonia",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Donor",
       "members": [
         { "t": "", "f": "Janice Van Dyke-Zeilstra Family", "m": "", "l": "", "s": "" }
       ]

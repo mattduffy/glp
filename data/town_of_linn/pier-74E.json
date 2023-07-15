@@ -19,10 +19,8 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
-      "members": [
-        { "t": "", "f": "", "m": "", "l": "", "s": "" }
-      ]
+      "membershipType": "Residential Non-member",
+      "members": []
     }
   ]
 }

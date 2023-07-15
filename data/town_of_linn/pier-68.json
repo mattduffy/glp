@@ -19,7 +19,7 @@
     {
       "estateName": "The Narrows",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Lydia", "m": "", "l": "Ryan", "s": "" },
         { "t": "", "f": "Patrick", "m": "", "l": "Ryan", "s": "Jr." }

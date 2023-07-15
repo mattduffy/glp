@@ -19,7 +19,7 @@
     {
       "estateName": "Green Gables",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Karl", "m": "", "l": "Otzen", "s": "" },
         { "t": "", "f": "Lucy", "m": "", "l": "Otzen", "s": "" }

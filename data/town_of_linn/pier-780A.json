@@ -19,7 +19,7 @@
     {
       "estateName": "Casa Blanka",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Casa East", "m": "", "l": "", "s": "" }
       ]

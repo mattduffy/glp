@@ -19,7 +19,7 @@
     {
       "estateName": "The Lake House",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Gary", "m": "", "l": "Jouris", "s": "" },
         { "t": "", "f": "Sally", "m": "", "l": "Jouris", "s": "" }
@@ -28,7 +28,7 @@
     {
       "estateName": "The Lake House",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Jon", "m": "", "l": "Jouris", "s": "" },
         { "t": "", "f": "Kelly", "m": "", "l": "Jouris", "s": "" }

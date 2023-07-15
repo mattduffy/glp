@@ -19,7 +19,7 @@
     {
       "estateName": "Glen Fern",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Donor",
       "members": [
         { "t": "", "f": "Bob", "m": "", "l": "Clifford", "s": "" },
         { "t": "", "f": "Joan", "m": "", "l": "Clifford", "s": "" }

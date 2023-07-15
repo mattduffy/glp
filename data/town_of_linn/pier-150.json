@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Knollwood Association Piers", "m": "", "l": "", "s": "" }
       ]
@@ -27,7 +27,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Farrell", "m": "", "l": "Frentress", "s": "" },
         { "t": "", "f": "Doris", "m": "", "l": "Frentress", "s": "" }
@@ -36,7 +36,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Bruce", "m": "", "l": "Johnson", "s": "" },
         { "t": "", "f": "Gail", "m": "", "l": "Johnson", "s": "" }

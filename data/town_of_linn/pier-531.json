@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Lake Geneva Club Pier", "m": "", "l": "", "s": "" }
       ]
@@ -36,7 +36,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Roger", "m": "", "l": "Bohn", "s": "" },
         { "t": "", "f": "Lynda", "m": "", "l": "Bohn", "s": "" }
@@ -45,7 +45,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Gardella Family", "m": "", "l": "", "s": "" }
       ]
@@ -53,7 +53,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Marty", "m": "", "l": "Rexinger", "s": "" }
       ]
@@ -61,7 +61,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
         { "t": "", "f": "Jim & Denise Vitale Family", "m": "", "l": "", "s": "" }
       ]

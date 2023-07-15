@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Greg", "m": "", "l": "Mutz", "s": "" },
         { "t": "", "f": "Laura", "m": "", "l": "Mutz", "s": "" }

@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Dragan", "m": "", "l": "Dovric", "s": "" }
       ]
@@ -27,7 +27,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Bill", "m": "", "l": "Grunow", "s": "" }
       ]
@@ -35,7 +35,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Melita", "m": "", "l": "Grunow", "s": "" }
       ]
@@ -43,7 +43,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Scot", "m": "", "l": "Grunow", "s": "" }
       ]
@@ -51,7 +51,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "T", "m": "", "l": "Schurtz", "s": "" }
       ]
@@ -59,7 +59,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Michael", "m": "", "l": "Simon", "s": "" }
       ]

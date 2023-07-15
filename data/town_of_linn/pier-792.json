@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Sustaining",
       "members": [
         { "t": "", "f": "David", "m": "", "l": "Magnuson", "s": "" },
         { "t": "", "f": "Carol", "m": "", "l": "Magnuson", "s": "" }
@@ -28,7 +28,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
         { "t": "", "f": "Mark", "m": "", "l": "Magnuson", "s": "" }
       ]

@@ -19,7 +19,7 @@
     {
       "estateName": "House in the Woods",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Patrick", "m": "", "l": "Ryan", "s": "" },
         { "t": "", "f": "Shirley", "m": "", "l": "Ryan", "s": "" }

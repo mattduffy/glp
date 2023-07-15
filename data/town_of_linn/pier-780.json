@@ -19,7 +19,7 @@
     {
       "estateName": "Casa del Sueno",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "JB", "m": "", "l": "Pritzker", "s": "" },
         { "t": "", "f": "MK", "m": "", "l": "Pritzker", "s": "" }

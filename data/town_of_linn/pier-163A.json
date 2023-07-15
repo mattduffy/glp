@@ -19,7 +19,7 @@
     {
       "estateName": "Serenity",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Gary", "m": "R", "l": "Bertrand", "s": "" }
       ]

@@ -19,7 +19,7 @@
     {
       "estateName": "Twin Pines",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Richard", "m": "", "l": "Cucco", "s": "" },
         { "t": "", "f": "Martha", "m": "", "l": "Cucco", "s": "" }

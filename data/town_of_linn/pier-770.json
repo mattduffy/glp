@@ -19,7 +19,7 @@
     {
       "estateName": "Glen Arden",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Allison", "m": "", "l": "Childers", "s": "" },
         { "t": "", "f": "Michael", "m": "", "l": "Childers", "s": "" }

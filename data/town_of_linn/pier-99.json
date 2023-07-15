@@ -19,7 +19,7 @@
     {
       "estateName": "Willow Bend",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Annette", "m": "", "l": "Ebert", "s": "" },
         { "t": "", "f": "Jim", "m": "", "l": "Ebert", "s": "" }

@@ -19,9 +19,10 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
-        { "t": "", "f": "Gordy & Connie Erickson", "m": "", "l": "", "s": "" }
+        { "t": "", "f": "Gordy", "m": "", "l": "Erickson", "s": "" },
+        { "t": "", "f": "Connie", "m": "", "l": "Erickson", "s": "" }
       ]
     }
   ]

@@ -19,10 +19,17 @@
     {
       "estateName": "Camp Highview",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Stephanie", "m": "", "l": "Bragg", "s": "" },
-        { "t": "", "f": "Scott", "m": "", "l": "Bragg", "s": "" },
+        { "t": "", "f": "Scott", "m": "", "l": "Bragg", "s": "" }
+      ]
+    },
+    {
+      "estateName": "Camp Highview",
+      "member": true,
+      "membershipType": "Benefactor",
+      "members": [
         { "t": "", "f": "Debbie", "m": "", "l": "Saran", "s": "" },
         { "t": "", "f": "Mark", "m": "", "l": "Saran", "s": "" }
       ]

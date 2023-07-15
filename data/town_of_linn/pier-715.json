@@ -19,7 +19,7 @@
     {
       "estateName": "Duck Island",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Bates Family", "m": "", "l": "", "s": "" }
       ]
@@ -27,7 +27,7 @@
     {
       "estateName": "Duck Island",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Larry", "m": "", "l": "Crum", "s": "" },
         { "t": "", "f": "Chris", "m": "", "l": "Crum", "s": "" }

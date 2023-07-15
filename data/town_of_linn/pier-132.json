@@ -19,7 +19,7 @@
     {
       "estateName": "El Nido",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
         { "t": "", "f": "Brent", "m": "", "l": "Brodeski", "s": "" },
         { "t": "", "f": "Sharon", "m": "", "l": "Brodeski", "s": "" }

@@ -19,9 +19,9 @@
     {
       "estateName": "Deer Path",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Donor",
       "members": [
-        { "t": "", "f": "Mr. & Mrs.Roger O'Neill", "m": "", "l": "", "s": "" }
+        { "t": "", "f": "Mr. & Mrs. Roger O'Neill", "m": "", "l": "", "s": "" }
       ]
     }
   ]

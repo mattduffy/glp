@@ -19,7 +19,7 @@
     {
       "estateName": "Allview Estate",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Arvid", "m": "", "l": "Dahlstrom", "s": "" },
         { "t": "", "f": "Sue", "m": "", "l": "Dahlstrom", "s": "" }

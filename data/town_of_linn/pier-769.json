@@ -18,8 +18,8 @@
   "owners": [
     {
       "estateName": "Glen Arden",
-      "member": true,
-      "membershipType": "",
+      "member": false,
+      "membershipType": "Residential Non-member",
       "members": []
     }
   ]

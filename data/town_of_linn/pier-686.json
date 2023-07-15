@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
         { "t": "", "f": "Beth", "m": "", "l": "Cunningham", "s": "" },
         { "t": "", "f": "Bob", "m": "", "l": "Cunningham", "s": "" }

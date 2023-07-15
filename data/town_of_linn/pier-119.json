@@ -19,7 +19,7 @@
     {
       "estateName": "Restmore",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "David", "m": "W", "l": "King", "s": "" }
       ]

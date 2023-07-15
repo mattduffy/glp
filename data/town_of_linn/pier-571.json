@@ -19,7 +19,7 @@
     {
       "estateName": "Over the Hill",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Donor",
       "members": [
         { "t": "", "f": "Don", "m": "", "l": "Sheldon", "s": "" },
         { "t": "", "f": "Denise", "m": "", "l": "Sheldon", "s": "" }

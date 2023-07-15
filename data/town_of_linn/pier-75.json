@@ -19,7 +19,7 @@
     {
       "estateName": "The Cliffs",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Rob", "m": "", "l": "Moore", "s": "" },
         { "t": "", "f": "Patty", "m": "", "l": "Moore", "s": "" }

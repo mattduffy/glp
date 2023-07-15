@@ -18,8 +18,8 @@
   "owners": [
     {
       "estateName": "Play 'N Lazy",
-      "member": true,
-      "membershipType": "",
+      "member": false,
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Geneva Beach Association Pier", "m": "", "l": "", "s": "" }
       ]
@@ -27,7 +27,7 @@
     {
       "estateName": "The Cottage",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
         { "t": "", "f": "Peter", "m": "", "l": "King", "s": "" },
         { "t": "", "f": "Pat", "m": "", "l": "King", "s": "" }

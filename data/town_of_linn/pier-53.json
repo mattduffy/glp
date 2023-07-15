@@ -19,7 +19,7 @@
     {
       "estateName": "Boathouse",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "William", "m": "", "l": "Wrigley", "s": "Jr." }
       ]

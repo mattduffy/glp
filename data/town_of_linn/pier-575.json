@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
         { "t": "", "f": "Steve", "m": "", "l": "Glasgow", "s": "" },
         { "t": "", "f": "Michele", "m": "", "l": "Glasgow", "s": "" }

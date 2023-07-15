@@ -27,7 +27,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Donor",
       "members": [
         { "t": "", "f": "Kevin", "m": "", "l": "Goggin", "s": "" },
         { "t": "", "f": "DeeDee", "m": "", "l": "Goggin", "s": "" }
@@ -36,7 +36,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Contributing",
       "members": [
         { "t": "", "f": "Larry", "m": "", "l": "Moelmann", "s": "" },
         { "t": "", "f": "Colleen", "m": "", "l": "Moelmann", "s": "" }

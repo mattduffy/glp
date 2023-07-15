@@ -27,7 +27,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Barb", "m": "", "l": "Kelly", "s": "" }
       ]
@@ -35,7 +35,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Pat", "m": "", "l": "Potucek", "s": "" },
         { "t": "", "f": "Ray", "m": "", "l": "Potucek", "s": "" }
@@ -44,7 +44,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Ed", "m": "", "l": "Zarach", "s": "" }
       ]

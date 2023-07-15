@@ -19,7 +19,7 @@
     {
       "estateName": "On Golden Pier",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Donor",
       "members": [
         { "t": "", "f": "Andrew", "m": "J", "l": "Kubicsko", "s": "Jr." },
         { "t": "", "f": "Robin", "m": "", "l": "Randolph", "s": "" }

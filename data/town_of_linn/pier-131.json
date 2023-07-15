@@ -19,7 +19,7 @@
     {
       "estateName": "Jerseyhurst",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Larry", "m": "", "l": "Rayner", "s": "" },
         { "t": "", "f": "Sally", "m": "", "l": "Rayner", "s": "" }

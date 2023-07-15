@@ -19,7 +19,7 @@
     {
       "estateName": "Oak View",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Terry", "m": "", "l": "Bolger", "s": "" },
         { "t": "", "f": "Mary Jeanne", "m": "", "l": "Bolger", "s": "" }

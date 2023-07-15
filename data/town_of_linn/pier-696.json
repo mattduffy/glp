@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Bill", "m": "", "l": "Laughridge", "s": "" },
         { "t": "", "f": "Cheri", "m": "", "l": "Laughridge", "s": "" }
@@ -28,7 +28,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Benefactor",
       "members": [
         { "t": "", "f": "Tim", "m": "", "l": "Walbert", "s": "" },
         { "t": "", "f": "Keli", "m": "", "l": "Walbert", "s": "" }

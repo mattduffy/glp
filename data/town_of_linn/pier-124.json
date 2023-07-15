@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Dale", "m": "", "l": "Caputo", "s": "" },
         { "t": "", "f": "Bonnie", "m": "", "l": "Caputo", "s": "" }
@@ -28,7 +28,7 @@
     {
       "estateName": "",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Andrea", "m": "", "l": "Gibbs", "s": "" },
         { "t": "", "f": "Jerry", "m": "", "l": "Gibbs", "s": "" }

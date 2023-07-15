@@ -19,7 +19,7 @@
     {
       "estateName": "",
       "member": true,
-      "membershipType": "",
+      "membershipType": "Regular",
       "members": [
         { "t": "", "f": "Dave", "m": "", "l": "Hendrickson", "s": "" },
         { "t": "", "f": "Linda", "m": "", "l": "Hendrickson", "s": "" }

@@ -19,7 +19,7 @@
     {
       "estateName": "Das Holz Haus",
       "member": false,
-      "membershipType": "",
+      "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Dieter", "m": "", "l": "Holz", "s": "" },
         { "t": "", "f": "Helen", "m": "", "l": "Holz", "s": "" }
