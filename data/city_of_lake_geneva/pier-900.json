@@ -1,18 +1,20 @@
 {
   "pier": "900",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.436883",
+    "lat": "42.589268",
+    "geohash": "dp94794hrr0",
+    "pluscode": "HHQ7+P72 Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "+1(262) 248-6206",
     "address": {
-      "street": "",
+      "street": "Summer Harbor Office - Riviera Docks, 812 Wrigley Dr",
       "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [

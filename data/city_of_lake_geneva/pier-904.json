@@ -1,18 +1,20 @@
 {
   "pier": "904",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.442448",
+    "lat": "42.591045",
+    "geohash": "dp9473qnvd0",
+    "pluscode": "HHR5+C27 Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "1240-1200 WI-50",
       "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [

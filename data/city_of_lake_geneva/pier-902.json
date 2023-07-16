@@ -1,13 +1,15 @@
 {
   "pier": "902",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.437983",
+    "lat": "42.590400",
+    "geohash": "dp947937j90",
+    "pluscode": "HHR6+5R2 Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
       "street": "",
       "city": "Lake Geneva",

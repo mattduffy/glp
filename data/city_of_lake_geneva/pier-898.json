@@ -1,23 +1,25 @@
 {
   "pier": "898",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.433751",
+    "lat": "42.588282",
+    "geohash": "dp9478uw8p0",
+    "pluscode": "HHQ8+8F9 Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "335-327 Wrigley Dr",
       "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [
     {
-      "estateName": "",
+      "estateName": "The Baker House",
       "member": false,
       "membershipType": "Residential Non-member",
       "members": [
