@@ -1,18 +1,20 @@
 {
   "pier": "894",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.433211",
+    "lat": "42.587463",
+    "geohash": "dp9478ucuy0",
+    "pluscode": "HHP8+XPM Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "308-300 Wrigley Dr",
       "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [
