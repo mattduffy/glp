@@ -1,18 +1,20 @@
 {
   "pier": "860",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.439402",
+    "lat": "42.578208",
+    "geohash": "dp945x0kh90",
+    "pluscode": "HHH6+76Q Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "East Shore Estates",
     "established": "",
+    "tel": "",
     "address": {
       "street": "",
       "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [

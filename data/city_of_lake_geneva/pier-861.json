@@ -1,18 +1,20 @@
 {
   "pier": "861",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.439180",
+    "lat": "42.578288",
+    "geohash": "dp945x0s980",
+    "pluscode": "HHH6+888 Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "Vista de Lago 861 Homeowners Assn.",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "1070 South Lake Shore Dr",
       "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [
