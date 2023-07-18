@@ -1,18 +1,20 @@
 {
   "pier": "836",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.437909",
+    "lat": "42.571664",
+    "geohash": "dp945tcmzm0",
+    "pluscode": "HHC6+MR8 Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "Big Foot State Park",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "2023-1975 S Lake Shore Dr",
       "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [
