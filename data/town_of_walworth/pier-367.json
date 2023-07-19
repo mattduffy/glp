@@ -1,18 +1,20 @@
 {
   "pier": "367",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.563801",
+    "lat": "42.561853",
+    "geohash": "dp940sjucb0",
+    "pluscode": "HC6P+PFW Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
       "street": "",
       "city": "Walworth",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [

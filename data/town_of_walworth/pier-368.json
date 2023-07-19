@@ -1,18 +1,20 @@
 {
   "pier": "368",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.563948",
+    "lat": "42.561558",
+    "geohash": "dp940sjen30",
+    "pluscode": "HC6P+JCF Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "N1905 N Lakeshore Dr",
       "city": "Walworth",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [
