@@ -1,18 +1,20 @@
 {
-  "pier": "23",
+  "pier": "023",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.447565",
+    "lat": "42.586503",
+    "geohash": "dp9472dkq70",
+    "pluscode": "HHP2+JX3 Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "Lake Geneva Manor",
     "established": "1924",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "1644 Lake Shore Dr",
       "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [

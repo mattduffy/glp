@@ -1,9 +1,10 @@
 {
-  "pier": "39",
+  "pier": "039",
   "loc": {
     "lon": "",
     "lat": "",
-    "geohash": ""
+    "geohash": "",
+    "pluscode": ""
   },
   "property": {
     "association": "",
@@ -12,7 +13,7 @@
       "street": "",
       "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [

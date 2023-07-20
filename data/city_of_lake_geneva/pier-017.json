@@ -1,18 +1,20 @@
 {
-  "pier": "17",
+  "pier": "017",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.445825",
+    "lat": "42.587445",
+    "geohash": "dp9472g9yg0",
+    "pluscode": "HHP3+XMF Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "Lake Geneva Manor",
     "established": "1924",
+    "tel": "",
     "address": {
       "street": "",
       "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [
