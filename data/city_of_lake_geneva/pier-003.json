@@ -1,18 +1,20 @@
 {
   "pier": "3",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.443439",
+    "lat": "42.590371",
+    "geohash": "dp9473m6ys0",
+    "pluscode": "HHR4+4JV Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "1310 W Main St",
       "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [

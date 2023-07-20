@@ -1,18 +1,20 @@
 {
-  "pier": "9B",
+  "pier": "6",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.444574",
+    "lat": "42.590061",
+    "geohash": "dp9473k9h40",
+    "pluscode": "HHR4+25F Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "1408 W Main St",
       "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [
@@ -21,8 +23,7 @@
       "member": false,
       "membershipType": "Residential Non-member",
       "members": [
-        { "t": "", "f": "Don", "m": "", "l": "Adams", "s": "" },
-        { "t": "", "f": "Mary", "m": "", "l": "Adams", "s": "" }
+        { "t": "", "f": "", "m": "", "l": "Studer", "s": "" }
       ]
     }
   ]

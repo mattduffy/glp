@@ -1,18 +1,20 @@
 {
-  "pier": "6",
+  "pier": "8B",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.445289",
+    "lat": "42.589504",
+    "geohash": "dp9473hjg60",
+    "pluscode": "HHQ3+RV4 Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "63 Hillside Dr",
       "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [
@@ -21,7 +23,7 @@
       "member": false,
       "membershipType": "Residential Non-member",
       "members": [
-        { "t": "", "f": "", "m": "", "l": "Studer", "s": "" }
+        { "t": "", "f": "", "m": "", "l": "Fitterer", "s": "" }
       ]
     }
   ]

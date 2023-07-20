@@ -1,18 +1,20 @@
 {
-  "pier": "8B",
+  "pier": "7",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.444865",
+    "lat": "42.589792",
+    "geohash": "dp9473hrt20",
+    "pluscode": "HHQ4+W36 Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "1412 W Main St",
       "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [
@@ -21,7 +23,7 @@
       "member": false,
       "membershipType": "Residential Non-member",
       "members": [
-        { "t": "", "f": "", "m": "", "l": "Fitterer", "s": "" }
+        { "t": "", "f": "", "m": "", "l": "Glavin", "s": "" }
       ]
     }
   ]

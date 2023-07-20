@@ -1,18 +1,20 @@
 {
-  "pier": "11",
+  "pier": "13",
   "loc": {
     "lon": "",
     "lat": "",
-    "geohash": ""
+    "geohash": "",
+    "pluscode": ""
   },
   "property": {
     "association": "Lake Geneva Manor",
     "established": "1924",
+    "tel": "",
     "address": {
       "street": "",
       "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [
@@ -21,7 +23,7 @@
       "member": false,
       "membershipType": "Residential Non-member",
       "members": [
-        { "t": "", "f": "Cindy", "m": "", "l": "Barich", "s": "" }
+        { "t": "", "f": "Tom", "m": "", "l": "Pecora", "s": "" }
       ]
     }
   ]
