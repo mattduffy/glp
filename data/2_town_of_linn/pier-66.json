@@ -1,18 +1,20 @@
 {
-  "pier": "66",
+  "pier": "066",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.475054",
+    "lat": "42.572782",
+    "geohash": "dp944wnkmv0",
+    "pluscode": "HGFF+4X8 Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
       "street": "",
-      "city": "Linn",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [

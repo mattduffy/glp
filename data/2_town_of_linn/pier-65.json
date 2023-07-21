@@ -1,18 +1,20 @@
 {
-  "pier": "65",
+  "pier": "065",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.474588",
+    "lat": "42.572910",
+    "geohash": "dp944wnv0t0",
+    "pluscode": "HGFG+557 Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "N2273 Mallory Ln",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [

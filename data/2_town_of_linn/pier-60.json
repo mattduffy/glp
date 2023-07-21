@@ -1,18 +1,20 @@
 {
-  "pier": "60",
+  "pier": "060",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.466567",
+    "lat": "42.574550",
+    "geohash": "dp944ykwex0",
+    "pluscode": "HGFM+R97 Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "W3373 Snake Rd",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [
