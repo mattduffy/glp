@@ -1,18 +1,20 @@
 {
-  "pier": "71",
+  "pier": "071",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.479117",
+    "lat": "42.571857",
+    "geohash": "dp944tgrp10",
+    "pluscode": "HGCC+P9R Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "The Folly",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "N2290 Folly Ln",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [
