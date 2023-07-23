@@ -1,18 +1,20 @@
 {
   "pier": "132",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.502798",
+    "lat": "42.574862",
+    "geohash": "dp944nd0x30",
+    "pluscode": "HFFW+WVW Williams Bay, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "W4119 Jerseyhurst Ln",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [

@@ -1,18 +1,20 @@
 {
   "pier": "139",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.505877",
+    "lat": "42.575245",
+    "geohash": "dp941yxfz90",
+    "pluscode": "HFGV+3JX Williams Bay, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "N2312 Windwood Ln",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [
