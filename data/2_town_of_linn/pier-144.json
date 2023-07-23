@@ -1,18 +1,20 @@
 {
   "pier": "144",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.509494",
+    "lat": "42.576039",
+    "geohash": "dp941ytr7m0",
+    "pluscode": "HFGR+C66 Williams Bay, Wisconsin"
   },
   "property": {
     "association": "Knollwood",
     "established": "1926",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "W4259 Oriole Ln",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [

@@ -1,18 +1,20 @@
 {
   "pier": "141B",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.508409",
+    "lat": "42.575966",
+    "geohash": "dp941ywnux0",
+    "pluscode": "HFGR+9JP Williams Bay, Wisconsin"
   },
   "property": {
     "association": "Ara Glen",
     "established": "1977",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "W4237 Oriole Ln",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [
