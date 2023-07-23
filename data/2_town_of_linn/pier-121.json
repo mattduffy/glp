@@ -1,18 +1,20 @@
 {
   "pier": "121",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.499752",
+    "lat": "42.574704",
+    "geohash": "dp944nkrwk0",
+    "pluscode": "HGF2+V3Q Williams Bay, Wisconsin"
   },
   "property": {
     "association": "Elgin Club",
     "established": "1874",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "W4055 Elgin Club Dr",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [

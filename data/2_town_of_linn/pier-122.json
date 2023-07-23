@@ -1,23 +1,25 @@
 {
   "pier": "122",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.499916",
+    "lat": "42.574915",
+    "geohash": "dp944ns2f70",
+    "pluscode": "HGF2+X28 Williams Bay, Wisconsin"
   },
   "property": {
     "association": "Elgin Club",
     "established": "1874",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "W4061 Elgin Club Dr",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [
     {
-      "estateName": "",
+      "estateName": "The Bosworth Lake House",
       "member": true,
       "membershipType": "Regular",
       "members": [
