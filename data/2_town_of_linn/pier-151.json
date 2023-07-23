@@ -1,18 +1,20 @@
 {
   "pier": "151",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.511615",
+    "lat": "42.574911",
+    "geohash": "dp941yebcf0",
+    "pluscode": "HFFQ+X96 Williams Bay, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "N2301 Knollwood Dr",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [

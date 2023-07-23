@@ -1,18 +1,20 @@
 {
   "pier": "157",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.512839",
+    "lat": "42.574545",
+    "geohash": "dp941y6ytq0",
+    "pluscode": "HFFP+RV7 Williams Bay, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "W4345 N Lake Shore Dr",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [
