@@ -1,18 +1,20 @@
 {
   "pier": "103",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.495054",
+    "lat": "42.573953",
+    "geohash": "dp944nrg7b0",
+    "pluscode": "HGF3+HXP Williams Bay, Wisconsin"
   },
   "property": {
     "association": "Geneva Oaks",
     "established": "1970",
+    "tel": "",
     "address": {
       "street": "",
-      "city": "Linn",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [

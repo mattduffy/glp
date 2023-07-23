@@ -1,18 +1,20 @@
 {
   "pier": "104",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.495636",
+    "lat": "42.574008",
+    "geohash": "dp944nr7w40",
+    "pluscode": "HGF3+JP5 Williams Bay, Wisconsin"
   },
   "property": {
     "association": "Sunset Hills",
     "established": "1926",
+    "tel": "",
     "address": {
       "street": "",
-      "city": "Linn",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [

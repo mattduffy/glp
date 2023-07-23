@@ -1,18 +1,20 @@
 {
   "pier": "105",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.495899",
+    "lat": "42.574275",
+    "geohash": "dp944nrm0h0",
+    "pluscode": "HGF3+PJ9 Williams Bay, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "N2291 W Main Rd",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [
