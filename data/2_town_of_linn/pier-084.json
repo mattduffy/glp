@@ -1,18 +1,20 @@
 {
-  "pier": "84",
+  "pier": "084",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.485381",
+    "lat": "42.571088",
+    "geohash": "dp944myft40",
+    "pluscode": "HGC7+CRQ Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "Bonnie Brae",
     "established": "1916",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "N2210 Alta Vista Dr",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [

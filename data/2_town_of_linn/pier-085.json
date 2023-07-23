@@ -1,18 +1,20 @@
 {
-  "pier": "85",
+  "pier": "085",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.486162",
+    "lat": "42.571343",
+    "geohash": "dp944myk4c0",
+    "pluscode": "HGC7+GGP Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "Alta Vista",
     "established": "1954",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "N2206 Alta Vista Dr",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [

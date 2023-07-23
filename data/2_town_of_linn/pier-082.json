@@ -1,18 +1,20 @@
 {
-  "pier": "82",
+  "pier": "082",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.484686",
+    "lat": "42.570960",
+    "geohash": "dp944mz3v60",
+    "pluscode": "HGC8+94P Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "Bonnie Brae",
     "established": "1916",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "N2263 Bonnie Brae Ln",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [
