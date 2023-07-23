@@ -1,18 +1,20 @@
 {
-  "pier": "91",
+  "pier": "091",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.490086",
+    "lat": "42.572697",
+    "geohash": "dp944q57zt0",
+    "pluscode": "HGF5+3XF Williams Bay, Wisconsin"
   },
   "property": {
     "association": "S. B. Chapin",
     "established": "1921",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "W3855 Creek Ln",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [

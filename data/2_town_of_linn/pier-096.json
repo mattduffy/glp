@@ -1,18 +1,20 @@
 {
-  "pier": "96",
+  "pier": "096",
   "loc": {
     "lon": "",
     "lat": "",
-    "geohash": ""
+    "geohash": "",
+    "pluscode": ""
   },
   "property": {
     "association": "S. B. Chapin",
     "established": "1921",
+    "tel": "",
     "address": {
       "street": "",
-      "city": "Linn",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [
