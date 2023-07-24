@@ -1,18 +1,20 @@
 {
   "pier": "168",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.519236",
+    "lat": "42.571513",
+    "geohash": "dp941tym030",
+    "pluscode": "HFCJ+J82 Williams Bay, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "727 Cedar Point Dr",
       "city": "Williams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [

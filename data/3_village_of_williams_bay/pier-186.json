@@ -1,18 +1,20 @@
 {
   "pier": "186",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.525249",
+    "lat": "42.568197",
+    "geohash": "dp941t3csp0",
+    "pluscode": "HF9F+7WC Williams Bay, Wisconsin"
   },
   "property": {
     "association": "Cedar Point Park",
     "established": "1922",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Willams Bay",
+      "street": "167 Lincoln Pkwy",
+      "city": "Williams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [
@@ -20,7 +22,9 @@
       "estateName": "",
       "member": false,
       "membershipType": "Residential Non-member",
-      "members": []
+      "members": [
+        { "t": "", "f": "Mark", "m": "P", "l": "Felix", "s": "" }
+      ]
     }
   ]
 }

@@ -1,18 +1,20 @@
 {
   "pier": "180",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.522027",
+    "lat": "42.569663",
+    "geohash": "dp941ts4r20",
+    "pluscode": "HF9H+V59 Williams Bay, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Willams Bay",
+      "street": "635 Cedar Point Dr",
+      "city": "Williams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [
@@ -21,8 +23,8 @@
       "member": true,
       "membershipType": "Contributing",
       "members": [
-        { "t": "", "f": "Charles", "m": "H", "l": "Wegner", "s": "" },
-        { "t": "", "f": "Tara", "m": "H", "l": "Wegner", "s": "" }
+        { "t": "", "f": "Charles", "m": "", "l": "Wegner", "s": "" },
+        { "t": "", "f": "Tara", "m": "", "l": "Wegner", "s": "" }
       ]
     }
   ]
