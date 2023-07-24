@@ -1,18 +1,20 @@
 {
   "pier": "214",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.529603",
+    "lat": "42.569679",
+    "geohash": "dp941mwdqe0",
+    "pluscode": "HF9C+V5C Williams Bay, Wisconsin"
   },
   "property": {
     "association": "Cedar Point Park",
     "established": "1922",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "194 Cir Pkwy",
       "city": "Willams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [
