@@ -1,18 +1,20 @@
 {
   "pier": "165",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.516771",
+    "lat": "42.572236",
+    "geohash": "dp941y011x0",
+    "pluscode": "HFCM+V7M Williams Bay, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "W4486 N Lake Shore Dr",
+      "city": "Williams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [
