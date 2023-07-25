@@ -1,18 +1,20 @@
 {
   "pier": "289",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.538786",
+    "lat": "42.573646",
+    "geohash": "dp941q212y0",
+    "pluscode": "HFF6+FF4 Williams Bay, Wisconsin"
   },
   "property": {
     "association": "Summer Haven",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Willams Bay",
+      "street": "10 Liechty Dr",
+      "city": "Williams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [

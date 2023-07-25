@@ -1,18 +1,20 @@
 {
   "pier": "291",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.538716",
+    "lat": "42.573087",
+    "geohash": "dp941q0n4q0",
+    "pluscode": "HFF6+6GM Williams Bay, Wisconsin"
   },
   "property": {
-    "association": "",
+    "association": "Gage Marine",
     "established": "",
+    "tel": "+1(262) 245-2100",
     "address": {
-      "street": "",
-      "city": "Willams Bay",
+      "street": "3 Liechty Dr",
+      "city": "Williams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [

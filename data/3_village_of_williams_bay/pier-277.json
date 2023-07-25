@@ -1,18 +1,20 @@
 {
   "pier": "277",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.539021",
+    "lat": "42.576289",
+    "geohash": "dp941nzbg70",
+    "pluscode": "HFG6+G99 Williams Bay, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Willams Bay",
+      "street": "35 N Walworth Ave",
+      "city": "Williams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [

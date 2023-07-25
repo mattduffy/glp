@@ -1,18 +1,20 @@
 {
   "pier": "290",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.538726",
+    "lat": "42.572708",
+    "geohash": "dp941q0h400",
+    "pluscode": "HFF6+3GJ Williams Bay, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Willams Bay",
+      "street": "3 Liechty Dr",
+      "city": "Williams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [

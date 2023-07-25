@@ -1,18 +1,20 @@
 {
   "pier": "255",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.533630",
+    "lat": "42.578004",
+    "geohash": "dp941r5fbg0",
+    "pluscode": "HFH8+6G5 Williams Bay, Wisconsin"
   },
   "property": {
-    "association": "",
+    "association": "Williams Bay Village Recreation Department",
     "established": "",
+    "tel": "+1(262) 245-2700",
     "address": {
-      "street": "",
-      "city": "Willams Bay",
+      "street": "15 E Geneva St",
+      "city": "Williams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [

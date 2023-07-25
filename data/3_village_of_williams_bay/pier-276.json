@@ -1,18 +1,20 @@
 {
   "pier": "276",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.538954",
+    "lat": "42.576857",
+    "geohash": "dp941nzuhv0",
+    "pluscode": "HFG6+J9J Williams Bay, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Willams Bay",
+      "street": "43 N Walworth Ave",
+      "city": "Williams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [
@@ -20,7 +22,10 @@
       "estateName": "",
       "member": false,
       "membershipType": "Residential Non-member",
-      "members": []
+      "members": [
+        { "t": "", "f": "James", "m": "H", "l": "Maiers", "s": "" },
+        { "t": "", "f": "Nancy", "m": "", "l": "Maiers", "s": "" }
+      ]
     }
   ]
 }

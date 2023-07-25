@@ -1,18 +1,20 @@
 {
   "pier": "288",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.538783",
+    "lat": "42.574209",
+    "geohash": "dp941q2h8z0",
+    "pluscode": "HFF6+MFP Williams Bay, Wisconsin"
   },
   "property": {
     "association": "Bay Colony South Condo",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Willams Bay",
+      "street": "35 S Walworth Ave",
+      "city": "Williams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [
