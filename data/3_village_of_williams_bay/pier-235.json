@@ -1,18 +1,20 @@
 {
   "pier": "235",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.530072",
+    "lat": "42.576832",
+    "geohash": "dp941qyk5b0",
+    "pluscode": "HFG9+PXM Williams Bay, Wisconsin"
   },
   "property": {
     "association": "Cedar Point Park",
     "established": "1922",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "20 Bayview Rd",
       "city": "Willams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [

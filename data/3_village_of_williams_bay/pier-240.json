@@ -1,18 +1,20 @@
 {
   "pier": "240",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.530506",
+    "lat": "42.577365",
+    "geohash": "dp941qyp1s0",
+    "pluscode": "HFG9+WQX Williams Bay, Wisconsin"
   },
   "property": {
     "association": "Cedar Point Park",
     "established": "1922",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "501 E Geneva St",
       "city": "Willams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [

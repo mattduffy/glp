@@ -1,18 +1,20 @@
 {
   "pier": "232",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.529832",
+    "lat": "42.576115",
+    "geohash": "dp941qwxc70",
+    "pluscode": "HFGC+C3V Williams Bay, Wisconsin"
   },
   "property": {
     "association": "Cedar Point Park",
     "established": "1922",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "501-599 Park Ridge Rd",
       "city": "Willams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [

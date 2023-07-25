@@ -1,18 +1,20 @@
 {
   "pier": "229",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.529446",
+    "lat": "42.574860",
+    "geohash": "dp941qwbd30",
+    "pluscode": "HFFC+W6V Williams Bay, Wisconsin"
   },
   "property": {
     "association": "Cedar Point Park",
     "established": "1922",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "60 Oak Birch Dr",
       "city": "Willams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [
