@@ -1,18 +1,20 @@
 {
   "pier": "298",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.540062",
+    "lat": "42.570430",
+    "geohash": "dp941jxnep0",
+    "pluscode": "HFC5+5XG Williams Bay, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "160 Conference Point Rd",
       "city": "Williams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [

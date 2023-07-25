@@ -1,18 +1,20 @@
 {
   "pier": "293",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.539196",
+    "lat": "42.572535",
+    "geohash": "dp941npdzp0",
+    "pluscode": "HFF6+287 Williams Bay, Wisconsin"
   },
   "property": {
     "association": "Oakwood Estates",
     "established": "1921",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "102 Healy Dr",
       "city": "Williams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [

@@ -1,18 +1,20 @@
 {
   "pier": "305A",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.541345",
+    "lat": "42.568900",
+    "geohash": "dp941jqjv10",
+    "pluscode": "HF95+HF2 Williams Bay, Wisconsin"
   },
   "property": {
     "association": "Loch Vista Club",
     "established": "1921",
+    "tel": "",
     "address": {
       "street": "",
       "city": "Williams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [

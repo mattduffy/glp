@@ -1,18 +1,20 @@
 {
   "pier": "296A",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.539957",
+    "lat": "42.570920",
+    "geohash": "dp941jz1t60",
+    "pluscode": "HFC6+927 Williams Bay, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
       "street": "",
       "city": "Williams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [

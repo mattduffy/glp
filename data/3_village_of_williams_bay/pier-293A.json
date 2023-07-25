@@ -1,18 +1,20 @@
 {
   "pier": "293A",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.539596",
+    "lat": "42.572266",
+    "geohash": "dp941np3mv0",
+    "pluscode": "HFC6+W52 Williams Bay, Wisconsin"
   },
   "property": {
     "association": "Oakwood Estates",
     "established": "1921",
+    "tel": "",
     "address": {
       "street": "",
       "city": "Williams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [

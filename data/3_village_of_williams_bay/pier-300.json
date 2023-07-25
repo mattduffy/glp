@@ -1,18 +1,20 @@
 {
   "pier": "300",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.540476",
+    "lat": "42.569872",
+    "geohash": "dp941jwg3r0",
+    "pluscode": "HF95+WRR Williams Bay, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "6 Upper Loch Vista Dr",
       "city": "Williams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [
