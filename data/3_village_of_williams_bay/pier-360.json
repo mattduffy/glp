@@ -1,18 +1,20 @@
 {
   "pier": "360",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.560088",
+    "lat": "42.564325",
+    "geohash": "dp940u8e0m0",
+    "pluscode": "HC7Q+PXF Williams Bay, Wisconsin"
   },
   "property": {
     "association": "Norman B. Barr Camp",
     "established": "",
+    "tel": "+1(262) 245-5544",
     "address": {
-      "street": "",
+      "street": "483 Outing St",
       "city": "Williams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [

@@ -1,18 +1,20 @@
 {
   "pier": "349A",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.555748",
+    "lat": "42.565953",
+    "geohash": "dp940ugsts0",
+    "pluscode": "HC8V+9PJ Williams Bay, Wisconsin"
   },
   "property": {
     "association": "George Williams College of Aurora University",
     "established": "1886",
+    "tel": "+1(262) 245-5531",
     "address": {
       "street": "",
       "city": "Williams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [

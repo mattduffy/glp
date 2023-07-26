@@ -1,18 +1,20 @@
 {
   "pier": "358",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.559235",
+    "lat": "42.564755",
+    "geohash": "dp940u9jsm0",
+    "pluscode": "HC7R+W82 Williams Bay, Wisconsin"
   },
   "property": {
     "association": "Oak Bank",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "471 Outing St",
       "city": "Williams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [

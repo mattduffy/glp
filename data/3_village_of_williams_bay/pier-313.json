@@ -1,18 +1,20 @@
 {
   "pier": "313",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.541508",
+    "lat": "42.567947",
+    "geohash": "dp941jq0320",
+    "pluscode": "HF95+59H Williams Bay, Wisconsin"
   },
   "property": {
     "association": "Congress Club",
     "established": "1882",
+    "tel": "",
     "address": {
       "street": "",
       "city": "Williams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [

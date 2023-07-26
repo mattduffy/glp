@@ -1,18 +1,20 @@
 {
   "pier": "344",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.551224",
+    "lat": "42.567059",
+    "geohash": "dp940vngnf0",
+    "pluscode": "HC8X+RGC Williams Bay, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "249 Constance Blvd",
       "city": "Williams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [

@@ -1,18 +1,20 @@
 {
   "pier": "341",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.550743",
+    "lat": "42.566968",
+    "geohash": "dp940vp6d10",
+    "pluscode": ""
   },
   "property": {
     "association": "Dartmouth Woods Assn. (Formerly Rockford Camp)",
     "established": "1984",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "Dartmouth Rd",
       "city": "Williams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [

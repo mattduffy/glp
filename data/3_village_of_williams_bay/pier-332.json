@@ -1,18 +1,20 @@
 {
   "pier": "332",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.547038",
+    "lat": "42.566921",
+    "geohash": "dp941j44230",
+    "pluscode": "HF83+Q58 Williams Bay, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "154 Wood St",
       "city": "Williams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [

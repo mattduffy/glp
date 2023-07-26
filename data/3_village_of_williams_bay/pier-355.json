@@ -3,16 +3,18 @@
   "loc": {
     "lon": "",
     "lat": "",
-    "geohash": ""
+    "geohash": "",
+    "pluscode": ""
   },
   "property": {
     "association": "Oak Bank",
     "established": "",
+    "tel": "",
     "address": {
       "street": "",
       "city": "Williams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [

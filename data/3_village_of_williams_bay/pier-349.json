@@ -3,16 +3,18 @@
   "loc": {
     "lon": "",
     "lat": "",
-    "geohash": ""
+    "geohash": "",
+    "pluscode": ""
   },
   "property": {
     "association": "Yerkes Observatory",
     "established": "1895",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "373 W Geneva St",
       "city": "Williams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [

@@ -1,18 +1,20 @@
 {
   "pier": "361A",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.560979",
+    "lat": "42.563798",
+    "geohash": "dp940sxb5d0",
+    "pluscode": "HC7Q+GJ6 Williams Bay, Wisconsin"
   },
   "property": {
     "association": "Lake Geneva Fresh Air Association (Holiday Home)",
     "established": "1887",
+    "tel": "+1(262) 245-5161",
     "address": {
-      "street": "",
+      "street": "100 Holiday Home Camp Rd",
       "city": "Williams Bay",
       "state": "WI",
-      "zip": ""
+      "zip": "53191"
     }
   },
   "owners": [
