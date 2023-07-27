@@ -1,18 +1,20 @@
 {
   "pier": "376A",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.565444",
+    "lat": "42.559625",
+    "geohash": "dp940esxg90",
+    "pluscode": "HC5M+RRV Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "547 N Lakeshore Dr",
       "city": "Fontana",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [
