@@ -1,18 +1,20 @@
 {
   "pier": "389",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.569024",
+    "lat": "42.557655",
+    "geohash": "dp940e6h210",
+    "pluscode": "HC5J+399 Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
     "association": "Hawks Woods",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "453 N Lakeshore Dr",
       "city": "Fontana",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [
