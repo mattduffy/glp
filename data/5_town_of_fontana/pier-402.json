@@ -1,18 +1,20 @@
 {
   "pier": "402",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.570851",
+    "lat": "42.553806",
+    "geohash": "dp940d8tvs0",
+    "pluscode": "HC3H+GMC Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
     "association": "Buena Vista",
     "established": "1912",
+    "tel": "",
     "address": {
       "street": "",
       "city": "Fontana",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [

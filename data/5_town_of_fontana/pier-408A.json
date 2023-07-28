@@ -3,16 +3,18 @@
   "loc": {
     "lon": "",
     "lat": "",
-    "geohash": ""
+    "geohash": "",
+    "pluscode": ""
   },
   "property": {
     "association": "Buena Vista",
     "established": "1912",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "375 Sylvan Ln",
       "city": "Fontana",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [

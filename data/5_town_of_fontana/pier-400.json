@@ -1,18 +1,20 @@
 {
   "pier": "400",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.570864",
+    "lat": "42.554110",
+    "geohash": "dp940d8xtk0",
+    "pluscode": "HC3H+JMR Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
     "association": "Buena Vista",
     "established": "1912",
+    "tel": "",
     "address": {
       "street": "",
       "city": "Fontana",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [

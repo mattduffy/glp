@@ -1,15 +1,17 @@
 {
   "pier": "412",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.572019",
+    "lat": "42.551013",
+    "geohash": "dp9406pvd70",
+    "pluscode": "HC2H+C55 Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
     "association": "Fontana Shores Condo",
     "established": "1968",
+    "tel": "+1(815) 404-6762",
     "address": {
-      "street": "",
+      "street": "150 Lake St",
       "city": "Fontana",
       "state": "WI",
       "zip": ""
