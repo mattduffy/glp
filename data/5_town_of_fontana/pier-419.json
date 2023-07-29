@@ -1,18 +1,20 @@
 {
   "pier": "419",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.571557",
+    "lat": "42.549811",
+    "geohash": "dp9409bnt50",
+    "pluscode": "GCXH+W9G Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "+1(262) 275-5222",
     "address": {
-      "street": "",
+      "street": "352 Lake St",
       "city": "Fontana",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [
