@@ -1,18 +1,20 @@
 {
   "pier": "439",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.569949",
+    "lat": "42.546349",
+    "geohash": "dp9409366w0",
+    "pluscode": "GCWJ+G2M Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
     "association": "Country Club Estates",
     "established": "1926",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "Harvard Ave",
       "city": "Fontana",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [

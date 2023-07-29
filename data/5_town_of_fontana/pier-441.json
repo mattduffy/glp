@@ -1,18 +1,20 @@
 {
   "pier": "441",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.568008",
+    "lat": "42.545819",
+    "geohash": "dp94094xrg0",
+    "pluscode": "GCWJ+F29 Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
     "association": "Glenwood Springs",
     "established": "1892",
+    "tel": "",
     "address": {
       "street": "",
       "city": "Fontana",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [

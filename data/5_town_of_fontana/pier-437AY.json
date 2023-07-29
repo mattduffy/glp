@@ -1,18 +1,20 @@
 {
   "pier": "437AY",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.570152",
+    "lat": "42.546636",
+    "geohash": "dp94093hjg0",
+    "pluscode": "GCWH+MW5 Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
     "association": "Abbey Harbor Yacht Club",
     "established": "",
+    "tel": "+1(262) 394-5544",
     "address": {
-      "street": "",
+      "street": "271 Fontana Blvd",
       "city": "Fontana",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [
@@ -22,6 +24,15 @@
       "membershipType": "Residential Non-member",
       "members": [
         { "t": "", "f": "Abbey Harbor Y.C. Docks", "m": "", "l": "", "s": "" }
+      ]
+    },
+    {
+      "estateName": "",
+      "member": false,
+      "membershipType": "Residential Non-member",
+      "members": [
+        { "t": "", "f": "Edward", "m": "", "l": "Breen", "s": "" },
+        { "t": "", "f": "Elizabeth", "m": "", "l": "Davis", "s": "" }
       ]
     },
     {

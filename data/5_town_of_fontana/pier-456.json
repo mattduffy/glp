@@ -3,16 +3,18 @@
   "loc": {
     "lon": "",
     "lat": "",
-    "geohash": ""
+    "geohash": "",
+    "pluscode": ""
   },
   "property": {
     "association": "Glenwood Springs",
     "established": "1892",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "659 Linden Dr",
       "city": "Fontana",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [
