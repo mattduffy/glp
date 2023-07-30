@@ -1,18 +1,21 @@
 {
   "pier": "519",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.539253",
+    "lat": "42.549215",
+    "geohash": "dp9411zeju0",
+    "pluscode": "GFX6+M7Q Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
     "association": "Brookwood",
     "established": "1956",
+    "associationUrl": "",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "1160 Lower Brookwood Dr",
       "city": "Fontana",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [

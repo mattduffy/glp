@@ -1,18 +1,21 @@
 {
   "pier": "517B",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.540282",
+    "lat": "42.548872",
+    "geohash": "dp9411ycju0",
+    "pluscode": "GFX5+GVW Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
     "association": "Clear Sky Lodge Assn.",
     "established": "1989",
+    "associationUrl": "http://www.clearskylodge.com/",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "1100 S Lakeshore Dr",
       "city": "Fontana",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [

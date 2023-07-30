@@ -1,18 +1,21 @@
 {
   "pier": "521",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.537068",
+    "lat": "42.549300",
+    "geohash": "dp9413c78u0",
+    "pluscode": "GFX7+P5F Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
     "association": "Ten Acre Wood",
     "established": "",
+    "associationUrl": "",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "1216 S Lakeshore Dr",
       "city": "Fontana",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [

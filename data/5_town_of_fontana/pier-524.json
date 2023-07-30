@@ -1,18 +1,21 @@
 {
   "pier": "524",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.535571",
+    "lat": "42.549672",
+    "geohash": "dp9413fmg90",
+    "pluscode": "GFX7+VQ7 Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
     "association": "Lake Geneva Yacht Club",
     "established": "1874",
+    "associationUrl": "http://www.lgyc.com/",
+    "tel": "+1(262) 275-2727",
     "address": {
-      "street": "",
+      "street": "1250 S Lake Shore Dr",
       "city": "Fontana",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [
