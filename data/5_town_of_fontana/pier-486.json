@@ -1,18 +1,20 @@
 {
   "pier": "486",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.557916",
+    "lat": "42.547313",
+    "geohash": "dp940cd04f0",
+    "pluscode": "GCWR+WRG Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "660 S Lakeshore Dr",
       "city": "Fontana",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [
@@ -28,7 +30,9 @@
       "estateName": "",
       "member": false,
       "membershipType": "Residential Non-member",
-      "members": []
+      "members": [
+        { "t": "", "f": "MVK House Partners LLC", "m": "", "l": "", "s": "" }
+      ]
     }
   ]
 }

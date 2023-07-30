@@ -1,18 +1,20 @@
 {
   "pier": "502",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.547795",
+    "lat": "42.547935",
+    "geohash": "dp941197wv0",
+    "pluscode": "GFX2+5VG Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
     "association": "Westgate",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "956 S Lakeshore Dr",
       "city": "Fontana",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [

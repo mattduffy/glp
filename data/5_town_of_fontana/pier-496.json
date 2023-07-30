@@ -1,18 +1,20 @@
 {
   "pier": "496",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.553199",
+    "lat": "42.548251",
+    "geohash": "dp940ctt8b0",
+    "pluscode": "GCXW+8P3 Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
     "association": "Harvard Club",
     "established": "1875",
+    "tel": "",
     "address": {
       "street": "",
       "city": "Fontana",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [

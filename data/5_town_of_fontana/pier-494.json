@@ -1,18 +1,20 @@
 {
   "pier": "494",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.554550",
+    "lat": "42.547836",
+    "geohash": "dp940cse170",
+    "pluscode": "GCXW+45P Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
     "association": "Sylvan Glen",
     "established": "1900",
+    "tel": "",
     "address": {
       "street": "",
       "city": "Fontana",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [
