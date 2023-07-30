@@ -1,18 +1,20 @@
 {
   "pier": "479",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.560807",
+    "lat": "42.546950",
+    "geohash": "dp9409rvzw0",
+    "pluscode": "GCWQ+QMG Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
     "association": "Club Unique",
     "established": "1927",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "660 Cherry Dr",
       "city": "Fontana",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [

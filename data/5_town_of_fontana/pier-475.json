@@ -1,18 +1,20 @@
 {
   "pier": "475",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.562258",
+    "lat": "42.546675",
+    "geohash": "dp9409qumg0",
+    "pluscode": "GCWQ+M39 Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
     "association": "Indian Hills",
     "established": "1927",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "556 Sauk Trl",
       "city": "Fontana",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [
