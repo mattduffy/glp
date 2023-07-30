@@ -1,26 +1,30 @@
 {
   "pier": "504A",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.546773",
+    "lat": "42.547883",
+    "geohash": "dp9411d5qs0",
+    "pluscode": "GFX3+575 Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "984 S Lakeshore Dr",
       "city": "Fontana",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [
     {
-      "estateName": "",
+      "estateName": "Eastgate",
       "member": false,
       "membershipType": "Residential Non-member",
-      "members": []
+      "members": [
+        { "t": "", "f": "VEL Family Partnership", "m": "", "l": "", "s": "" }
+      ]
     }
   ]
 }

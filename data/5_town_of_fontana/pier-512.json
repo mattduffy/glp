@@ -1,18 +1,20 @@
 {
   "pier": "512",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.543354",
+    "lat": "42.548334",
+    "geohash": "dp9411swn20",
+    "pluscode": "GFX4+8MJ Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "tel": "",
     "address": {
-      "street": "",
+      "street": "1056 S Lakeshore Dr",
       "city": "Fontana",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [
