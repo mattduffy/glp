@@ -1,18 +1,21 @@
 {
   "pier": "530",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.533043",
+    "lat": "42.549715",
+    "geohash": "dp9413unn90",
+    "pluscode": "GFX8+VQP Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
     "association": "Oak Shores",
     "established": "1950",
+    "associationUrl": "",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "N1554 Oak Shores St",
+      "city": "Fontana",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [

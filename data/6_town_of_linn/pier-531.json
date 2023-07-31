@@ -1,18 +1,21 @@
 {
   "pier": "531",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.532495",
+    "lat": "42.550134",
+    "geohash": "dp9416h8e20",
+    "pluscode": "HF29+322 Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
     "association": "Lake Geneva Club",
     "established": "1922",
+    "associationUrl": "",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "Lake Geneva Clb",
+      "city": "Fontana",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [
