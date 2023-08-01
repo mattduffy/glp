@@ -1,18 +1,21 @@
 {
   "pier": "570",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.513722",
+    "lat": "42.555362",
+    "geohash": "dp941ffqby0",
+    "pluscode": "HF4P+4GR Williams Bay, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "associationUrl": "",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "W4284 The Lindens",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [

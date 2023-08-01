@@ -1,18 +1,21 @@
 {
   "pier": "545",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.527696",
+    "lat": "42.550315",
+    "geohash": "dp941d01e10",
+    "pluscode": "HF2C+4WF Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
     "association": "South Shore Club",
     "established": "2001",
+    "associationUrl": "",
+    "tel": "",
     "address": {
       "street": "",
-      "city": "Linn",
+      "city": "Fontana",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [

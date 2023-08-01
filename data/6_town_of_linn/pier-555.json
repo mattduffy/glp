@@ -1,18 +1,21 @@
 {
   "pier": "555",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.520751",
+    "lat": "42.550843",
+    "geohash": "dp941djhsg0",
+    "pluscode": "HF2H+8MQ Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "associationUrl": "",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "W4458 Basswood Dr",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [
@@ -24,12 +27,6 @@
         { "t": "", "f": "Melissa", "m": "", "l": "Herrman", "s": "" },
         { "t": "", "f": "Bob", "m": "", "l": "Herrman", "s": "" }
       ]
-    },
-    {
-      "estateName": "",
-      "member": false,
-      "membershipType": "Residential Non-member",
-      "members": []
     }
   ]
 }

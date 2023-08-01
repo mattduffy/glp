@@ -1,18 +1,21 @@
 {
   "pier": "545A",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.528216",
+    "lat": "42.550263",
+    "geohash": "dp9416p9r00",
+    "pluscode": "HF2C+4P3 Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "associationUrl": "",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "N1585 Shadow Ln",
+      "city": "Fontana",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [

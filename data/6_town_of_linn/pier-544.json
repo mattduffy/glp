@@ -1,18 +1,21 @@
 {
   "pier": "544",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.528679",
+    "lat": "42.550425",
+    "geohash": "dp9416p6hq0",
+    "pluscode": "HF2C+5GG Fontana-On-Geneva Lake, Wisconsin"
   },
   "property": {
-    "association": "Sybil Lane Assn.",
+    "association": "Sybil Lane Association",
     "established": "1914",
+    "associationUrl": "",
+    "tel": "",
     "address": {
       "street": "",
-      "city": "Linn",
+      "city": "Fontana",
       "state": "WI",
-      "zip": ""
+      "zip": "53125"
     }
   },
   "owners": [
