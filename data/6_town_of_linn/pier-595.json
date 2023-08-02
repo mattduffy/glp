@@ -3,16 +3,19 @@
   "loc": {
     "lon": "",
     "lat": "",
-    "geohash": ""
+    "geohash": "",
+    "pluscode": ""
   },
   "property": {
     "association": "Estates of Black Point",
     "established": "1888",
+    "associationUrl": "",
+    "tel": "",
     "address": {
       "street": "",
-      "city": "Linn",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [

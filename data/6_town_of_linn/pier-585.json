@@ -1,18 +1,21 @@
 {
   "pier": "585",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.511631",
+    "lat": "42.559247",
+    "geohash": "dp941gev9d0",
+    "pluscode": "HF5Q+M8X Williams Bay, Wisconsin"
   },
   "property": {
     "association": "Estates of Black Point",
     "established": "1888",
+    "associationUrl": "",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "W4268 Southland Rd",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [
