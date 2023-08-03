@@ -1,18 +1,21 @@
 {
   "pier": "617",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.501292",
+    "lat": "42.559235",
+    "geohash": "dp9445emd20",
+    "pluscode": "HF5X+MFW Williams Bay, Wisconsin"
   },
   "property": {
     "association": "Edgewater Terrace",
     "established": "1925",
+    "associationUrl": "",
+    "tel": "",
     "address": {
       "street": "",
-      "city": "Linn",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [

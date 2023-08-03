@@ -1,18 +1,21 @@
 {
   "pier": "621",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.500863",
+    "lat": "42.559086",
+    "geohash": "dp9445essk0",
+    "pluscode": "HF5X+JMJ Williams Bay, Wisconsin"
   },
   "property": {
     "association": "Edgewater Terrace",
     "established": "1925",
+    "associationUrl": "",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "N1845 Southland Ln",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [
