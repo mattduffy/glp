@@ -1,18 +1,21 @@
 {
   "pier": "679A",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.482651",
+    "lat": "42.564143",
+    "geohash": "dp944s8fhg0",
+    "pluscode": "HG78+MW5 Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "associationUrl": "",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "N1988 Birches Dr",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [

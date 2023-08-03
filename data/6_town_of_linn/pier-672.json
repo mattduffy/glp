@@ -1,18 +1,21 @@
 {
   "pier": "672",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.486661",
+    "lat": "42.562965",
+    "geohash": "dp944kmgpr0",
+    "pluscode": "HG77+58P Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "Birches",
     "established": "1924",
+    "associationUrl": "",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "N1955 Linn Rd",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [
