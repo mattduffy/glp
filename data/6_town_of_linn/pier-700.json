@@ -1,18 +1,21 @@
 {
   "pier": "700",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.474001",
+    "lat": "42.563468",
+    "geohash": "dp944srnnm0",
+    "pluscode": "HG7G+99Q Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "700 Lake Shore Drive Association",
     "established": "1950",
+    "associationUrl": "",
+    "tel": "",
     "address": {
       "street": "",
-      "city": "Linn",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [
