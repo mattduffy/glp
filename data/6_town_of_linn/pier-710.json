@@ -1,18 +1,21 @@
 {
   "pier": "710",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.471709",
+    "lat": "42.562925",
+    "geohash": "dp944u2g5b0",
+    "pluscode": "HG7H+58F Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "Lake Geneva Country Club",
     "established": "1895",
+    "associationUrl": "",
+    "tel": "+1(262) 248-2752",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "W3398 S Lake Shore Dr",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [

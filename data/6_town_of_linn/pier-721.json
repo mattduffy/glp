@@ -1,18 +1,21 @@
 {
   "pier": "721",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.464640",
+    "lat": "42.558614",
+    "geohash": "dp944gw1bk0",
+    "pluscode": "HG5P+C4X Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "Trinke Estates",
     "established": "1951",
+    "associationUrl": "",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "N1853 Wildwood Dr",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [
