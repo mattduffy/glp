@@ -1,10 +1,10 @@
 {
   "pier": "742",
   "loc": {
-    "lon": "-88.464369",
-    "lat": "42.558091",
-    "geohash": "dp944gqnyg0",
-    "pluscode": "HG5P+67J Lake Geneva, Wisconsin"
+    "lon": "-88.463475",
+    "lat": "42.558040",
+    "geohash": "dp944gqye90",
+    "pluscode": "HG5P+6J6 Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "Trinke Estates",
@@ -12,7 +12,7 @@
     "associationUrl": "",
     "tel": "",
     "address": {
-      "street": "W3315 Burr Oak Dr",
+      "street": "W3322 Burr Oak Dr",
       "city": "Lake Geneva",
       "state": "WI",
       "zip": "53147"
