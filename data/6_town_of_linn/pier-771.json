@@ -1,18 +1,21 @@
 {
   "pier": "771",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.454266",
+    "lat": "42.559332",
+    "geohash": "dp9455tw440",
+    "pluscode": "HG5W+P7Q Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "associationUrl": "",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "N1884 Sidney Smith Ln",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [
