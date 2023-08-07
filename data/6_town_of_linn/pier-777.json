@@ -1,18 +1,21 @@
 {
   "pier": "777",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.448292",
+    "lat": "42.561988",
+    "geohash": "dp945k1vt30",
+    "pluscode": "HH62+QMW Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "WF Association",
     "established": "",
+    "associationUrl": "",
+    "tel": "",
     "address": {
       "street": "",
-      "city": "Linn",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [

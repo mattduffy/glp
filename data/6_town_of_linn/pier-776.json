@@ -1,10 +1,10 @@
 {
   "pier": "776",
   "loc": {
-    "lon": "-88.462091",
-    "lat": "42.558140",
-    "geohash": "dp944grz5u0",
-    "pluscode": "HG5Q+753 Lake Geneva, Wisconsin"
+    "lon": "-88.448990",
+    "lat": "42.561766",
+    "geohash": "dp945k1km00",
+    "pluscode": "HH62+PC2 Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "",
@@ -12,7 +12,7 @@
     "associationUrl": "",
     "tel": "",
     "address": {
-      "street": "W3294 Park Dr",
+      "street": "W3008 S Lakeshore Dr",
       "city": "Lake Geneva",
       "state": "WI",
       "zip": "53147"

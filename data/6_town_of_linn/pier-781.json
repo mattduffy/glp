@@ -1,18 +1,21 @@
 {
   "pier": "781",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.445208",
+    "lat": "42.563393",
+    "geohash": "dp945kkjtr0",
+    "pluscode": "HH73+9W3 Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "associationUrl": "",
+    "tel": "",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "N1931 Hunt Club Ln",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [
