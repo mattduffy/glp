@@ -1,18 +1,21 @@
 {
   "pier": "810",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.437730",
+    "lat": "42.565444",
+    "geohash": "dp945sc9et0",
+    "pluscode": "HH86+5WC Lake Geneva, Wisconsin"
   },
   "property": {
-    "association": "",
-    "established": "",
+    "association": "Fairwyn",
+    "established": "1993",
+    "associationUrl": "https://fairwyn.com/",
+    "tel": "+1(262) 248-5010",
     "address": {
-      "street": "",
-      "city": "Linn",
+      "street": "N2048 S Lakeshore Dr",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [
@@ -21,7 +24,7 @@
       "member": false,
       "membershipType": "Residential Non-member",
       "members": [
-        { "t": "", "f": "Pollard", "m": "C", "l": "", "s": "" }
+        { "t": "", "f": "Pollard", "m": "", "l": "", "s": "" }
       ]
     }
   ]

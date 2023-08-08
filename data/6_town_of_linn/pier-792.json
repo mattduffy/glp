@@ -1,18 +1,21 @@
 {
   "pier": "792",
   "loc": {
-    "lon": "",
-    "lat": "",
-    "geohash": ""
+    "lon": "-88.442232",
+    "lat": "42.564316",
+    "geohash": "dp945kw74e0",
+    "pluscode": "HH75+P4C Lake Geneva, Wisconsin"
   },
   "property": {
     "association": "",
     "established": "",
+    "associationUrl": "",
+    "tel": "",
     "address": {
       "street": "",
-      "city": "Linn",
+      "city": "Lake Geneva",
       "state": "WI",
-      "zip": ""
+      "zip": "53147"
     }
   },
   "owners": [
@@ -23,14 +26,6 @@
       "members": [
         { "t": "", "f": "David", "m": "", "l": "Magnuson", "s": "" },
         { "t": "", "f": "Carol", "m": "", "l": "Magnuson", "s": "" }
-      ]
-    },
-    {
-      "estateName": "",
-      "member": true,
-      "membershipType": "Contributing",
-      "members": [
-        { "t": "", "f": "Mark", "m": "", "l": "Magnuson", "s": "" }
       ]
     }
   ]
